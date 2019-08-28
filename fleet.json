@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Sea-Lady",
+    "type": "Bulk Carrier",
+    "imo": "9266188",
+    "callsign": "V7XH9",
+    "mmsi": "538004485"
+  }, {
+    "name": "Sea-Lady-Ii",
+    "type": "Yacht",
+    "imo": "9096703",
+    "callsign": "9HB2175",
+    "mmsi": "215628000"
+  }, {
+    "name": "Sealand-Atlantic",
+    "type": "Container Ship",
+    "imo": "8212685",
+    "callsign": "V7RH2",
+    "mmsi": "538003504"
+  }
+]
