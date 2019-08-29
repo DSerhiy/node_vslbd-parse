@@ -2,9 +2,8 @@ const fetch = require("node-fetch");
 const fs = require("fs");
 
 const abc = 'ABCDEFGHIKLMNOPQRSTVXYZ';
-const vsldb = [];
 
-fillDB(vsldb, 1, abc.indexOf('C'));
+fillDB([], 1, abc.indexOf('G'));
 
 function fillDB(vsldb, page, lettreIndex) {
   let url = `https://www.vesseltracker.com/en/vessels.html?page=${page}&search=${abc[lettreIndex]}`;
@@ -16,11 +15,16 @@ function fillDB(vsldb, page, lettreIndex) {
         throw `next letter: ${abc[lettreIndex + 1]}`;
       }
 
+      console.log(abc[lettreIndex], page);
+
       const name = text.match(/class="name">\S*<\//g);
-      const type = text.match(/class="type">\D*<\/span/g);
+      const type = text.match(/class="type">[\w\d\s\[\]\.\_]*<\/span/g);
       const imo = text.match(/imo">\S*<\/s/g);
       const callSign = text.match(/callsign">\S*<\/s/g);
       const mmsi = text.match(/mmsi">\S*<\/s/g);
+
+      // console.log(name.length, type.length, imo.length, callSign.length, mmsi.length);
+      // console.log(type, type.length);
             
       for(let i = 0; i < name.length; i++) {  
         const vsl = {};   
@@ -35,25 +39,22 @@ function fillDB(vsldb, page, lettreIndex) {
 
         if(vsldb.length % 100 === 0)
           console.log(vsldb.length);
-      };    
+      };   
 
-      console.log(abc[lettreIndex], page)
       fillDB(vsldb, page + 1, lettreIndex);
     })
     .catch(err => {
       console.log(err);
+      
+      fs.writeFile(`./vsl-db/db_${abc[lettreIndex]}.json`, JSON.stringify(vsldb), err => {
+        if (err) throw err;
 
-      if(abc[lettreIndex] === 'C') {
-        fs.writeFile("db_C.json", JSON.stringify(vsldb), err => {
-          if (err) throw err;
-          console.log('The file has been saved!');
-        });
-      } else {
-        fillDB(vsldb, 1, lettreIndex + 1);
-      }
+        console.log('The file has been saved!');
         
+        if(abc[lettreIndex] !== 'Z')
+          fillDB([], 1, lettreIndex + 1);
+      });
     });
-
 }
 
 function parseData1(str) {

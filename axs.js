@@ -1,13 +1,14 @@
 const fetch = require("node-fetch");
 const fs = require("fs");
 
-const vsldb = JSON.parse(fs.readFileSync('./fleet.json'));
+const vsldb = JSON.parse(fs.readFileSync('./vsl-db/db_C.json'));
 
 fillVslDescription(vsldb);
 
 function fillVslDescription(fleet, vslIndex = 0) {
   let url = `https://axsdry.axsmarine.com/common/server/controller_tech_data.php?_dc=1566941153072&out=echo&encoder=json&IMO=${fleet[vslIndex].imo}&launch=get_vessel_tech_desc`;
-  const cookie = 'cuvid=cc1400b0579a4acf8ffee929919c37a0; PHPSESSID=a7258933c1760686904af12e524411d7; axs-webfarm=s1; cusid=1566999213117; cuvon=1566999217147; _oidc_t=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InNpZy1ycy0wIn0.eyJzdWIiOiJtaWtlcnllOEBvdXRsb29rLmNvbSIsIm5vbmNlIjoiYWEwYjRmMDBmZWJhOWIzN2UzY2JjMzliZWQxMDViYzAiLCJhdF9oYXNoIjoiVTlOMW5CbkZJNi1yUFNON1NyZE03QSIsInNpZCI6IjRhNmM3ZGMzLTM2M2EtNDdlMC1iMjE0LTFiNzU4YmM5N2I2MCIsImF1ZCI6IkF4c0RyeSIsImV4cCI6MTU2NzAwMjgzOCwiaWF0IjoxNTY2OTk5MjM4LCJpc3MiOiJodHRwczovL3BvcnRhbC5heHNtYXJpbmUuY29tIn0.CZaLs0SZ87FYtYm8n1hJeJpHPWIi0OaNc9wCvelJ7Sfh842sv9ls5XygIY3Bxg9Dri7GnFl5PDiMjPvrEU9IEQKp08bj33JN1VsenVWIL7DMB0-hJr-RTWSwpN1qlasB8IezBM2TBE_rVbDdwrnQNUWvyZUHnworN0JF_2f-9vqcIv-QhFcWK9mxkcUfG2Ivbju0VJunWum07LMQVMX4V89LhOiARkBENDNc8t0CF2sZdcoIG6Z3TeZgr5su35snQEX4FfEZEZGI164zKhw4goyLGux_e4JX3YcpP6IaS48fniTBvL6UL-uwwVV4yQwng8ChCv9yvZhhEgYSPYlzsw; axsmarineV4=ebff1b9f13f6d387edc25b5053c7d9f09d759d3b; site24x7rumID=489770796246437.1566999242242'
+
+  const cookie = 'cuvid=c56c6b363e784d3cbdf20d8998884fac; cusid=1567016683136; cuvon=1567016686631; PHPSESSID=33597662059a66a9764410b29fa3aaab; axs-webfarm=s2; _oidc_t=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InNpZy1ycy0wIn0.eyJzdWIiOiJtaWtlcnllOEBvdXRsb29rLmNvbSIsIm5vbmNlIjoiZGViNGU3YjQ5YjRlMDVhMGVhODM2NWZiZDM0YTg3ZDgiLCJhdF9oYXNoIjoiWm1ZMFB6VTBEX1RBX25wMHppYzF2USIsInNpZCI6ImU3ZWM0YTY5LTlmM2YtNDhmYS04Y2M0LWMyZWQzMjhkZTJkMSIsImF1ZCI6IkF4c0RyeSIsImV4cCI6MTU2NzAyMDMwNiwiaWF0IjoxNTY3MDE2NzA2LCJpc3MiOiJodHRwczovL3BvcnRhbC5heHNtYXJpbmUuY29tIn0.L8tsrHARjKxvHp05Gjbw6D5_WPChps0BDzh75Gsm7J_SBeCnFU9x5OPuKHM_sEUWGABiRyMVNUPN_reKgEDnWLhimL5EToFEw2GvER7am0WuxNpO6K1q714Lr5FhosiPDTTxJjtktZROekCT58lqy6eWMReQ6uPfHsxYK9zWUiomV6Jko3VlGARj4GR1YjXewxP3fHoTCNeSH9AXtFt_knFQUAMz3WPu530hF0Zd732b2ivueQuVvEASm4catGq8sk70FHykxNQ8RisAICsFOySDwlaDg9do0ALO3UjlZhYutOH0vu_uz9W0Lyshstr7PzolPMV9bWmmN1CKZcSFLw; axsmarineV4=1cede3f455c38333a734cafa188a251fdd177c89; site24x7rumID=222896808513945.1567016709096'
   
   fetch(url, 
     { 
@@ -18,12 +19,12 @@ function fillVslDescription(fleet, vslIndex = 0) {
     .then(data => {
       if(data === 'failed')
         console.log('data failed')
-        
+       
+      console.log(vslIndex + 1);  
       fleet[vslIndex].description = data.vdDesc;
       
-      if(vslIndex === fleet.length - 1) {
-        
-        fs.writeFile("fleet_desc.json", JSON.stringify(fleet), err => {
+      if(vslIndex === fleet.length - 1) {        
+        fs.writeFile("./vsl-descr/fleet_C.json", JSON.stringify(fleet), err => {
           if (err) throw err;
           console.log('The file has been saved!');
         });
