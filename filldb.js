@@ -3,7 +3,7 @@ const fs = require("fs");
 
 const abc = 'ABCDEFGHIKLMNOPQRSTVXYZ';
 
-fillDB([], 1, abc.indexOf('G'));
+fillDB([], 1, abc.indexOf('V'));
 
 function fillDB(vsldb, page, lettreIndex) {
   let url = `https://www.vesseltracker.com/en/vessels.html?page=${page}&search=${abc[lettreIndex]}`;
@@ -18,9 +18,9 @@ function fillDB(vsldb, page, lettreIndex) {
       console.log(abc[lettreIndex], page);
 
       const name = text.match(/class="name">\S*<\//g);
-      const type = text.match(/class="type">[\w\d\s\[\]\.\_]*<\/span/g);
+      const type = text.match(/class="type">[\w\d\s\[\]\.\_-]*<\/span/g);
       const imo = text.match(/imo">\S*<\/s/g);
-      const callSign = text.match(/callsign">\S*<\/s/g);
+      const callSign = text.match(/callsign"><span>[\w\d\s]*<\/s/g);
       const mmsi = text.match(/mmsi">\S*<\/s/g);
 
       // console.log(name.length, type.length, imo.length, callSign.length, mmsi.length);
@@ -51,7 +51,7 @@ function fillDB(vsldb, page, lettreIndex) {
 
         console.log('The file has been saved!');
         
-        if(abc[lettreIndex] !== 'Z')
+        if(abc[lettreIndex] !== 'V')
           fillDB([], 1, lettreIndex + 1);
       });
     });

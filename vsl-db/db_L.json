@@ -1,0 +1,7921 @@
+[{
+  "name": "L0tte-Rosalie-Uk297",
+  "type": "Standby Safety Vessel",
+  "imo": "8205785",
+  "callsign": "PDLF",
+  "mmsi": "244190093"
+}, {
+  "name": "La-Bamba",
+  "type": "Bulk Carrier",
+  "imo": "9495363",
+  "callsign": "V7XJ4",
+  "mmsi": "538004494"
+}, {
+  "name": "La-Bamba",
+  "type": "Offshore Support Vessel",
+  "imo": "9680762",
+  "callsign": "XCAS5",
+  "mmsi": "345070056"
+}, {
+  "name": "La-Belle-De-Cadix",
+  "type": "Cruise Ship",
+  "imo": "9068938",
+  "callsign": "ONEK",
+  "mmsi": "205480000"
+}, {
+  "name": "La-Boheme",
+  "type": "Oil Products Tanker",
+  "imo": "9314167",
+  "callsign": "V7CD4",
+  "mmsi": "538005245"
+}, {
+  "name": "La-Boudeuse",
+  "type": "Dredger",
+  "imo": "9303338",
+  "callsign": "LXBH",
+  "mmsi": "253035000"
+}, {
+  "name": "Labrador",
+  "type": "Bulk Carrier",
+  "imo": "9415222",
+  "callsign": "5BXP2",
+  "mmsi": "209008000"
+}, {
+  "name": "Labrador-Strait",
+  "type": "Bulk Carrier",
+  "imo": "9526564",
+  "callsign": "A8TC2",
+  "mmsi": "636091813"
+}, {
+  "name": "La-Briantais",
+  "type": "Bulk Carrier",
+  "imo": "9618006",
+  "callsign": "9HA3381",
+  "mmsi": "229529000"
+}, {
+  "name": "Lacanau",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9377066",
+  "callsign": "FNKK",
+  "mmsi": "228330800"
+}, {
+  "name": "La-Caracola",
+  "type": "Ro Ro Cargo Ship",
+  "imo": "8009088",
+  "callsign": "YYOG",
+  "mmsi": "775353000"
+}, {
+  "name": "Lacerta",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9621601",
+  "callsign": "9HA4246",
+  "mmsi": "249440000"
+}, {
+  "name": "La-Chambordais",
+  "type": "Bulk Carrier",
+  "imo": "9733260",
+  "callsign": "9HA3584",
+  "mmsi": "229759000"
+}, {
+  "name": "La-Chesnais",
+  "type": "Bulk Carrier",
+  "imo": "9691034",
+  "callsign": "9HA4028",
+  "mmsi": "256889000"
+}, {
+  "name": "La-Cheval",
+  "type": "Tug",
+  "imo": "7826910",
+  "callsign": "WSG4013",
+  "mmsi": "367019880"
+}, {
+  "name": "Lacon",
+  "type": "Bulk Carrier",
+  "imo": "9277565",
+  "callsign": "D5KH8",
+  "mmsi": "636017314"
+}, {
+  "name": "Laconic",
+  "type": "Bulk Carrier",
+  "imo": "9541825",
+  "callsign": "SVBO5",
+  "mmsi": "241202000"
+}, {
+  "name": "Lacta",
+  "type": "Bulk Carrier",
+  "imo": "9502362",
+  "callsign": "V7A2389",
+  "mmsi": "538008466"
+}, {
+  "name": "Lada",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9749130",
+  "callsign": "UBUO4",
+  "mmsi": "273385070"
+}, {
+  "name": "Lada",
+  "type": "General Cargo Ship",
+  "imo": "9194050",
+  "callsign": "UEUW",
+  "mmsi": "273362290"
+}, {
+  "name": "Lada-2005",
+  "type": "General Cargo Ship",
+  "imo": "8997144",
+  "callsign": "J8B4824",
+  "mmsi": "375854000"
+}, {
+  "name": "L-Adahna",
+  "type": "Container Ship",
+  "imo": "9708825",
+  "callsign": "9I24",
+  "mmsi": "229927000"
+}, {
+  "name": "La-Dea-Ii",
+  "type": "Service Ship",
+  "imo": "9411549",
+  "callsign": "ZCPJ4",
+  "mmsi": "319152000"
+}, {
+  "name": "Ladejarl",
+  "type": "Passenger Ro Ro Cargo Ship",
+  "imo": "9257448",
+  "callsign": "LLVI",
+  "mmsi": "258177000"
+}, {
+  "name": "Ladon",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9798961",
+  "callsign": "D5OD2",
+  "mmsi": "636018091"
+}, {
+  "name": "Lady-A",
+  "type": "Yacht",
+  "imo": "8977261",
+  "callsign": "2ISW7",
+  "mmsi": "235112536"
+}, {
+  "name": "Lady-Adele",
+  "type": "General Cargo Ship",
+  "imo": "9624859",
+  "callsign": "PBEW",
+  "mmsi": "244730469"
+}, {
+  "name": "Lady-Alara",
+  "type": "Bulk Carrier",
+  "imo": "9449895",
+  "callsign": "V7XB9",
+  "mmsi": "538004443"
+}, {
+  "name": "Lady-Alexandra",
+  "type": "General Cargo Ship",
+  "imo": "9624835",
+  "callsign": "PCES",
+  "mmsi": "246684000"
+}, {
+  "name": "Lady-Alida",
+  "type": "General Cargo Ship",
+  "imo": "9760380",
+  "callsign": "PBFF",
+  "mmsi": "244630415"
+}, {
+  "name": "Lady-Ami",
+  "type": "General Cargo Ship",
+  "imo": "9624861",
+  "callsign": "PCZT",
+  "mmsi": "244850116"
+}, {
+  "name": "Lady-Anastasia",
+  "type": "Service Ship",
+  "imo": "8742496",
+  "callsign": "J8Y4288",
+  "mmsi": "377423000"
+}, {
+  "name": "Lady-Anna",
+  "type": "General Cargo Ship",
+  "imo": "9624811",
+  "callsign": "PCND",
+  "mmsi": "246838000"
+}, {
+  "name": "Lady-Anne-Beau",
+  "type": "General Cargo Ship",
+  "imo": "9760407",
+  "callsign": "PBPM",
+  "mmsi": "244890901"
+}, {
+  "name": "Lady-Anneke",
+  "type": "General Cargo Ship",
+  "imo": "9624823",
+  "callsign": "PCNQ",
+  "mmsi": "246855000"
+}, {
+  "name": "Lady-Anne-lynn",
+  "type": "General Cargo Ship",
+  "imo": "9760392",
+  "callsign": "PCMD",
+  "mmsi": "244710969"
+}, {
+  "name": "Lady-Ann-Magee",
+  "type": "Service Ship",
+  "imo": "1007122",
+  "callsign": "9HA2775",
+  "mmsi": "215660000"
+}, {
+  "name": "Lady-Ariane",
+  "type": "General Cargo Ship",
+  "imo": "9760366",
+  "callsign": "PDBH",
+  "mmsi": "244860278"
+}, {
+  "name": "Lady-Ariette",
+  "type": "General Cargo Ship",
+  "imo": "9760378",
+  "callsign": "PDCZ",
+  "mmsi": "244870420"
+}, {
+  "name": "Lady-Arzu",
+  "type": "Multi Purpose Carrier",
+  "imo": "8903052",
+  "callsign": "3FHU4",
+  "mmsi": "370804000"
+}, {
+  "name": "Lady-Astrid",
+  "type": "Offshore Tug Supply Ship",
+  "imo": "9261877",
+  "callsign": "LMGS3",
+  "mmsi": "533130946"
+}, {
+  "name": "Lady-Astrid",
+  "type": "General Cargo Ship",
+  "imo": "9760419",
+  "callsign": "PCKU",
+  "mmsi": "244020435"
+}, {
+  "name": "Lady-Ayan",
+  "type": "General Cargo Ship",
+  "imo": "9197480",
+  "callsign": "3EET5",
+  "mmsi": "372212000"
+}, {
+  "name": "Lady-Ayse",
+  "type": "Bulk Carrier",
+  "imo": "9227871",
+  "callsign": "3EBE9",
+  "mmsi": "373042000"
+}, {
+  "name": "Lady-Beatrice",
+  "type": "Service Ship",
+  "imo": "1000069",
+  "callsign": "MRPW2",
+  "mmsi": "233219000"
+}, {
+  "name": "Lady-Begum",
+  "type": "Bulk Carrier",
+  "imo": "9625607",
+  "callsign": "V7SA8",
+  "mmsi": "538006850"
+}, {
+  "name": "Lady-Bme",
+  "type": "Lpg Tanker",
+  "imo": "9256729",
+  "callsign": "HOYR",
+  "mmsi": "370903000"
+}, {
+  "name": "Ladybower",
+  "type": "Lpg Tanker",
+  "imo": "9798947",
+  "callsign": "9V5291",
+  "mmsi": "563036300"
+}, {
+  "name": "Lady-Britt",
+  "type": "Service Ship",
+  "imo": "1011056",
+  "callsign": "ZGBD2",
+  "mmsi": "319594000"
+}, {
+  "name": "Lady-Cansen",
+  "type": "Bulk Carrier",
+  "imo": "9515565",
+  "callsign": "V7YL6",
+  "mmsi": "538007235"
+}, {
+  "name": "Lady-Carina",
+  "type": "General Cargo Ship",
+  "imo": "9201827",
+  "callsign": "PFBV",
+  "mmsi": "244621000"
+}, {
+  "name": "Lady-Carmela",
+  "type": "Passenger Ro Ro Cargo Ship",
+  "imo": "7701914",
+  "callsign": "IBBA",
+  "mmsi": "247404300"
+}, {
+  "name": "Lady-Cedros",
+  "type": "Bulk Carrier",
+  "imo": "9165504",
+  "callsign": "DSQV8",
+  "mmsi": "441718000"
+}, {
+  "name": "Lady-Celine",
+  "type": "Bulk Carrier",
+  "imo": "9543342",
+  "callsign": "9HA2913",
+  "mmsi": "256724000"
+}, {
+  "name": "Lady-Charlotte",
+  "type": "Service Ship",
+  "imo": "1007251",
+  "callsign": "9HA3895",
+  "mmsi": "256373000"
+}, {
+  "name": "Ladycharm",
+  "type": "Bulk Carrier",
+  "imo": "9421843",
+  "callsign": "V7PX5",
+  "mmsi": "209171000"
+}, {
+  "name": "Lady-Christina",
+  "type": "General Cargo Ship",
+  "imo": "9201815",
+  "callsign": "PFAC",
+  "mmsi": "244003000"
+}, {
+  "name": "Lady-Christine",
+  "type": "Service Ship",
+  "imo": "1010698",
+  "callsign": "ZGAS2",
+  "mmsi": "319032500"
+}, {
+  "name": "Lady-Clara",
+  "type": "General Cargo Ship",
+  "imo": "9375800",
+  "callsign": "V2CJ2",
+  "mmsi": "305015000"
+}, {
+  "name": "Lady-Clarissa",
+  "type": "General Cargo Ship",
+  "imo": "9201803",
+  "callsign": "PDBB",
+  "mmsi": "246447000"
+}, {
+  "name": "Lady-Claudia",
+  "type": "General Cargo Ship",
+  "imo": "9201798",
+  "callsign": "PCHE",
+  "mmsi": "245772000"
+}, {
+  "name": "Lady-D",
+  "type": "Yacht",
+  "imo": "7644219",
+  "callsign": "ZCXA",
+  "mmsi": "319312000"
+}, {
+  "name": "Lady-Damla",
+  "type": "Bulk Carrier",
+  "imo": "9445045",
+  "callsign": "V7MF8",
+  "mmsi": "538006352"
+}, {
+  "name": "Lady-Darya",
+  "type": "General Cargo Ship",
+  "imo": "9188946",
+  "callsign": "3EJK2",
+  "mmsi": "371193000"
+}, {
+  "name": "Lady-Debbie",
+  "type": "Tug",
+  "imo": "7610024",
+  "callsign": "J8NH",
+  "mmsi": "377901022"
+}, {
+  "name": "Lady-Debora",
+  "type": "General Cargo Ship",
+  "imo": "9147875",
+  "callsign": "V2QG7",
+  "mmsi": "304010760"
+}, {
+  "name": "Lady-Dee",
+  "type": "Service Ship",
+  "imo": "1011240",
+  "callsign": "PCPI",
+  "mmsi": "244814000"
+}, {
+  "name": "Lady-Demet",
+  "type": "Bulk Carrier",
+  "imo": "9625592",
+  "callsign": "V7KX9",
+  "mmsi": "538006903"
+}, {
+  "name": "Lady-Deniz",
+  "type": "Bulk Carrier",
+  "imo": "9550412",
+  "callsign": "V7BY5",
+  "mmsi": "538008114"
+}, {
+  "name": "Lady-Doris",
+  "type": "Bulk Carrier",
+  "imo": "9459955",
+  "callsign": "A8YI4",
+  "mmsi": "636092195"
+}, {
+  "name": "Lady-Duvera",
+  "type": "Service Ship",
+  "imo": "1006568",
+  "callsign": "PB2875",
+  "mmsi": "244650177"
+}, {
+  "name": "Lady-E",
+  "type": "Service Ship",
+  "imo": "1008217",
+  "callsign": "ZC0D7",
+  "mmsi": "319369000"
+}, {
+  "name": "Lady-Elisabeth",
+  "type": "Container Ship",
+  "imo": "9064774",
+  "callsign": "A8QC9",
+  "mmsi": "636091612"
+}, {
+  "name": "Lady-Elizabeth",
+  "type": "Oil Products Tanker",
+  "imo": "9446491",
+  "callsign": "D5FI7",
+  "mmsi": "636016276"
+}, {
+  "name": "Lady-Ellen",
+  "type": "Passenger Ship",
+  "imo": "8634156",
+  "callsign": "SKCL",
+  "mmsi": "265420000"
+}, {
+  "name": "Lady-Ellenii",
+  "type": "Service Ship",
+  "imo": "1005411",
+  "callsign": "ZCCN",
+  "mmsi": "212726000"
+}, {
+  "name": "Lady-Eva",
+  "type": "General Cargo Ship",
+  "imo": "9008110",
+  "callsign": "5VFB4",
+  "mmsi": "671929000"
+}, {
+  "name": "Lady-Farida",
+  "type": "General Cargo Ship",
+  "imo": "8115552",
+  "callsign": "ERSU",
+  "mmsi": "214181921"
+}, {
+  "name": "Lady-Favia",
+  "type": "Lpg Tanker",
+  "imo": "9237890",
+  "callsign": "3WSO7",
+  "mmsi": "574004140"
+}, {
+  "name": "Lady-Gas",
+  "type": "Lpg Tanker",
+  "imo": "9235270",
+  "callsign": "DSRP5",
+  "mmsi": "440387000"
+}, {
+  "name": "Lady-Georgina",
+  "type": "Yacht",
+  "imo": "1002275",
+  "callsign": "GCSF",
+  "mmsi": "232205000"
+}, {
+  "name": "Lady-Gheda-1",
+  "type": "Oil Products Tanker",
+  "imo": "7616004",
+  "callsign": "HP8400",
+  "mmsi": "353174000"
+}, {
+  "name": "Lady-Gio",
+  "type": "Passenger Ship",
+  "imo": "9289879",
+  "callsign": "9HA4963",
+  "mmsi": "215356000"
+}, {
+  "name": "Lady-Giovi",
+  "type": "Bulk Carrier",
+  "imo": "9389227",
+  "callsign": "3ENL5",
+  "mmsi": "353445000"
+}, {
+  "name": "Lady-Goodgirl",
+  "type": "Yacht",
+  "imo": "8990275",
+  "callsign": "9H8679",
+  "mmsi": "256670000"
+}, {
+  "name": "Lady-Hammond",
+  "type": "Offshore Tug Supply Ship",
+  "imo": "8317643",
+  "callsign": "A6E3070",
+  "mmsi": "470909000"
+}, {
+  "name": "Lady-Haya",
+  "type": "Yacht",
+  "imo": "1003827",
+  "callsign": "ZCYI",
+  "mmsi": "319004600"
+}, {
+  "name": "Lady-Hayat",
+  "type": "General Cargo Ship",
+  "imo": "9075450",
+  "callsign": "3FRY6",
+  "mmsi": "373628000"
+}, {
+  "name": "Lady-Hayat",
+  "type": "Yacht",
+  "imo": "1002471",
+  "callsign": "ZDPH8",
+  "mmsi": "236112126"
+}, {
+  "name": "Lady-Helene",
+  "type": "General Cargo Ship",
+  "imo": "9467237",
+  "callsign": "PBGU",
+  "mmsi": "244675000"
+}, {
+  "name": "Lady-Henrietta",
+  "type": "Crude Oil Tanker",
+  "imo": "9604380",
+  "callsign": "9HA3026",
+  "mmsi": "229049000"
+}, {
+  "name": "Lady-Hester",
+  "type": "General Cargo Ship",
+  "imo": "9467249",
+  "callsign": "PBXO",
+  "mmsi": "244997000"
+}, {
+  "name": "Lady-Hilde",
+  "type": "Lpg Tanker",
+  "imo": "9172129",
+  "callsign": "9VHV4",
+  "mmsi": "565039000"
+}, {
+  "name": "Lady-Hind",
+  "type": "Bulk Carrier",
+  "imo": "9114464",
+  "callsign": "9HA2854",
+  "mmsi": "256382000"
+}, {
+  "name": "Lady-I",
+  "type": "Bulk Carrier",
+  "imo": "9336610",
+  "callsign": "V7OA8",
+  "mmsi": "538006527"
+}, {
+  "name": "Lady-Irina",
+  "type": "General Cargo Ship",
+  "imo": "9137038",
+  "callsign": "PEVE",
+  "mmsi": "246394000"
+}, {
+  "name": "Lady-Isabel",
+  "type": "General Cargo Ship",
+  "imo": "9148128",
+  "callsign": "PDGZ",
+  "mmsi": "246248000"
+}, {
+  "name": "Lady-J",
+  "type": "Service Ship",
+  "imo": "8979269",
+  "callsign": "ZCGH7",
+  "mmsi": "319723000"
+}, {
+  "name": "Lady-Jade",
+  "type": "Yacht",
+  "imo": "8678724",
+  "callsign": "ZCXU5",
+  "mmsi": "319640000"
+}, {
+  "name": "Lady-Jasmin",
+  "type": "General Cargo Ship",
+  "imo": "9106974",
+  "callsign": "3EOG7",
+  "mmsi": "374742000"
+}, {
+  "name": "Lady-Jasmine",
+  "type": "General Cargo Ship",
+  "imo": "8131336",
+  "callsign": "9LD2327",
+  "mmsi": "667005027"
+}, {
+  "name": "Lady-Joy",
+  "type": "Service Ship",
+  "imo": "9439010",
+  "callsign": "V7NN5",
+  "mmsi": "538080044"
+}, {
+  "name": "Lady-Kadoorie",
+  "type": "Bulk Carrier",
+  "imo": "9374064",
+  "callsign": "3ERH2",
+  "mmsi": "371272000"
+}, {
+  "name": "Lady-Kathleen",
+  "type": "Lpg Tanker",
+  "imo": "9167411",
+  "callsign": "3WYF7",
+  "mmsi": "574003740"
+}, {
+  "name": "Lady-Kathryn-V",
+  "type": "Service Ship",
+  "imo": "1011068",
+  "callsign": "ZGBK",
+  "mmsi": "319891000"
+}, {
+  "name": "Lady-L",
+  "type": "Service Ship",
+  "imo": "9653044",
+  "callsign": "ZGCF",
+  "mmsi": "319732000"
+}, {
+  "name": "Lady-L",
+  "type": "Multi Purpose Carrier",
+  "imo": "8104187",
+  "callsign": "UBEF",
+  "mmsi": "273312800"
+}, {
+  "name": "Lady-Lara",
+  "type": "Bulk Carrier",
+  "imo": "9157428",
+  "callsign": "9HA3243",
+  "mmsi": "356934000"
+}, {
+  "name": "Lady-Lara",
+  "type": "General Cargo Ship",
+  "imo": "8113592",
+  "callsign": "5VDB3",
+  "mmsi": "671541000"
+}, {
+  "name": "Lady-Lara",
+  "type": "[pleasure_craft.yacht ]",
+  "imo": "1012311",
+  "callsign": "ZGEZ3",
+  "mmsi": "319082300"
+}, {
+  "name": "Lady-Leyla",
+  "type": "General Cargo Ship",
+  "imo": "9106986",
+  "callsign": "3EYY2",
+  "mmsi": "374861000"
+}, {
+  "name": "Lady-Li",
+  "type": "Sailing Vessel",
+  "imo": "1012737",
+  "callsign": "ZGEX2",
+  "mmsi": "319084300"
+}, {
+  "name": "Lady-Lilly",
+  "type": "Bulk Carrier",
+  "imo": "9642021",
+  "callsign": "D5RV7",
+  "mmsi": "636018886"
+}, {
+  "name": "Lady-Linn",
+  "type": "Lpg Tanker",
+  "imo": "9241176",
+  "callsign": "3WWC7",
+  "mmsi": "574004040"
+}, {
+  "name": "Lady-Lucy",
+  "type": "Service Ship",
+  "imo": "8653384",
+  "callsign": "ZGIE6",
+  "mmsi": "319152600"
+}, {
+  "name": "Lady-M",
+  "type": "Service Ship",
+  "imo": "1012012",
+  "callsign": "ZGCY9",
+  "mmsi": "319297000"
+}, {
+  "name": "Lady-M",
+  "type": "Crude Oil Tanker",
+  "imo": "9256858",
+  "callsign": "A8AR9",
+  "mmsi": "636011661"
+}, {
+  "name": "Lady-Malou",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9590723",
+  "callsign": "SVBQ7",
+  "mmsi": "241236000"
+}, {
+  "name": "Lady-Maria",
+  "type": "Livestock Carrier",
+  "imo": "6518425",
+  "callsign": "5IM619",
+  "mmsi": "677062000"
+}, {
+  "name": "Lady-Maria",
+  "type": "Multi Purpose Carrier",
+  "imo": "8500070",
+  "callsign": "5VAG2",
+  "mmsi": "671046000"
+}, {
+  "name": "Lady-Marina",
+  "type": "Service Ship",
+  "imo": "1006295",
+  "callsign": "ZCSE3",
+  "mmsi": "319376000"
+}, {
+  "name": "Lady-Marite",
+  "type": "Bulk Carrier",
+  "imo": "9544712",
+  "callsign": "3FLA",
+  "mmsi": "353544000"
+}, {
+  "name": "Lady-Mary",
+  "type": "General Cargo Ship",
+  "imo": "9375836",
+  "callsign": "V2DI8",
+  "mmsi": "305229000"
+}, {
+  "name": "Lady-Mary",
+  "type": "Bulk Carrier",
+  "imo": "9228992",
+  "callsign": "H9EF",
+  "mmsi": "352391000"
+}, {
+  "name": "Lady-Massa",
+  "type": "General Cargo Ship",
+  "imo": "8215780",
+  "callsign": "8PLZ",
+  "mmsi": "314023000"
+}, {
+  "name": "Lady-May",
+  "type": "Service Ship",
+  "imo": "1012359",
+  "callsign": "ZGDQ9",
+  "mmsi": "319059500"
+}, {
+  "name": "Lady-Me",
+  "type": "Lpg Tanker",
+  "imo": "9364162",
+  "callsign": "H8NM",
+  "mmsi": "370093000"
+}, {
+  "name": "Ladymichelle",
+  "type": "Service Ship",
+  "imo": "1007495",
+  "callsign": "ZGE09",
+  "mmsi": "319076300"
+}, {
+  "name": "Lady-M-I-I",
+  "type": "Service Ship",
+  "imo": "1004819",
+  "callsign": "V7UL4",
+  "mmsi": "538070743"
+}, {
+  "name": "Lady-Mira",
+  "type": "General Cargo Ship",
+  "imo": "8812863",
+  "callsign": "D6A2362",
+  "mmsi": "620362000"
+}, {
+  "name": "Lady-Mm",
+  "type": "Service Ship",
+  "imo": "1007897",
+  "callsign": "ZCIW9",
+  "mmsi": "319928000"
+}, {
+  "name": "Lady-Moura",
+  "type": "Yacht",
+  "imo": "1002380",
+  "callsign": "C6IU6",
+  "mmsi": "309221000"
+}, {
+  "name": "Lady-Nag-Nag",
+  "type": "Service Ship",
+  "imo": "1009742",
+  "callsign": "ZGFB",
+  "mmsi": "319084500"
+}, {
+  "name": "Lady-Naomi",
+  "type": "Passenger Ro Ro Cargo Ship",
+  "imo": "9195107",
+  "callsign": "5WLN",
+  "mmsi": "561001000"
+}, {
+  "name": "Lady-Nariman",
+  "type": "Bulk Carrier",
+  "imo": "7913268",
+  "callsign": "5VBD7",
+  "mmsi": "671199000"
+}, {
+  "name": "Lady-Nola",
+  "type": "General Cargo Ship",
+  "imo": "9243863",
+  "callsign": "PBFO",
+  "mmsi": "244150000"
+}, {
+  "name": "Lady-Nona",
+  "type": "General Cargo Ship",
+  "imo": "9243875",
+  "callsign": "PBGO",
+  "mmsi": "244998000"
+}, {
+  "name": "Lady-Noor",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "8027200",
+  "callsign": "D6A2083",
+  "mmsi": "620083000"
+}, {
+  "name": "Lady-Nora",
+  "type": "General Cargo Ship",
+  "imo": "9243851",
+  "callsign": "PBDN",
+  "mmsi": "245739000"
+}, {
+  "name": "Lady-Nova",
+  "type": "General Cargo Ship",
+  "imo": "9243887",
+  "callsign": "PBGP",
+  "mmsi": "245727000"
+}, {
+  "name": "Lady-Nur",
+  "type": "General Cargo Ship",
+  "imo": "8922278",
+  "callsign": "3FFE2",
+  "mmsi": "373237000"
+}, {
+  "name": "Lady-Nuray",
+  "type": "Container Ship",
+  "imo": "9038373",
+  "callsign": "3FNR2",
+  "mmsi": "356615000"
+}, {
+  "name": "Lady-Nurgul",
+  "type": "General Cargo Ship",
+  "imo": "9361263",
+  "callsign": "H9DN",
+  "mmsi": "372970000"
+}, {
+  "name": "Lady-Nursen",
+  "type": "General Cargo Ship",
+  "imo": "7392919",
+  "callsign": "J8B2261",
+  "mmsi": "377033000"
+}, {
+  "name": "Lady-Of-Chichester",
+  "type": "Dredger",
+  "imo": "7020231",
+  "callsign": "9HLH9",
+  "mmsi": "249127000"
+}, {
+  "name": "Lady-Of-Luck",
+  "type": "Container Ship",
+  "imo": "9160401",
+  "callsign": "3EYW5",
+  "mmsi": "356426000"
+}, {
+  "name": "Lady-Rania",
+  "type": "Oil And Chemical Tanker",
+  "imo": "9784893",
+  "callsign": "UBBO9",
+  "mmsi": "273382620"
+}, {
+  "name": "Lady-Rasha",
+  "type": "Livestock Carrier",
+  "imo": "7223041",
+  "callsign": "5IM407",
+  "mmsi": "677030700"
+}, {
+  "name": "Lady.romney",
+  "type": "Offshore Tug Supply Ship",
+  "imo": "7047203",
+  "callsign": "5VFG4",
+  "mmsi": "671960000"
+}, {
+  "name": "Lady-Rose",
+  "type": "Refrigerated Cargo Ship",
+  "imo": "9355032",
+  "callsign": "3EML2",
+  "mmsi": "357993000"
+}, {
+  "name": "Lady-Rosebay",
+  "type": "Refrigerated Cargo Ship",
+  "imo": "9412751",
+  "callsign": "3FJA8",
+  "mmsi": "370095000"
+}, {
+  "name": "Lady-Rosebud",
+  "type": "Refrigerated Cargo Ship",
+  "imo": "9412749",
+  "callsign": "3FAF5",
+  "mmsi": "351698000"
+}, {
+  "name": "Lady-Rosemary",
+  "type": "Refrigerated Cargo Ship",
+  "imo": "9355044",
+  "callsign": "3EOZ4",
+  "mmsi": "357919000"
+}, {
+  "name": "Lady-S",
+  "type": "Sailing Vessel",
+  "imo": "1013121",
+  "callsign": "ZGHQ9",
+  "mmsi": "319137200"
+}, {
+  "name": "Lady-Saliha",
+  "type": "Bulk Carrier",
+  "imo": "9449871",
+  "callsign": "V7BM9",
+  "mmsi": "538005170"
+}, {
+  "name": "Lady-Sarya",
+  "type": "Yacht",
+  "imo": "1002392",
+  "callsign": "GDRC",
+  "mmsi": "232060000"
+}, {
+  "name": "Lady-Sevda",
+  "type": "Oil Products Tanker",
+  "imo": "9683738",
+  "callsign": "UBWL7",
+  "mmsi": "273342180"
+}, {
+  "name": "Lady-Sham",
+  "type": "General Cargo Ship",
+  "imo": "9171383",
+  "callsign": "9LU2367",
+  "mmsi": "667001564"
+}, {
+  "name": "Lady-Sheridan",
+  "type": "Service Ship",
+  "imo": "1009170",
+  "callsign": "ZCPR6",
+  "mmsi": "319201000"
+}, {
+  "name": "Ladyship",
+  "type": "Sailing Vessel",
+  "imo": "8678293",
+  "callsign": "8PPW",
+  "mmsi": "314137000"
+}, {
+  "name": "Lady-Siria",
+  "type": "General Cargo Ship",
+  "imo": "9163568",
+  "callsign": "V3YV6",
+  "mmsi": "312514000"
+}, {
+  "name": "Lady-Sura",
+  "type": "Service Ship",
+  "imo": "9641560",
+  "callsign": "ZGCP9",
+  "mmsi": "319617000"
+}, {
+  "name": "Lady-Tuna",
+  "type": "Refrigerated Cargo Ship",
+  "imo": "9453418",
+  "callsign": "3EQX2",
+  "mmsi": "374762000"
+}, {
+  "name": "Lady-Valencia",
+  "type": "Lpg Tanker",
+  "imo": "9161077",
+  "callsign": "3ERV5",
+  "mmsi": "355888000"
+}, {
+  "name": "Lady-Von-Buesum",
+  "type": "Passenger Ship",
+  "imo": "8009258",
+  "callsign": "DLRH",
+  "mmsi": "211217290"
+}, {
+  "name": "Lady-Z",
+  "type": "Bulk Carrier",
+  "imo": "9465784",
+  "callsign": "3EWI7",
+  "mmsi": "370377000"
+}, {
+  "name": "Lady-Zona",
+  "type": "General Cargo Ship",
+  "imo": "8027664",
+  "callsign": "9LU2849",
+  "mmsi": "667001300"
+}, {
+  "name": "La-Elite",
+  "type": "Tug",
+  "imo": "7509457",
+  "callsign": "WTQ5579",
+  "mmsi": "367062340"
+}, {
+  "name": "Laerdal",
+  "type": "Passenger Ro Ro Cargo Ship",
+  "imo": "9151565",
+  "callsign": "LIUQ",
+  "mmsi": "259439000"
+}, {
+  "name": "La-Familia",
+  "type": "Sailing Vessel",
+  "imo": "1012660",
+  "callsign": "ZGEO5",
+  "mmsi": "319075600"
+}, {
+  "name": "Lafayette-Bay",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9717785",
+  "callsign": "V7EU6",
+  "mmsi": "538005536"
+}, {
+  "name": "La-Fire-Boat2",
+  "type": "Fire Fighting Vessel",
+  "imo": "9271535",
+  "callsign": "",
+  "mmsi": "338093777"
+}, {
+  "name": "Lafjord",
+  "type": "General Cargo Ship",
+  "imo": "9115937",
+  "callsign": "8PAT4",
+  "mmsi": "314492000"
+}, {
+  "name": "Laga",
+  "type": "General Cargo Ship",
+  "imo": "9214721",
+  "callsign": "EAFC",
+  "mmsi": "224521000"
+}, {
+  "name": "Laganborg",
+  "type": "General Cargo Ship",
+  "imo": "9407419",
+  "callsign": "PHQB",
+  "mmsi": "244297000"
+}, {
+  "name": "Lagarfoss",
+  "type": "Container Ship",
+  "imo": "9641314",
+  "callsign": "OZ2187",
+  "mmsi": "231789000"
+}, {
+  "name": "Lagniappe",
+  "type": "Service Ship",
+  "imo": "8653310",
+  "callsign": "V7XN4",
+  "mmsi": "538070819"
+}, {
+  "name": "Lagoa",
+  "type": "Container Ship",
+  "imo": "9150470",
+  "callsign": "D4HK",
+  "mmsi": "617105000"
+}, {
+  "name": "Lago-Icalma",
+  "type": "Multi Purpose Carrier",
+  "imo": "8421872",
+  "callsign": "CA5379",
+  "mmsi": "725001472"
+}, {
+  "name": "Lagonda",
+  "type": "Bulk Carrier",
+  "imo": "9233868",
+  "callsign": "9HIO7",
+  "mmsi": "215273000"
+}, {
+  "name": "Lagoon-Phoenix",
+  "type": "Refrigerated Cargo Ship",
+  "imo": "9047245",
+  "callsign": "A8OE4",
+  "mmsi": "636018499"
+}, {
+  "name": "Lagorta",
+  "type": "Oil Products Tanker",
+  "imo": "9194012",
+  "callsign": "UBCW",
+  "mmsi": "273435910"
+}, {
+  "name": "Laguepe",
+  "type": "General Cargo Ship",
+  "imo": "8717556",
+  "callsign": "9HAI9",
+  "mmsi": "256681000"
+}, {
+  "name": "La-Guimorais",
+  "type": "Bulk Carrier",
+  "imo": "9618018",
+  "callsign": "9HA3382",
+  "mmsi": "229530000"
+}, {
+  "name": "Laguna-D",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9192375",
+  "callsign": "9HA4718",
+  "mmsi": "248604000"
+}, {
+  "name": "Lahore",
+  "type": "Crude Oil Tanker",
+  "imo": "9277541",
+  "callsign": "AQQC",
+  "mmsi": "463036101"
+}, {
+  "name": "Lai-Bao",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9444807",
+  "callsign": "C2AC2",
+  "mmsi": "544103120"
+}, {
+  "name": "Laida",
+  "type": "General Cargo Ship",
+  "imo": "9214733",
+  "callsign": "EAVE",
+  "mmsi": "224509000"
+}, {
+  "name": "Laigle",
+  "type": "Dredger",
+  "imo": "9303326",
+  "callsign": "LXAG",
+  "mmsi": "253029000"
+}, {
+  "name": "Laila",
+  "type": "Container Ship",
+  "imo": "9377559",
+  "callsign": "CQDP",
+  "mmsi": "255805792"
+}, {
+  "name": "Lakas",
+  "type": "General Cargo Ship",
+  "imo": "9726736",
+  "callsign": "DUGW",
+  "mmsi": "548908000"
+}, {
+  "name": "Lakatamia",
+  "type": "Oil Products Tanker",
+  "imo": "9203796",
+  "callsign": "C6UP8",
+  "mmsi": "311992000"
+}, {
+  "name": "Lake-Castle",
+  "type": "Refrigerated Cargo Ship",
+  "imo": "9004657",
+  "callsign": "D7NB",
+  "mmsi": "440222000"
+}, {
+  "name": "Lake-Como",
+  "type": "Vehicles Carrier",
+  "imo": "9432919",
+  "callsign": "9V2190",
+  "mmsi": "566997000"
+}, {
+  "name": "Lake-D",
+  "type": "Bulk Carrier",
+  "imo": "9590840",
+  "callsign": "3FKW",
+  "mmsi": "352979000"
+}, {
+  "name": "Lake-Dany",
+  "type": "Bulk Carrier",
+  "imo": "9445021",
+  "callsign": "3EPL9",
+  "mmsi": "356476000"
+}, {
+  "name": "Lake-Despina",
+  "type": "Bulk Carrier",
+  "imo": "9675676",
+  "callsign": "5BYX3",
+  "mmsi": "210702000"
+}, {
+  "name": "Lake-Dolphin",
+  "type": "Bulk Carrier",
+  "imo": "9456680",
+  "callsign": "ONHA",
+  "mmsi": "205602000"
+}, {
+  "name": "Lake-Erie",
+  "type": "Bulk Carrier",
+  "imo": "9283540",
+  "callsign": "V2CF1",
+  "mmsi": "304604000"
+}, {
+  "name": "Lake-Express",
+  "type": "Passenger Ro Ro Cargo Ship",
+  "imo": "9329253",
+  "callsign": "WDB7361",
+  "mmsi": "366941210"
+}, {
+  "name": "Lake-Fuxian",
+  "type": "Vehicles Carrier",
+  "imo": "9494905",
+  "callsign": "A8UC7",
+  "mmsi": "636014472"
+}, {
+  "name": "Lake-Geneva",
+  "type": "Vehicles Carrier",
+  "imo": "9713882",
+  "callsign": "D5GF5",
+  "mmsi": "636016445"
+}, {
+  "name": "Lake-Hakone",
+  "type": "Bulk Carrier",
+  "imo": "9550278",
+  "callsign": "9V8320",
+  "mmsi": "565250000"
+}, {
+  "name": "Lake-Kivu",
+  "type": "Vehicles Carrier",
+  "imo": "9308792",
+  "callsign": "D5DX4",
+  "mmsi": "636015993"
+}, {
+  "name": "Lake-Konpira",
+  "type": "Bulk Carrier",
+  "imo": "9515527",
+  "callsign": "3EWH",
+  "mmsi": "355095000"
+}, {
+  "name": "Lake-Nova",
+  "type": "Refrigerated Cargo Ship",
+  "imo": "9009669",
+  "callsign": "D7AL",
+  "mmsi": "440014000"
+}, {
+  "name": "Lake-Ontario",
+  "type": "Bulk Carrier",
+  "imo": "9283538",
+  "callsign": "V2CE9",
+  "mmsi": "304603000"
+}, {
+  "name": "Lake-Pearl",
+  "type": "Refrigerated Cargo Ship",
+  "imo": "9004401",
+  "callsign": "D7TD",
+  "mmsi": "441473000"
+}, {
+  "name": "Lake-Pearl",
+  "type": "Bulk Carrier",
+  "imo": "9401984",
+  "callsign": "C6EH8",
+  "mmsi": "311000899"
+}, {
+  "name": "Lake-St.-Clair",
+  "type": "Bulk Carrier",
+  "imo": "9315549",
+  "callsign": "V2BN9",
+  "mmsi": "304798000"
+}, {
+  "name": "Lake-Sturgeon",
+  "type": "Oil Products Tanker",
+  "imo": "9336517",
+  "callsign": "V7FJ9",
+  "mmsi": "538007282"
+}, {
+  "name": "Lake-Success",
+  "type": "Fish Carrier",
+  "imo": "8702630",
+  "callsign": "D7MQ",
+  "mmsi": "440196000"
+}, {
+  "name": "Lake-Superior",
+  "type": "Vehicles Carrier",
+  "imo": "9325178",
+  "callsign": "D5DX2",
+  "mmsi": "636015991"
+}, {
+  "name": "Lake-Taupo",
+  "type": "Vehicles Carrier",
+  "imo": "9289908",
+  "callsign": "D5EZ7",
+  "mmsi": "636016205"
+}, {
+  "name": "Lake-Trout",
+  "type": "Crude Oil Tanker",
+  "imo": "9314193",
+  "callsign": "V7CS3",
+  "mmsi": "538006216"
+}, {
+  "name": "Lake-Wanaka",
+  "type": "Vehicles Carrier",
+  "imo": "9432892",
+  "callsign": "D5EZ8",
+  "mmsi": "636016206"
+}, {
+  "name": "Lakonia",
+  "type": "Container Ship",
+  "imo": "9248679",
+  "callsign": "VROG2",
+  "mmsi": "477967600"
+}, {
+  "name": "La-Landriais",
+  "type": "Bulk Carrier",
+  "imo": "9646895",
+  "callsign": "9HA3386",
+  "mmsi": "229534000"
+}, {
+  "name": "Lalbatros",
+  "type": "Yacht",
+  "imo": "8741911",
+  "callsign": "ZGAN4",
+  "mmsi": "319032200"
+}, {
+  "name": "Lalinde",
+  "type": "Bulk Carrier",
+  "imo": "9354040",
+  "callsign": "DYOJ",
+  "mmsi": "548740000"
+}, {
+  "name": "Lalis-D",
+  "type": "Bulk Carrier",
+  "imo": "9613666",
+  "callsign": "D5JM2",
+  "mmsi": "636017137"
+}, {
+  "name": "Lalla-Fatma-Nsoumer",
+  "type": "Lng Tanker",
+  "imo": "9275347",
+  "callsign": "C6TT8",
+  "mmsi": "311775000"
+}, {
+  "name": "Laluan",
+  "type": "General Cargo Ship",
+  "imo": "9654476",
+  "callsign": "3FYZ",
+  "mmsi": "371877000"
+}, {
+  "name": "Lama",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9163764",
+  "callsign": "CBML",
+  "mmsi": "725018100"
+}, {
+  "name": "La-Mancha-Knutsen",
+  "type": "Lng Tanker",
+  "imo": "9721724",
+  "callsign": "EARD",
+  "mmsi": "224444000"
+}, {
+  "name": "La-Manche",
+  "type": "Refrigerated Cargo Ship",
+  "imo": "8226739",
+  "callsign": "YJVT7",
+  "mmsi": "576195000"
+}, {
+  "name": "Lamar",
+  "type": "Bulk Carrier",
+  "imo": "9116321",
+  "callsign": "3ERM3",
+  "mmsi": "371974000"
+}, {
+  "name": "La-Masquerade",
+  "type": "Service Ship",
+  "imo": "1007536",
+  "callsign": "MBJN6",
+  "mmsi": "235739000"
+}, {
+  "name": "Lambada-Spirit",
+  "type": "Crude Oil Tanker",
+  "imo": "9637698",
+  "callsign": "C6AN7",
+  "mmsi": "311000098"
+}, {
+  "name": "Lambay",
+  "type": "Bulk Carrier",
+  "imo": "9493925",
+  "callsign": "A8YA6",
+  "mmsi": "636015008"
+}, {
+  "name": "Lambert-Maru",
+  "type": "Bulk Carrier",
+  "imo": "9558206",
+  "callsign": "7JMK",
+  "mmsi": "432870000"
+}, {
+  "name": "Lambi",
+  "type": "Bulk Carrier",
+  "imo": "9595254",
+  "callsign": "9HA3222",
+  "mmsi": "229312000"
+}, {
+  "name": "La-Mirage",
+  "type": "Service Ship",
+  "imo": "1009431",
+  "callsign": "ZCTK7",
+  "mmsi": "319942000"
+}, {
+  "name": "Lammy",
+  "type": "General Cargo Ship",
+  "imo": "9467184",
+  "callsign": "PBRE",
+  "mmsi": "245391000"
+}, {
+  "name": "Lamnalco-Chaika",
+  "type": "Offshore Tug Supply Ship",
+  "imo": "9570711",
+  "callsign": "UBGH",
+  "mmsi": "273351820"
+}, {
+  "name": "Lamnalco-Colibri",
+  "type": "Offshore Tug Supply Ship",
+  "imo": "9319911",
+  "callsign": "5NZY7",
+  "mmsi": "657124700"
+}, {
+  "name": "Lamnalco-Fisa",
+  "type": "Offshore Tug Supply Ship",
+  "imo": "9147643",
+  "callsign": "P3BS9",
+  "mmsi": "209145000"
+}, {
+  "name": "Lamnalco-Magpie",
+  "type": "Offshore Tug Supply Ship",
+  "imo": "9383194",
+  "callsign": "9V3178",
+  "mmsi": "565058500"
+}, {
+  "name": "Lamnalco-Malkoha",
+  "type": "Offshore Tug Supply Ship",
+  "imo": "9383209",
+  "callsign": "9V3179",
+  "mmsi": "563069700"
+}, {
+  "name": "Lampard",
+  "type": "Bulk Carrier",
+  "imo": "9723980",
+  "callsign": "9V5701",
+  "mmsi": "563043700"
+}, {
+  "name": "Lampedusa",
+  "type": "Passenger Ro Ro Cargo Ship",
+  "imo": "7325095",
+  "callsign": "ICTF",
+  "mmsi": "247315500"
+}, {
+  "name": "Lam-Son-01",
+  "type": "Offshore Tug Supply Ship",
+  "imo": "8119120",
+  "callsign": "XVSA",
+  "mmsi": "574079069"
+}, {
+  "name": "Lana",
+  "type": "Container Ship",
+  "imo": "9484522",
+  "callsign": "D5BD7",
+  "mmsi": "636015503"
+}, {
+  "name": "Lana-Rose",
+  "type": "Research Vessel",
+  "imo": "8316857",
+  "callsign": "YJWD5",
+  "mmsi": "576361000"
+}, {
+  "name": "Lan-Bao-Hai",
+  "type": "Bulk Carrier",
+  "imo": "9738105",
+  "callsign": "VRPA8",
+  "mmsi": "477713300"
+}, {
+  "name": "Lan-Bao-Jian-Ni",
+  "type": "General Cargo Ship",
+  "imo": "8904795",
+  "callsign": "T8A3042",
+  "mmsi": "511878000"
+}, {
+  "name": "Lancelot",
+  "type": "Bulk Carrier",
+  "imo": "9587350",
+  "callsign": "5BCE3",
+  "mmsi": "209703000"
+}, {
+  "name": "Lancing",
+  "type": "Oil And Chemical Tanker",
+  "imo": "9792046",
+  "callsign": "C6DR9",
+  "mmsi": "311000766"
+}, {
+  "name": "Landegode",
+  "type": "Passenger Ro Ro Cargo Ship",
+  "imo": "9607370",
+  "callsign": "LCES",
+  "mmsi": "259987000"
+}, {
+  "name": "Landy",
+  "type": "General Cargo Ship",
+  "imo": "9031428",
+  "callsign": "LAFA7",
+  "mmsi": "259743000"
+}, {
+  "name": "Langeland",
+  "type": "Passenger Ro Ro Cargo Ship",
+  "imo": "9596428",
+  "callsign": "OZCU",
+  "mmsi": "219016938"
+}, {
+  "name": "Langeland",
+  "type": "General Cargo Ship",
+  "imo": "8420098",
+  "callsign": "DFZK",
+  "mmsi": "211204290"
+}, {
+  "name": "Langenes",
+  "type": "Fishing Vessel",
+  "imo": "8520795",
+  "callsign": "JXJU",
+  "mmsi": "258186000"
+}, {
+  "name": "Langeness",
+  "type": "Container Ship",
+  "imo": "9301134",
+  "callsign": "V2EP6",
+  "mmsi": "305506000"
+}, {
+  "name": "Langeoog",
+  "type": "General Cargo Ship",
+  "imo": "9506136",
+  "callsign": "V2GK5",
+  "mmsi": "305973000"
+}, {
+  "name": "Langeoog1",
+  "type": "Passenger Ship",
+  "imo": "7939705",
+  "callsign": "DCBJ",
+  "mmsi": "211226480"
+}, {
+  "name": "Langeoog2",
+  "type": "Passenger Ship",
+  "imo": "9032599",
+  "callsign": "DMYJ",
+  "mmsi": "211226490"
+}, {
+  "name": "Langeoog3",
+  "type": "Passenger Ship",
+  "imo": "7811135",
+  "callsign": "DCCC",
+  "mmsi": "211270840"
+}, {
+  "name": "Langeoog-4",
+  "type": "Passenger Ship",
+  "imo": "7822469",
+  "callsign": "DCDJ",
+  "mmsi": "211270830"
+}, {
+  "name": "Langevin",
+  "type": "Research Vessel",
+  "imo": "7932214",
+  "callsign": "FGBP",
+  "mmsi": "227148000"
+}, {
+  "name": "Lange-Wapper",
+  "type": "Hopper Dredger",
+  "imo": "9174139",
+  "callsign": "ORMP",
+  "mmsi": "205309000"
+}, {
+  "name": "Langfoss",
+  "type": "Refrigerated Cargo Ship",
+  "imo": "8915536",
+  "callsign": "LADO8",
+  "mmsi": "257308000"
+}, {
+  "name": "Langoey",
+  "type": "Fishing Vessel",
+  "imo": "9652820",
+  "callsign": "LJWI",
+  "mmsi": "259252000"
+}, {
+  "name": "Langsund",
+  "type": "Fish Carrier",
+  "imo": "9255995",
+  "callsign": "LLPM",
+  "mmsi": "258476000"
+}, {
+  "name": "Lan-Ha",
+  "type": "General Cargo Ship",
+  "imo": "9375642",
+  "callsign": "3WPD",
+  "mmsi": "574347000"
+}, {
+  "name": "Lan-Hua-Hai",
+  "type": "Bulk Carrier",
+  "imo": "9620542",
+  "callsign": "BOVH",
+  "mmsi": "414145000"
+}, {
+  "name": "Lanka-Jaya",
+  "type": "Bulk Carrier",
+  "imo": "9726231",
+  "callsign": "V7MC5",
+  "mmsi": "538006404"
+}, {
+  "name": "Lan-May",
+  "type": "Bulk Carrier",
+  "imo": "9410167",
+  "callsign": "A87",
+  "mmsi": "636014631"
+}, {
+  "name": "Lanna-Naree",
+  "type": "Bulk Carrier",
+  "imo": "9496939",
+  "callsign": "HSGL",
+  "mmsi": "567104000"
+}, {
+  "name": "La-Noumbi",
+  "type": "Crude Oil Tanker",
+  "imo": "9235880",
+  "callsign": "J8B5687",
+  "mmsi": "375114000"
+}, {
+  "name": "Lan-Pan-20",
+  "type": "Tug",
+  "imo": "9562257",
+  "callsign": "9V8116",
+  "mmsi": "564542000"
+}, {
+  "name": "Lanpan-27",
+  "type": "Tug",
+  "imo": "9663556",
+  "callsign": "S6LP7",
+  "mmsi": "566770000"
+}, {
+  "name": "Lantau-Ace",
+  "type": "Container Ship",
+  "imo": "9216353",
+  "callsign": "V7CW5",
+  "mmsi": "538090399"
+}, {
+  "name": "Lantau-Arrow",
+  "type": "Container Ship",
+  "imo": "9220067",
+  "callsign": "V7DF9",
+  "mmsi": "538090400"
+}, {
+  "name": "Lantau-Bay",
+  "type": "Container Ship",
+  "imo": "9383596",
+  "callsign": "V2CW5",
+  "mmsi": "305126000"
+}, {
+  "name": "Lantau-Beach",
+  "type": "Container Ship",
+  "imo": "9392901",
+  "callsign": "V2CW6",
+  "mmsi": "305127000"
+}, {
+  "name": "Lantau-Bee",
+  "type": "Container Ship",
+  "imo": "9404730",
+  "callsign": "V2DR2",
+  "mmsi": "305311000"
+}, {
+  "name": "Lantau-Breeze",
+  "type": "Container Ship",
+  "imo": "9392913",
+  "callsign": "V2DI6",
+  "mmsi": "305227000"
+}, {
+  "name": "Lantau-Bride",
+  "type": "Container Ship",
+  "imo": "9404728",
+  "callsign": "V2DQ9",
+  "mmsi": "305310000"
+}, {
+  "name": "Lantau-Bridge",
+  "type": "Container Ship",
+  "imo": "9402768",
+  "callsign": "V2DI7",
+  "mmsi": "305228000"
+}, {
+  "name": "Laodicea",
+  "type": "General Cargo Ship",
+  "imo": "9274343",
+  "callsign": "YKRM",
+  "mmsi": "468393000"
+}, {
+  "name": "La-Partenais",
+  "type": "Bulk Carrier",
+  "imo": "9691046",
+  "callsign": "9HA4029",
+  "mmsi": "256892000"
+}, {
+  "name": "La-Perla",
+  "type": "Passenger Ship",
+  "imo": "7936806",
+  "callsign": "9AA7523",
+  "mmsi": "238139440"
+}, {
+  "name": "Laperouse",
+  "type": "Lpg Tanker",
+  "imo": "9409156",
+  "callsign": "9HA3963",
+  "mmsi": "256609000"
+}, {
+  "name": "Lapis",
+  "type": "Dredger",
+  "imo": "6807462",
+  "callsign": "OVQM",
+  "mmsi": "219001819"
+}, {
+  "name": "Lapis-Arrow",
+  "type": "Vehicles Carrier",
+  "imo": "9361809",
+  "callsign": "C6VH5",
+  "mmsi": "308808000"
+}, {
+  "name": "Lara",
+  "type": "Passenger Ship",
+  "imo": "8846369",
+  "callsign": "9A4146",
+  "mmsi": "238114040"
+}, {
+  "name": "Lara",
+  "type": "Bulk Carrier",
+  "imo": "9389124",
+  "callsign": "A8NE7",
+  "mmsi": "636013468"
+}, {
+  "name": "Lara",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9396488",
+  "callsign": "V7NV6",
+  "mmsi": "538003027"
+}, {
+  "name": "Lara-1",
+  "type": "Crane Ship",
+  "imo": "8521672",
+  "callsign": "3FAG2",
+  "mmsi": "353602000"
+}, {
+  "name": "Laramie",
+  "type": "Naval Naval Auxiliary",
+  "imo": "8906626",
+  "callsign": "NLAR",
+  "mmsi": "367861000"
+}, {
+  "name": "Lara-Venture",
+  "type": "Bulk Carrier",
+  "imo": "9512575",
+  "callsign": "VRIJ7",
+  "mmsi": "477434300"
+}, {
+  "name": "Largo-Mariner",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9699866",
+  "callsign": "V7UZ6",
+  "mmsi": "538007574"
+}, {
+  "name": "Largona",
+  "type": "General Cargo Ship",
+  "imo": "7713345",
+  "callsign": "J8TE9",
+  "mmsi": "376474000"
+}, {
+  "name": "Largo-Sun",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9746255",
+  "callsign": "D5KQ8",
+  "mmsi": "636017387"
+}, {
+  "name": "La-Richardais",
+  "type": "Bulk Carrier",
+  "imo": "9646900",
+  "callsign": "9HA3385",
+  "mmsi": "229533000"
+}, {
+  "name": "Larissa",
+  "type": "Offshore Support Vessel",
+  "imo": "9521033",
+  "callsign": "LAKX7",
+  "mmsi": "259949000"
+}, {
+  "name": "Lark",
+  "type": "General Cargo Ship",
+  "imo": "8724705",
+  "callsign": "5VDV2",
+  "mmsi": "671655000"
+}, {
+  "name": "Larsholmen",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9436410",
+  "callsign": "V7RU7",
+  "mmsi": "538005556"
+}, {
+  "name": "Lars-Maersk",
+  "type": "Container Ship",
+  "imo": "9294379",
+  "callsign": "OVSB2",
+  "mmsi": "220291000"
+}, {
+  "name": "Larus",
+  "type": "Bulk Carrier",
+  "imo": "9241346",
+  "callsign": "H9WR",
+  "mmsi": "351049000"
+}, {
+  "name": "Larus",
+  "type": "Offshore Tug Supply Ship",
+  "imo": "9642588",
+  "callsign": "PV2345",
+  "mmsi": "710001926"
+}, {
+  "name": "Larvik",
+  "type": "Crude Oil Tanker",
+  "imo": "9307346",
+  "callsign": "C6VC2",
+  "mmsi": "308371000"
+}, {
+  "name": "Lascaux",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9405746",
+  "callsign": "LXUU",
+  "mmsi": "253218000"
+}, {
+  "name": "Las-Cuevas",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9209283",
+  "callsign": "2EIF7",
+  "mmsi": "235085368"
+}, {
+  "name": "La-Sillonais",
+  "type": "Bulk Carrier",
+  "imo": "9733284",
+  "callsign": "9HA3632",
+  "mmsi": "229813000"
+}, {
+  "name": "Laslovo",
+  "type": "Passenger Ro Ro Cargo Ship",
+  "imo": "9176838",
+  "callsign": "9A4823",
+  "mmsi": "238115840"
+}, {
+  "name": "La-Solognais",
+  "type": "Bulk Carrier",
+  "imo": "9733258",
+  "callsign": "9HA3583",
+  "mmsi": "229758000"
+}, {
+  "name": "Las-Palmasde-Gc",
+  "type": "Passenger Ro Ro Cargo Ship",
+  "imo": "9031997",
+  "callsign": "EAJD",
+  "mmsi": "224646000"
+}, {
+  "name": "La-Stella",
+  "type": "Bulk Carrier",
+  "imo": "9748368",
+  "callsign": "ONIS",
+  "mmsi": "205700000"
+}, {
+  "name": "La-Stella-Dei-Mari",
+  "type": "Service Ship",
+  "imo": "9599535",
+  "callsign": "MAJF7",
+  "mmsi": "232005401"
+}, {
+  "name": "Last-Frontier",
+  "type": "Fishing Vessel",
+  "imo": "8855205",
+  "callsign": "WDE7375",
+  "mmsi": "367392530"
+}, {
+  "name": "Lastovo",
+  "type": "Passenger Ro Ro Cargo Ship",
+  "imo": "7010717",
+  "callsign": "9A2179",
+  "mmsi": "238113840"
+}, {
+  "name": "Last-Tycoon",
+  "type": "Bulk Carrier",
+  "imo": "9498303",
+  "callsign": "ZDJZ6",
+  "mmsi": "236607000"
+}, {
+  "name": "La-Sultana",
+  "type": "Passenger Ship",
+  "imo": "6725274",
+  "callsign": "HO4808",
+  "mmsi": "357537000"
+}, {
+  "name": "La-Superba",
+  "type": "Passenger Ro Ro Cargo Ship",
+  "imo": "9214276",
+  "callsign": "ICGK",
+  "mmsi": "247056100"
+}, {
+  "name": "La-Suprema",
+  "type": "Passenger Ro Ro Cargo Ship",
+  "imo": "9214288",
+  "callsign": "IBIL",
+  "mmsi": "247083700"
+}, {
+  "name": "La-Surprise",
+  "type": "Vehicles Carrier",
+  "imo": "9198719",
+  "callsign": "CQLY",
+  "mmsi": "255805450"
+}, {
+  "name": "Las-Vegas",
+  "type": "Container Ship",
+  "imo": "9348699",
+  "callsign": "A8PX5",
+  "mmsi": "636091610"
+}, {
+  "name": "Latana",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9186352",
+  "callsign": "LALS5",
+  "mmsi": "257374000"
+}, {
+  "name": "La-Temperance",
+  "type": "General Cargo Ship",
+  "imo": "6719885",
+  "callsign": "5VHA3",
+  "mmsi": "671091100"
+}, {
+  "name": "Latika-Naree",
+  "type": "Bulk Carrier",
+  "imo": "9496941",
+  "callsign": "HSJL",
+  "mmsi": "567049000"
+}, {
+  "name": "Latin-Venture",
+  "type": "Crude Oil Tanker",
+  "imo": "9206035",
+  "callsign": "3FKD6",
+  "mmsi": "354921000"
+}, {
+  "name": "Latitude",
+  "type": "Service Ship",
+  "imo": "9573646",
+  "callsign": "PBVE",
+  "mmsi": "246622000"
+}, {
+  "name": "Latitude",
+  "type": "Service Ship",
+  "imo": "1009168",
+  "callsign": "ZGAP6",
+  "mmsi": "319030200"
+}, {
+  "name": "Latitude",
+  "type": "Service Ship",
+  "imo": "9446922",
+  "callsign": "ZCTD5",
+  "mmsi": "319774000"
+}, {
+  "name": "Laudace",
+  "type": "Vehicles Carrier",
+  "imo": "9187318",
+  "callsign": "EAXA",
+  "mmsi": "224876000"
+}, {
+  "name": "Lauk",
+  "type": "Aggregates Carrier",
+  "imo": "8928131",
+  "callsign": "UBJF2",
+  "mmsi": "273337810"
+}, {
+  "name": "Laura",
+  "type": "General Cargo Ship",
+  "imo": "9126716",
+  "callsign": "V2FJ6",
+  "mmsi": "677045900"
+}, {
+  "name": "Laura",
+  "type": "Bulk Carrier",
+  "imo": "9700665",
+  "callsign": "V7JP9",
+  "mmsi": "538006090"
+}, {
+  "name": "Laura",
+  "type": "General Cargo Ship",
+  "imo": "9126223",
+  "callsign": "OJHH",
+  "mmsi": "230350000"
+}, {
+  "name": "Laura-Ann",
+  "type": "Container Ship",
+  "imo": "9242558",
+  "callsign": "V2AR8",
+  "mmsi": "305600000"
+}, {
+  "name": "Laura-Bassi",
+  "type": "Research Vessel",
+  "imo": "9114256",
+  "callsign": "IBDS",
+  "mmsi": "247405400"
+}, {
+  "name": "Laura-D",
+  "type": "Bulk Carrier",
+  "imo": "9589633",
+  "callsign": "A8ZX4",
+  "mmsi": "636092722"
+}, {
+  "name": "Laura-H",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9245299",
+  "callsign": "ZDHU3",
+  "mmsi": "236363000"
+}, {
+  "name": "Laura-Maersk",
+  "type": "Container Ship",
+  "imo": "9190731",
+  "callsign": "0WKI2",
+  "mmsi": "219947000"
+}, {
+  "name": "Laurana",
+  "type": "Passenger Ro Ro Cargo Ship",
+  "imo": "9011014",
+  "callsign": "ICEL",
+  "mmsi": "247342000"
+}, {
+  "name": "Laura-S",
+  "type": "Container Ship",
+  "imo": "9157868",
+  "callsign": "CQYK",
+  "mmsi": "255805890"
+}, {
+  "name": "Laurel",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9175729",
+  "callsign": "T8A2495",
+  "mmsi": "511418000"
+}, {
+  "name": "Laurel",
+  "type": "Service Ship",
+  "imo": "1008384",
+  "callsign": "ZCOV6",
+  "mmsi": "319914000"
+}, {
+  "name": "Laurel",
+  "type": "Oil Products Tanker",
+  "imo": "9576911",
+  "callsign": "9V8441",
+  "mmsi": "565968000"
+}, {
+  "name": "Laurel-Ace",
+  "type": "Bulk Carrier",
+  "imo": "9660047",
+  "callsign": "3FMR3",
+  "mmsi": "353109000"
+}, {
+  "name": "Laureline",
+  "type": "Ro Ro Cargo Ship",
+  "imo": "9823352",
+  "callsign": "9HA4791",
+  "mmsi": "248743000"
+}, {
+  "name": "Laurel-Island",
+  "type": "Bulk Carrier",
+  "imo": "9801158",
+  "callsign": "3EPL",
+  "mmsi": "356334000"
+}, {
+  "name": "Lauren-C",
+  "type": "General Cargo Ship",
+  "imo": "9373527",
+  "callsign": "MTNU5",
+  "mmsi": "235056239"
+}, {
+  "name": "Laurence-Francoise",
+  "type": "Bulk Carrier",
+  "imo": "9827061",
+  "callsign": "MECR7",
+  "mmsi": "232018783"
+}, {
+  "name": "Lauren-Foss",
+  "type": "Tug",
+  "imo": "8218938",
+  "callsign": "WDG8426",
+  "mmsi": "303350200"
+}, {
+  "name": "Lauren-L",
+  "type": "Service Ship",
+  "imo": "9246827",
+  "callsign": "ZGDH6",
+  "mmsi": "319053200"
+}, {
+  "name": "Lauren-Ocean",
+  "type": "Bulk Carrier",
+  "imo": "9117624",
+  "callsign": "V7QE8",
+  "mmsi": "352760000"
+}, {
+  "name": "Laurentia",
+  "type": "Sailing Vessel",
+  "imo": "1013054",
+  "callsign": "V7XR9",
+  "mmsi": "538071251"
+}, {
+  "name": "Laurentia-Desgagnes",
+  "type": "Oil Products Tanker",
+  "imo": "9334703",
+  "callsign": "XJBQ",
+  "mmsi": "316011550"
+}, {
+  "name": "Laurus",
+  "type": "General Cargo Ship",
+  "imo": "9559169",
+  "callsign": "ERPB",
+  "mmsi": "214181602"
+}, {
+  "name": "Laust-Maersk",
+  "type": "Container Ship",
+  "imo": "9190743",
+  "callsign": "OVZV2",
+  "mmsi": "219968000"
+}, {
+  "name": "Laustral",
+  "type": "Cruise Ship",
+  "imo": "9502518",
+  "callsign": "FLTU",
+  "mmsi": "578000700"
+}, {
+  "name": "Lauvstad",
+  "type": "Passenger Ro Ro Cargo Ship",
+  "imo": "9418808",
+  "callsign": "LATK",
+  "mmsi": "257274000"
+}, {
+  "name": "Lauwersborg",
+  "type": "General Cargo Ship",
+  "imo": "9399387",
+  "callsign": "PHLM",
+  "mmsi": "244828000"
+}, {
+  "name": "Lavails",
+  "type": "Crude Oil Tanker",
+  "imo": "9181649",
+  "callsign": "AWTL",
+  "mmsi": "419001233"
+}, {
+  "name": "Lava-Lake",
+  "type": "General Cargo Ship",
+  "imo": "9414644",
+  "callsign": "3EIP5",
+  "mmsi": "372356000"
+}, {
+  "name": "Lavaux",
+  "type": "Bulk Carrier",
+  "imo": "9542817",
+  "callsign": "HBDX",
+  "mmsi": "269806000"
+}, {
+  "name": "Lavender",
+  "type": "Passenger Ro Ro Cargo Ship",
+  "imo": "9810824",
+  "callsign": "7JYK",
+  "mmsi": "431009156"
+}, {
+  "name": "Lavender-Ace",
+  "type": "Vehicles Carrier",
+  "imo": "9363948",
+  "callsign": "3FFS3",
+  "mmsi": "353332000"
+}, {
+  "name": "La-Venture",
+  "type": "Bulk Carrier",
+  "imo": "9731391",
+  "callsign": "CQIZ2",
+  "mmsi": "255806108"
+}, {
+  "name": "Lavieen-Rose",
+  "type": "Bulk Carrier",
+  "imo": "9700562",
+  "callsign": "3FKN",
+  "mmsi": "357092000"
+}, {
+  "name": "Lavinia",
+  "type": "General Cargo Ship",
+  "imo": "7221469",
+  "callsign": "J8B4084",
+  "mmsi": "377664000"
+}, {
+  "name": "Lavinia",
+  "type": "Crude Oil Tanker",
+  "imo": "9255945",
+  "callsign": "V4ZB3",
+  "mmsi": "341244000"
+}, {
+  "name": "Lavr",
+  "type": "General Cargo Ship",
+  "imo": "9151096",
+  "callsign": "V3VQ3",
+  "mmsi": "312404000"
+}, {
+  "name": "Lavraki",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9323077",
+  "callsign": "V7MS4",
+  "mmsi": "538006371"
+}, {
+  "name": "Lavrentiy",
+  "type": "Passenger Ro Ro Cargo Ship",
+  "imo": "8647866",
+  "callsign": "UBXN7",
+  "mmsi": "273387810"
+}, {
+  "name": "Lavrio",
+  "type": "Bulk Carrier",
+  "imo": "9260158",
+  "callsign": "D5SJ5",
+  "mmsi": "636018983"
+}, {
+  "name": "Lawhah",
+  "type": "Crude Oil Tanker",
+  "imo": "9783681",
+  "callsign": "ABCDE",
+  "mmsi": "636017126"
+}, {
+  "name": "Lawin-Arrow",
+  "type": "Bulk Carrier",
+  "imo": "9687162",
+  "callsign": "C6BD8",
+  "mmsi": "311000235"
+}, {
+  "name": "Laxfoss",
+  "type": "Container Ship",
+  "imo": "9086801",
+  "callsign": "OZ2188",
+  "mmsi": "231785000"
+}, {
+  "name": "Layla",
+  "type": "General Cargo Ship",
+  "imo": "7420936",
+  "callsign": "V2YX9",
+  "mmsi": "304716000"
+}, {
+  "name": "Lay-Vessel-108",
+  "type": "Pipe Layer",
+  "imo": "9673800",
+  "callsign": "9HA3342",
+  "mmsi": "229444000"
+}, {
+  "name": "Lazurit",
+  "type": "General Cargo Ship",
+  "imo": "8957132",
+  "callsign": "UGBV",
+  "mmsi": "273430690"
+}, {
+  "name": "Lazurite",
+  "type": "General Cargo Ship",
+  "imo": "9549633",
+  "callsign": "UBLC",
+  "mmsi": "273338540"
+}, {
+  "name": "Lazurnyy",
+  "type": "Fish Carrier",
+  "imo": "8921949",
+  "callsign": "UBDG7",
+  "mmsi": "273348330"
+}, {
+  "name": "Lazurnyy",
+  "type": "Fishing Vessel",
+  "imo": "8729664",
+  "callsign": "UBHN",
+  "mmsi": "273250200"
+}, {
+  "name": "Lazy-Z",
+  "type": "Service Ship",
+  "imo": "1004651",
+  "callsign": "ZCMR4",
+  "mmsi": "319307000"
+}, {
+  "name": "Lbc-Earth",
+  "type": "Bulk Carrier",
+  "imo": "9644548",
+  "callsign": "9HA3183",
+  "mmsi": "229265000"
+}, {
+  "name": "Lbc-Energy",
+  "type": "Bulk Carrier",
+  "imo": "9529607",
+  "callsign": "3FFZ2",
+  "mmsi": "371681000"
+}, {
+  "name": "Lbc-Green",
+  "type": "Bulk Carrier",
+  "imo": "9609469",
+  "callsign": "9HA3218",
+  "mmsi": "229308000"
+}, {
+  "name": "Lbc-Nature",
+  "type": "Bulk Carrier",
+  "imo": "9529619",
+  "callsign": "V7XO6",
+  "mmsi": "538004530"
+}, {
+  "name": "Lb-Myrtle",
+  "type": "Offshore Support Vessel",
+  "imo": "8765917",
+  "callsign": "WDA8679",
+  "mmsi": "366856910"
+}, {
+  "name": "Lct-Alfa-Trans-Dua",
+  "type": "Landing Craft",
+  "imo": "9553268",
+  "callsign": "PMSK",
+  "mmsi": "525015351"
+}, {
+  "name": "Lct-Galaxy-9",
+  "type": "Landing Craft",
+  "imo": "9749087",
+  "callsign": "YCGG",
+  "mmsi": "525018502"
+}, {
+  "name": "Lct-Lien-Star-88",
+  "type": "Landing Craft",
+  "imo": "9564724",
+  "callsign": "PMXW",
+  "mmsi": "525018500"
+}, {
+  "name": "Lct-Mekar-Sejati",
+  "type": "Landing Craft",
+  "imo": "8997857",
+  "callsign": "YHAZ",
+  "mmsi": "525019562"
+}, {
+  "name": "Lct.perkasa-Prima-88",
+  "type": "Landing Craft",
+  "imo": "9664029",
+  "callsign": "PORV",
+  "mmsi": "525222000"
+}, {
+  "name": "Lct.perkasa-Prima-99",
+  "type": "Landing Craft",
+  "imo": "9693680",
+  "callsign": "JZGF",
+  "mmsi": "525021282"
+}, {
+  "name": "Lct.sejatiutama1",
+  "type": "Landing Craft",
+  "imo": "9792735",
+  "callsign": "YBFT",
+  "mmsi": "525003330"
+}, {
+  "name": "Lct.super-188",
+  "type": "Landing Craft",
+  "imo": "9770830",
+  "callsign": "YFZS",
+  "mmsi": "525023325"
+}, {
+  "name": "Ldn-Fortuna",
+  "type": "Bulk Carrier",
+  "imo": "9476472",
+  "callsign": "ICRU",
+  "mmsi": "247299100"
+}, {
+  "name": "Ldr-Sakine",
+  "type": "General Cargo Ship",
+  "imo": "9067582",
+  "callsign": "3FDK4",
+  "mmsi": "356083000"
+}, {
+  "name": "Lea-Auerbach",
+  "type": "General Cargo Ship",
+  "imo": "9358034",
+  "callsign": "D5SN8",
+  "mmsi": "636092891"
+}, {
+  "name": "Leader",
+  "type": "Fish Carrier",
+  "imo": "9207211",
+  "callsign": "UBQR6",
+  "mmsi": "273438230"
+}, {
+  "name": "Leader",
+  "type": "Crude Oil Tanker",
+  "imo": "9403542",
+  "callsign": "A8MJ8",
+  "mmsi": "636013354"
+}, {
+  "name": "Leader-Canakkale",
+  "type": "General Cargo Ship",
+  "imo": "9136876",
+  "callsign": "TCXC5",
+  "mmsi": "271040197"
+}, {
+  "name": "Leadership",
+  "type": "Oil Products Tanker",
+  "imo": "9338228",
+  "callsign": "9MYR4",
+  "mmsi": "533130844"
+}, {
+  "name": "Leadership",
+  "type": "Bulk Carrier",
+  "imo": "9233923",
+  "callsign": "C6BT2",
+  "mmsi": "311000356"
+}, {
+  "name": "Leader-Sw",
+  "type": "General Cargo Ship",
+  "imo": "9341005",
+  "callsign": "3EEY7",
+  "mmsi": "371968000"
+}, {
+  "name": "Leading-Bravery",
+  "type": "Bulk Carrier",
+  "imo": "9536442",
+  "callsign": "VRIV6",
+  "mmsi": "477764800"
+}, {
+  "name": "Leading-Glory",
+  "type": "Bulk Carrier",
+  "imo": "9536454",
+  "callsign": "VRJT9",
+  "mmsi": "477135800"
+}, {
+  "name": "Leah",
+  "type": "General Cargo Ship",
+  "imo": "9113202",
+  "callsign": "PCME",
+  "mmsi": "246814000"
+}, {
+  "name": "Leale",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9404637",
+  "callsign": "ICIQ",
+  "mmsi": "247238700"
+}, {
+  "name": "Leanne-Auerbach",
+  "type": "General Cargo Ship",
+  "imo": "9388912",
+  "callsign": "D5SN6",
+  "mmsi": "636092889"
+}, {
+  "name": "Leap-Heart",
+  "type": "Bulk Carrier",
+  "imo": "9604770",
+  "callsign": "3FOO",
+  "mmsi": "373531000"
+}, {
+  "name": "Le-Boreal",
+  "type": "Cruise Ship",
+  "imo": "9502506",
+  "callsign": "FLSY",
+  "mmsi": "578000500"
+}, {
+  "name": "Le-Bougainville",
+  "type": "Cruise Ship",
+  "imo": "9814040",
+  "callsign": "FLDT",
+  "mmsi": "578001300"
+}, {
+  "name": "Le-Champlain",
+  "type": "Cruise Ship",
+  "imo": "9814038",
+  "callsign": "FLBP",
+  "mmsi": "578001100"
+}, {
+  "name": "Le-Chang",
+  "type": "General Cargo Ship",
+  "imo": "9177533",
+  "callsign": "BOQC",
+  "mmsi": "412013000"
+}, {
+  "name": "Le-Chatelet",
+  "type": "Passenger Ship",
+  "imo": "9374650",
+  "callsign": "FGE6186",
+  "mmsi": "227658910"
+}, {
+  "name": "Lecko",
+  "type": "General Cargo Ship",
+  "imo": "9263576",
+  "callsign": "PBKR",
+  "mmsi": "244063000"
+}, {
+  "name": "Lecompte-Tide",
+  "type": "Offshore Tug Supply Ship",
+  "imo": "9578464",
+  "callsign": "YJQH2",
+  "mmsi": "576484000"
+}, {
+  "name": "Le-Cong",
+  "type": "General Cargo Ship",
+  "imo": "9192686",
+  "callsign": "BOKU",
+  "mmsi": "412118000"
+}, {
+  "name": "Leconte",
+  "type": "Passenger Ro Ro Cargo Ship",
+  "imo": "7318925",
+  "callsign": "WZE4270",
+  "mmsi": "338761000"
+}, {
+  "name": "Leda",
+  "type": "General Cargo Ship",
+  "imo": "8721442",
+  "callsign": "ERXZ",
+  "mmsi": "214182426"
+}, {
+  "name": "Leda",
+  "type": "Bulk Carrier",
+  "imo": "9544073",
+  "callsign": "3FSS9",
+  "mmsi": "355332000"
+}, {
+  "name": "Leda",
+  "type": "General Cargo Ship",
+  "imo": "9648178",
+  "callsign": "E5U2509",
+  "mmsi": "518559000"
+}, {
+  "name": "Leda-Maersk",
+  "type": "Container Ship",
+  "imo": "9190755",
+  "callsign": "OYXZ2",
+  "mmsi": "219973000"
+}, {
+  "name": "Leda-Trader",
+  "type": "Container Ship",
+  "imo": "9213117",
+  "callsign": "D5CJ4",
+  "mmsi": "636092430"
+}, {
+  "name": "Ledra",
+  "type": "Bulk Carrier",
+  "imo": "9591181",
+  "callsign": "5BQH4",
+  "mmsi": "209095000"
+}, {
+  "name": "Le-Dumont-Durville",
+  "type": "Cruise Ship",
+  "imo": "9814052",
+  "callsign": "FLDS",
+  "mmsi": "578001200"
+}, {
+  "name": "Lee-A-Tregurtha",
+  "type": "Self Discharging Bulk Carrier",
+  "imo": "5385625",
+  "callsign": "WUR8857",
+  "mmsi": "366904950"
+}, {
+  "name": "Lee-Font-A2",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "8405725",
+  "callsign": "3EWY5",
+  "mmsi": "371767000"
+}, {
+  "name": "Le-Eithne",
+  "type": "Patrol Vessel",
+  "imo": "8208141",
+  "callsign": "EIYS",
+  "mmsi": "250099000"
+}, {
+  "name": "Leeni",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9377092",
+  "callsign": "C4LT2",
+  "mmsi": "210318000"
+}, {
+  "name": "Leese-Tide",
+  "type": "Offshore Tug Supply Ship",
+  "imo": "9539626",
+  "callsign": "YJVT9",
+  "mmsi": "576207000"
+}, {
+  "name": "Leeuw",
+  "type": "Dredger",
+  "imo": "9591399",
+  "callsign": "LXKV",
+  "mmsi": "253445000"
+}, {
+  "name": "Leevsten",
+  "type": "Passenger Ro Ro Cargo Ship",
+  "imo": "9869954",
+  "callsign": "9HA5123",
+  "mmsi": "215469000"
+}, {
+  "name": "Lefkada",
+  "type": "Bulk Carrier",
+  "imo": "9767546",
+  "callsign": "D5LV9",
+  "mmsi": "636092730"
+}, {
+  "name": "Lefkara",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9399882",
+  "callsign": "3ETI6",
+  "mmsi": "370573000"
+}, {
+  "name": "Lefkas",
+  "type": "Oil Products Tanker",
+  "imo": "9417531",
+  "callsign": "ZRGH",
+  "mmsi": "601262600"
+}, {
+  "name": "Lefkes",
+  "type": "Bulk Carrier",
+  "imo": "9658783",
+  "callsign": "3EOZ7",
+  "mmsi": "354868000"
+}, {
+  "name": "Lefkoniko",
+  "type": "Bulk Carrier",
+  "imo": "9491202",
+  "callsign": "9HA2200",
+  "mmsi": "248137000"
+}, {
+  "name": "Legacy",
+  "type": "Passenger General Cargo Ship",
+  "imo": "9265847",
+  "callsign": "C6S2077",
+  "mmsi": "311427000"
+}, {
+  "name": "Legacy",
+  "type": "Service Ship",
+  "imo": "9583586",
+  "callsign": "ZGBY7",
+  "mmsi": "319920000"
+}, {
+  "name": "Legacy",
+  "type": "Pusher Tug",
+  "imo": "9583249",
+  "callsign": "WDF7311",
+  "mmsi": "338504000"
+}, {
+  "name": "Legato-Ii",
+  "type": "Bulk Carrier",
+  "imo": "9644304",
+  "callsign": "3FRD6",
+  "mmsi": "371377000"
+}, {
+  "name": "Legazpi",
+  "type": "General Cargo Ship",
+  "imo": "9621716",
+  "callsign": "3FUL3",
+  "mmsi": "370763000"
+}, {
+  "name": "Legend",
+  "type": "Yacht",
+  "imo": "7367835",
+  "callsign": "V7A2111",
+  "mmsi": "538071436"
+}, {
+  "name": "Legend",
+  "type": "Yacht",
+  "imo": "1002017",
+  "callsign": "V7IE6",
+  "mmsi": "538080081"
+}, {
+  "name": "Legend-Prestige",
+  "type": "Lpg Tanker",
+  "imo": "9773234",
+  "callsign": "3EGZ3",
+  "mmsi": "374773000"
+}, {
+  "name": "Legend-Prosperity",
+  "type": "Lpg Tanker",
+  "imo": "9723679",
+  "callsign": "3FJP4",
+  "mmsi": "374192000"
+}, {
+  "name": "Legiony-Polskie",
+  "type": "Bulk Carrier",
+  "imo": "9708045",
+  "callsign": "D5JD8",
+  "mmsi": "636017071"
+}, {
+  "name": "Le-Grand-Bleu",
+  "type": "Service Ship",
+  "imo": "1006829",
+  "callsign": "ZCDF7",
+  "mmsi": "310380000"
+}, {
+  "name": "Le-Guerrier",
+  "type": "Dredger",
+  "imo": "9372250",
+  "callsign": "LXGQ",
+  "mmsi": "253311000"
+}, {
+  "name": "Le-Havre",
+  "type": "Container Ship",
+  "imo": "9307243",
+  "callsign": "C4PW2",
+  "mmsi": "209979000"
+}, {
+  "name": "Le-He",
+  "type": "General Cargo Ship",
+  "imo": "9192698",
+  "callsign": "BOKV",
+  "mmsi": "412119000"
+}, {
+  "name": "Leif-Ericson",
+  "type": "Passenger Ro Ro Cargo Ship",
+  "imo": "8917388",
+  "callsign": "VOCJ",
+  "mmsi": "316001216"
+}, {
+  "name": "Leiger",
+  "type": "Passenger Ro Ro Cargo Ship",
+  "imo": "9762675",
+  "callsign": "ESKJ",
+  "mmsi": "276823000"
+}, {
+  "name": "Leigh-Ann-Moran",
+  "type": "Pusher Tug",
+  "imo": "9778325",
+  "callsign": "WDI3096",
+  "mmsi": "338203000"
+}, {
+  "name": "Leikanger",
+  "type": "Oil Products Tanker",
+  "imo": "9725304",
+  "callsign": "LATM7",
+  "mmsi": "258706000"
+}, {
+  "name": "Leikvin",
+  "type": "Fishing Vessel",
+  "imo": "9710907",
+  "callsign": "LKUX",
+  "mmsi": "257852000"
+}, {
+  "name": "Leila-H",
+  "type": "General Cargo Ship",
+  "imo": "9359959",
+  "callsign": "8PAN3",
+  "mmsi": "314442000"
+}, {
+  "name": "Leine",
+  "type": "General Cargo Ship",
+  "imo": "9313644",
+  "callsign": "V2BS",
+  "mmsi": "304785000"
+}, {
+  "name": "Leinebjoern",
+  "type": "Fish Carrier",
+  "imo": "9605542",
+  "callsign": "LCOJ",
+  "mmsi": "257815000"
+}, {
+  "name": "Leiria",
+  "type": "General Cargo Ship",
+  "imo": "9248370",
+  "callsign": "V2QN3",
+  "mmsi": "305916000"
+}, {
+  "name": "Leirna",
+  "type": "Passenger Ro Ro Cargo Ship",
+  "imo": "9050199",
+  "callsign": "MQBX7",
+  "mmsi": "232003597"
+}, {
+  "name": "Leiro",
+  "type": "General Cargo Ship",
+  "imo": "8017085",
+  "callsign": "8PVZ",
+  "mmsi": "314298000"
+}, {
+  "name": "Lei-Sheng-1",
+  "type": "Bulk Carrier",
+  "imo": "9177650",
+  "callsign": "BSWC",
+  "mmsi": "414292000"
+}, {
+  "name": "Lei-Sheng-2",
+  "type": "Bulk Carrier",
+  "imo": "9208514",
+  "callsign": "BQYO",
+  "mmsi": "414332000"
+}, {
+  "name": "Leisure-World",
+  "type": "Cruise Ship",
+  "imo": "6921828",
+  "callsign": "3FNT4",
+  "mmsi": "374139000"
+}, {
+  "name": "Leiv-Eiriksson",
+  "type": "Hopper Dredger",
+  "imo": "9429584",
+  "callsign": "LXIK",
+  "mmsi": "253403000"
+}, {
+  "name": "Leiv-Eiriksson",
+  "type": "Service Ship",
+  "imo": "8767317",
+  "callsign": "C6PZ7",
+  "mmsi": "308243000"
+}, {
+  "name": "Le-James-Joyce",
+  "type": "Patrol Vessel",
+  "imo": "9614672",
+  "callsign": "EIYZ",
+  "mmsi": "250003146"
+}, {
+  "name": "Le-Jin",
+  "type": "General Cargo Ship",
+  "imo": "9183764",
+  "callsign": "BOQG",
+  "mmsi": "412024000"
+}, {
+  "name": "Leketi",
+  "type": "Tug",
+  "imo": "9676060",
+  "callsign": "TNAA5",
+  "mmsi": "615404000"
+}, {
+  "name": "Le-Laperouse",
+  "type": "Cruise Ship",
+  "imo": "9814026",
+  "callsign": "FLBD",
+  "mmsi": "578000900"
+}, {
+  "name": "Leli",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "8920531",
+  "callsign": "HP6679",
+  "mmsi": "356122000"
+}, {
+  "name": "Le-Li",
+  "type": "General Cargo Ship",
+  "imo": "9192674",
+  "callsign": "BOKW",
+  "mmsi": "412120000"
+}, {
+  "name": "Lelie-C",
+  "type": "General Cargo Ship",
+  "imo": "9166443",
+  "callsign": "PDBN",
+  "mmsi": "246449000"
+}, {
+  "name": "Le-Lyrial",
+  "type": "Cruise Ship",
+  "imo": "9704130",
+  "callsign": "FIRS",
+  "mmsi": "578000800"
+}, {
+  "name": "Lelystad",
+  "type": "Hopper Dredger",
+  "imo": "8507391",
+  "callsign": "PFOB",
+  "mmsi": "244325000"
+}, {
+  "name": "Le-Mans-Express",
+  "type": "Vehicles Carrier",
+  "imo": "9442122",
+  "callsign": "ZDJR9",
+  "mmsi": "236559000"
+}, {
+  "name": "Lemessos-Lion",
+  "type": "Bulk Carrier",
+  "imo": "9623829",
+  "callsign": "5BMR4",
+  "mmsi": "210944000"
+}, {
+  "name": "Lemessos-Napa",
+  "type": "Bulk Carrier",
+  "imo": "9741293",
+  "callsign": "5BNF4",
+  "mmsi": "212589000"
+}, {
+  "name": "Lemessos-Queen",
+  "type": "Bulk Carrier",
+  "imo": "9464417",
+  "callsign": "5BVR4",
+  "mmsi": "212911000"
+}, {
+  "name": "Lemessos-Wind",
+  "type": "Bulk Carrier",
+  "imo": "9516399",
+  "callsign": "5BHF5",
+  "mmsi": "209677000"
+}, {
+  "name": "Le-Min",
+  "type": "General Cargo Ship",
+  "imo": "9175420",
+  "callsign": "BOQF",
+  "mmsi": "412016000"
+}, {
+  "name": "Lemland",
+  "type": "General Cargo Ship",
+  "imo": "9415040",
+  "callsign": "V2GZ4",
+  "mmsi": "304581000"
+}, {
+  "name": "Lemonia",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9494216",
+  "callsign": "ZDJJ3",
+  "mmsi": "236529000"
+}, {
+  "name": "Lena",
+  "type": "Oil Products Tanker",
+  "imo": "9538854",
+  "callsign": "9V7699",
+  "mmsi": "564817000"
+}, {
+  "name": "Lena",
+  "type": "Container Ship",
+  "imo": "9347750",
+  "callsign": "5BYF3",
+  "mmsi": "210740000"
+}, {
+  "name": "Lena-River",
+  "type": "Lng Tanker",
+  "imo": "9629598",
+  "callsign": "V7AU9",
+  "mmsi": "538005073"
+}, {
+  "name": "Lene-D",
+  "type": "General Cargo Ship",
+  "imo": "8611013",
+  "callsign": "V2FF6",
+  "mmsi": "305661000"
+}, {
+  "name": "Lenin",
+  "type": "Passenger Ship",
+  "imo": "8707678",
+  "callsign": "LENIN",
+  "mmsi": "273362090"
+}, {
+  "name": "Leni-P",
+  "type": "Crude Oil Tanker",
+  "imo": "9594133",
+  "callsign": "V7A2248",
+  "mmsi": "538008334"
+}, {
+  "name": "Leni-Selmer",
+  "type": "Bulk Carrier",
+  "imo": "9474280",
+  "callsign": "V7OM6",
+  "mmsi": "538007975"
+}, {
+  "name": "Lenkaran",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9369617",
+  "callsign": "UABQ",
+  "mmsi": "273314230"
+}, {
+  "name": "Lennuk",
+  "type": "Fishing Vessel",
+  "imo": "8619699",
+  "callsign": "ESKT",
+  "mmsi": "276831000"
+}, {
+  "name": "Lentikia",
+  "type": "Bulk Carrier",
+  "imo": "9663738",
+  "callsign": "9HA3614",
+  "mmsi": "229792000"
+}, {
+  "name": "Leo",
+  "type": "Tug",
+  "imo": "9652143",
+  "callsign": "J8B5786",
+  "mmsi": "375732000"
+}, {
+  "name": "Leo",
+  "type": "Oil Products Tanker",
+  "imo": "9066473",
+  "callsign": "9MVP2",
+  "mmsi": "533130401"
+}, {
+  "name": "Leo",
+  "type": "Bulk Carrier",
+  "imo": "9594638",
+  "callsign": "V7WL7",
+  "mmsi": "538004332"
+}, {
+  "name": "Leo-A.mcarthur",
+  "type": "Pusher Tug",
+  "imo": "9473262",
+  "callsign": "CFN5313",
+  "mmsi": "316013946"
+}, {
+  "name": "Leo-C",
+  "type": "Container Ship",
+  "imo": "9229312",
+  "callsign": "D5KG9",
+  "mmsi": "636017306"
+}, {
+  "name": "Leo-Felicity",
+  "type": "Ore Carrier",
+  "imo": "9409091",
+  "callsign": "3FQG6",
+  "mmsi": "354931000"
+}, {
+  "name": "Leo-Green",
+  "type": "Lpg Tanker",
+  "imo": "9776341",
+  "callsign": "HOCT",
+  "mmsi": "356560000"
+}, {
+  "name": "Leo-I",
+  "type": "General Cargo Ship",
+  "imo": "8917730",
+  "callsign": "5VCV9",
+  "mmsi": "671500000"
+}, {
+  "name": "Leo-Iris",
+  "type": "Bulk Carrier",
+  "imo": "9709001",
+  "callsign": "3EPL8",
+  "mmsi": "374195000"
+}, {
+  "name": "Leo-Leader",
+  "type": "Vehicles Carrier",
+  "imo": "9181558",
+  "callsign": "3FQK9",
+  "mmsi": "357682000"
+}, {
+  "name": "Leon",
+  "type": "Tug",
+  "imo": "8312007",
+  "callsign": "SVA7046",
+  "mmsi": "241506000"
+}, {
+  "name": "Leon",
+  "type": "Bulk Carrier",
+  "imo": "9303871",
+  "callsign": "V7NF2",
+  "mmsi": "538007451"
+}, {
+  "name": "Leon",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9435844",
+  "callsign": "9HA4360",
+  "mmsi": "249733000"
+}, {
+  "name": "Leonard-M",
+  "type": "Tug",
+  "imo": "8519215",
+  "callsign": "",
+  "mmsi": "316001101"
+}, {
+  "name": "Leonardo-B",
+  "type": "Lpg Tanker",
+  "imo": "9240146",
+  "callsign": "V7JU3",
+  "mmsi": "538006105"
+}, {
+  "name": "Leonardo-Da-Vinci",
+  "type": "Dredger",
+  "imo": "8411592",
+  "callsign": "3BRR",
+  "mmsi": "645157000"
+}, {
+  "name": "Leonardo-Iii",
+  "type": "Service Ship",
+  "imo": "1008944",
+  "callsign": "9HA3855",
+  "mmsi": "256224000"
+}, {
+  "name": "Leonarisso",
+  "type": "Bulk Carrier",
+  "imo": "9491214",
+  "callsign": "9HA2413",
+  "mmsi": "248561000"
+}, {
+  "name": "Leon-Dias",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9396385",
+  "callsign": "3FTM5",
+  "mmsi": "373095000"
+}, {
+  "name": "Leon-Herc",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9460502",
+  "callsign": "D5EC3",
+  "mmsi": "636016036"
+}, {
+  "name": "Leon-Hermes",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9323560",
+  "callsign": "A8OK8",
+  "mmsi": "636013645"
+}, {
+  "name": "Leonidas",
+  "type": "Crude Oil Tanker",
+  "imo": "9410234",
+  "callsign": "SVAV4",
+  "mmsi": "240960000"
+}, {
+  "name": "Leonidas",
+  "type": "Bulk Carrier",
+  "imo": "9696474",
+  "callsign": "9HA4229",
+  "mmsi": "249386000"
+}, {
+  "name": "Leonidio",
+  "type": "Container Ship",
+  "imo": "9618587",
+  "callsign": "9HA3483",
+  "mmsi": "229648000"
+}, {
+  "name": "Leonid-Khotkin",
+  "type": "General Cargo Ship",
+  "imo": "8949434",
+  "callsign": "D6A2147",
+  "mmsi": "620147000"
+}, {
+  "name": "Leonid-Leonov",
+  "type": "General Cargo Ship",
+  "imo": "9057276",
+  "callsign": "ERXL",
+  "mmsi": "214182412"
+}, {
+  "name": "Leonid-Lisin",
+  "type": "Ore Oil Carrier",
+  "imo": "7741158",
+  "callsign": "UEZP",
+  "mmsi": "273425710"
+}, {
+  "name": "Leonid-Loza",
+  "type": "Crude Oil Tanker",
+  "imo": "9412347",
+  "callsign": "A8TG9",
+  "mmsi": "636014351"
+}, {
+  "name": "Leonid-Zayakin",
+  "type": "General Cargo Ship",
+  "imo": "8972259",
+  "callsign": "HOPP",
+  "mmsi": "374852000"
+}, {
+  "name": "Leonie",
+  "type": "General Cargo Ship",
+  "imo": "9331361",
+  "callsign": "PHLE",
+  "mmsi": "244772000"
+}, {
+  "name": "Leonie-P",
+  "type": "Container Ship",
+  "imo": "9162667",
+  "callsign": "V2OP5",
+  "mmsi": "304634000"
+}, {
+  "name": "Leon-M",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9428011",
+  "callsign": "3FRK3",
+  "mmsi": "370878000"
+}, {
+  "name": "Leon-Oetker",
+  "type": "Bulk Carrier",
+  "imo": "9403073",
+  "callsign": "D5RX3",
+  "mmsi": "636092873"
+}, {
+  "name": "Leonor",
+  "type": "Bulk Carrier",
+  "imo": "9571571",
+  "callsign": "3FOF9",
+  "mmsi": "357775000"
+}, {
+  "name": "Leonora-Kosan",
+  "type": "Lpg Tanker",
+  "imo": "9390953",
+  "callsign": "2BYK2",
+  "mmsi": "235070465"
+}, {
+  "name": "Leonora-Victory",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9283784",
+  "callsign": "LAZU7",
+  "mmsi": "259266000"
+}, {
+  "name": "Leon-Poseidon",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9391165",
+  "callsign": "D5AM9",
+  "mmsi": "636015403"
+}, {
+  "name": "Leon-Thevenin",
+  "type": "Cable Layer",
+  "imo": "8108676",
+  "callsign": "3BSP",
+  "mmsi": "645400000"
+}, {
+  "name": "Leontios-H",
+  "type": "Crude Oil Tanker",
+  "imo": "9724336",
+  "callsign": "SVCL6",
+  "mmsi": "241454000"
+}, {
+  "name": "Leopard",
+  "type": "Service Ship",
+  "imo": "9408724",
+  "callsign": "9H8757",
+  "mmsi": "256789000"
+}, {
+  "name": "Leopard",
+  "type": "Ro Ro Cargo Ship",
+  "imo": "7615347",
+  "callsign": "5IM705",
+  "mmsi": "677060500"
+}, {
+  "name": "Leopard",
+  "type": "Oil Products Tanker",
+  "imo": "9555307",
+  "callsign": "3FDG2",
+  "mmsi": "354628000"
+}, {
+  "name": "Leopard",
+  "type": "Container Ship",
+  "imo": "9144146",
+  "callsign": "D5DV3",
+  "mmsi": "636015979"
+}, {
+  "name": "Leopard",
+  "type": "Tug",
+  "imo": "6819697",
+  "callsign": "YJRA7",
+  "mmsi": "576909000"
+}, {
+  "name": "Leopard-Moon",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9635755",
+  "callsign": "9VCJ4",
+  "mmsi": "566904000"
+}, {
+  "name": "Leo-Perdana",
+  "type": "Container Ship",
+  "imo": "9363390",
+  "callsign": "3ENH8",
+  "mmsi": "355656000"
+}, {
+  "name": "Leopold-Ld",
+  "type": "Bulk Carrier",
+  "imo": "9617519",
+  "callsign": "9HA3383",
+  "mmsi": "229531000"
+}, {
+  "name": "Leopold-Staff",
+  "type": "General Cargo Ship",
+  "imo": "9272228",
+  "callsign": "9HA4540",
+  "mmsi": "248161000"
+}, {
+  "name": "Leo-Spirit",
+  "type": "Vehicles Carrier",
+  "imo": "9620695",
+  "callsign": "3FAQ",
+  "mmsi": "373057000"
+}, {
+  "name": "Leostar",
+  "type": "Oil Products Tanker",
+  "imo": "9058907",
+  "callsign": "HSB5366",
+  "mmsi": "567066200"
+}, {
+  "name": "Leo-Star-I",
+  "type": "Bulk Carrier",
+  "imo": "9044011",
+  "callsign": "ELXC6",
+  "mmsi": "636015065"
+}, {
+  "name": "Leo-Sun",
+  "type": "Crude Oil Tanker",
+  "imo": "9457608",
+  "callsign": "D5EP6",
+  "mmsi": "636016127"
+}, {
+  "name": "Leo-Trio",
+  "type": "Multi Purpose Carrier",
+  "imo": "9137870",
+  "callsign": "3FWH9",
+  "mmsi": "370165000"
+}, {
+  "name": "Leptis-Star",
+  "type": "Cement Carrier",
+  "imo": "8517592",
+  "callsign": "3EDH7",
+  "mmsi": "371573000"
+}, {
+  "name": "Lepus",
+  "type": "General Cargo Ship",
+  "imo": "9294771",
+  "callsign": "DSQX4",
+  "mmsi": "441745000"
+}, {
+  "name": "L-Equinox",
+  "type": "Service Ship",
+  "imo": "9417036",
+  "callsign": "SVA9215",
+  "mmsi": "240202300"
+}, {
+  "name": "Lerici",
+  "type": "[tug.salvage_tug]",
+  "imo": "9163946",
+  "callsign": "ICBL",
+  "mmsi": "247324000"
+}, {
+  "name": "Lerici",
+  "type": "Lng Tanker",
+  "imo": "9064085",
+  "callsign": "9V6198",
+  "mmsi": "563074500"
+}, {
+  "name": "Lerik",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9575319",
+  "callsign": "9HA2849",
+  "mmsi": "256356000"
+}, {
+  "name": "Lerkur",
+  "type": "Fishing Vessel",
+  "imo": "9193549",
+  "callsign": "XPQK",
+  "mmsi": "231087000"
+}, {
+  "name": "Le-Rong",
+  "type": "General Cargo Ship",
+  "imo": "9183740",
+  "callsign": "BOQI",
+  "mmsi": "412031000"
+}, {
+  "name": "Leros",
+  "type": "Oil Products Tanker",
+  "imo": "9382152",
+  "callsign": "3FRQ6",
+  "mmsi": "354089000"
+}, {
+  "name": "Lerow-Star",
+  "type": "Offshore Tug Supply Ship",
+  "imo": "7406825",
+  "callsign": "LEGD",
+  "mmsi": "258129000"
+}, {
+  "name": "Lerrix",
+  "type": "Oil Products Tanker",
+  "imo": "9599377",
+  "callsign": "2FFX6",
+  "mmsi": "235090927"
+}, {
+  "name": "Le-Ruby",
+  "type": "Bulk Carrier",
+  "imo": "9117313",
+  "callsign": "V3HX",
+  "mmsi": "312769000"
+}, {
+  "name": "Le-Samuel-Beckett",
+  "type": "Patrol Vessel",
+  "imo": "9614660",
+  "callsign": "EIYY",
+  "mmsi": "250002868"
+}, {
+  "name": "Le-Shun",
+  "type": "General Cargo Ship",
+  "imo": "9183752",
+  "callsign": "BOQH",
+  "mmsi": "412030000"
+}, {
+  "name": "Lesley-Pg",
+  "type": "Oil Products Tanker",
+  "imo": "9153422",
+  "callsign": "MXUG5",
+  "mmsi": "234910000"
+}, {
+  "name": "Leslie-Lee",
+  "type": "Fishing Vessel",
+  "imo": "7732688",
+  "callsign": "WYC7933",
+  "mmsi": "338603000"
+}, {
+  "name": "Le-Soleal",
+  "type": "Cruise Ship",
+  "imo": "9641675",
+  "callsign": "FIHV",
+  "mmsi": "578000200"
+}, {
+  "name": "Le-Sphinx",
+  "type": "Dredger",
+  "imo": "9372248",
+  "callsign": "LXXS",
+  "mmsi": "253312000"
+}, {
+  "name": "Lessow-Swan",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9386378",
+  "callsign": "OWML2",
+  "mmsi": "219479000"
+}, {
+  "name": "Leste",
+  "type": "Crude Oil Tanker",
+  "imo": "9285720",
+  "callsign": "D5NB5",
+  "mmsi": "636017865"
+}, {
+  "name": "Lesvos",
+  "type": "Crude Oil Tanker",
+  "imo": "9772321",
+  "callsign": "9HA4523",
+  "mmsi": "248123000"
+}, {
+  "name": "Letavia",
+  "type": "Container Ship",
+  "imo": "9246683",
+  "callsign": "A8GX4",
+  "mmsi": "636090866"
+}, {
+  "name": "Let-It-Be",
+  "type": "Service Ship",
+  "imo": "1009261",
+  "callsign": "ZGBC8",
+  "mmsi": "319023900"
+}, {
+  "name": "Letizia-Effe",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9373230",
+  "callsign": "ICGF",
+  "mmsi": "247237100"
+}, {
+  "name": "Letniy-Bereg",
+  "type": "General Cargo Ship",
+  "imo": "8870839",
+  "callsign": "UIBW",
+  "mmsi": "273348830"
+}, {
+  "name": "Leto",
+  "type": "Bulk Carrier",
+  "imo": "9397731",
+  "callsign": "V7FI2",
+  "mmsi": "538005599"
+}, {
+  "name": "Leto",
+  "type": "Container Ship",
+  "imo": "9311880",
+  "callsign": "A8JG8",
+  "mmsi": "636091088"
+}, {
+  "name": "Leto",
+  "type": "Bulk Carrier",
+  "imo": "9696424",
+  "callsign": "3FMA8",
+  "mmsi": "351217000"
+}, {
+  "name": "Letoile",
+  "type": "Dredger",
+  "imo": "9303340",
+  "callsign": "LXEO",
+  "mmsi": "253109000"
+}, {
+  "name": "Le-Tong",
+  "type": "General Cargo Ship",
+  "imo": "9175444",
+  "callsign": "BOQD",
+  "mmsi": "412014000"
+}, {
+  "name": "Leto-Providence",
+  "type": "Lpg Tanker",
+  "imo": "9255713",
+  "callsign": "9VKU8",
+  "mmsi": "564692000"
+}, {
+  "name": "Lettland",
+  "type": "General Cargo Ship",
+  "imo": "9237022",
+  "callsign": "CQAQ3",
+  "mmsi": "255806245"
+}, {
+  "name": "Letto",
+  "type": "Buoy Lighthouse Vessel",
+  "imo": "7817050",
+  "callsign": "OIRP",
+  "mmsi": "230359000"
+}, {
+  "name": "Leukimmi",
+  "type": "Passenger Ro Ro Cargo Ship",
+  "imo": "8743696",
+  "callsign": "SY3734",
+  "mmsi": "237671800"
+}, {
+  "name": "Levana",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9424053",
+  "callsign": "ZDJD2",
+  "mmsi": "236511000"
+}, {
+  "name": "Levanger",
+  "type": "Passenger Ro Ro Cargo Ship",
+  "imo": "6827606",
+  "callsign": "LAJK",
+  "mmsi": "257046700"
+}, {
+  "name": "Levante",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9391139",
+  "callsign": "D5NC5",
+  "mmsi": "636017872"
+}, {
+  "name": "Levante",
+  "type": "General Cargo Ship",
+  "imo": "9291987",
+  "callsign": "9HOB7",
+  "mmsi": "215440000"
+}, {
+  "name": "Levantes",
+  "type": "Bulk Carrier",
+  "imo": "9244829",
+  "callsign": "V7DS6",
+  "mmsi": "538006969"
+}, {
+  "name": "Levant-Horizon",
+  "type": "General Cargo Ship",
+  "imo": "9126467",
+  "callsign": "3FML3",
+  "mmsi": "374222000"
+}, {
+  "name": "Levantine-Sea",
+  "type": "Oil And Chemical Tanker",
+  "imo": "9815616",
+  "callsign": "D5QV4",
+  "mmsi": "636018671"
+}, {
+  "name": "Levanto",
+  "type": "Oil Products Tanker",
+  "imo": "9231602",
+  "callsign": "D5FB4",
+  "mmsi": "636016165"
+}, {
+  "name": "Levanto",
+  "type": "Bulk Carrier",
+  "imo": "9216406",
+  "callsign": "9HAH9",
+  "mmsi": "249900000"
+}, {
+  "name": "Leverkusen-Express",
+  "type": "Container Ship",
+  "imo": "9613006",
+  "callsign": "DJDS2",
+  "mmsi": "218565000"
+}, {
+  "name": "Levroso",
+  "type": "Bulk Carrier",
+  "imo": "9238325",
+  "callsign": "D5IU4",
+  "mmsi": "636017843"
+}, {
+  "name": "Lev-Soldatov",
+  "type": "Multi Purpose Carrier",
+  "imo": "8721363",
+  "callsign": "JVXT6",
+  "mmsi": "457700000"
+}, {
+  "name": "Lev-Taifun",
+  "type": "Buoy Lighthouse Vessel",
+  "imo": "8650382",
+  "callsign": "DDKM2",
+  "mmsi": "211592740"
+}, {
+  "name": "Lev-Tornado",
+  "type": "Salvage Ship",
+  "imo": "7725453",
+  "callsign": "DHVE2",
+  "mmsi": "211630370"
+}, {
+  "name": "Lev-Twister",
+  "type": "Offshore Tug Supply Ship",
+  "imo": "8302088",
+  "callsign": "DHXJ2",
+  "mmsi": "218862000"
+}, {
+  "name": "Lev-Yashin",
+  "type": "General Cargo Ship",
+  "imo": "8517839",
+  "callsign": "UBRH7",
+  "mmsi": "273359830"
+}, {
+  "name": "Lewek-Alphard",
+  "type": "Offshore Tug Supply Ship",
+  "imo": "9652181",
+  "callsign": "V7HD6",
+  "mmsi": "538005801"
+}, {
+  "name": "Lewek-Atlas",
+  "type": "Offshore Tug Supply Ship",
+  "imo": "9355991",
+  "callsign": "AVLN",
+  "mmsi": "419000299"
+}, {
+  "name": "Lewek-Crusader",
+  "type": "Crane Ship",
+  "imo": "9468384",
+  "callsign": "9V8535",
+  "mmsi": "564866000"
+}, {
+  "name": "Lewek-Fulmar",
+  "type": "Offshore Tug Supply Ship",
+  "imo": "9448413",
+  "callsign": "3FCN9",
+  "mmsi": "370776000"
+}, {
+  "name": "Lewek-Hydra",
+  "type": "Offshore Tug Supply Ship",
+  "imo": "9503043",
+  "callsign": "3FBF7",
+  "mmsi": "374351000"
+}, {
+  "name": "Lewek-Ivory",
+  "type": "Offshore Tug Supply Ship",
+  "imo": "9242663",
+  "callsign": "9V6065",
+  "mmsi": "563389000"
+}, {
+  "name": "Lewek-Plover",
+  "type": "Offshore Tug Supply Ship",
+  "imo": "9381897",
+  "callsign": "9WNF5",
+  "mmsi": "533130167"
+}, {
+  "name": "Lewek-Swan",
+  "type": "Offshore Tug Supply Ship",
+  "imo": "9315109",
+  "callsign": "3FGA5",
+  "mmsi": "351108000"
+}, {
+  "name": "Lewek-Trogon",
+  "type": "Offshore Tug Supply Ship",
+  "imo": "9374258",
+  "callsign": "9VHK3",
+  "mmsi": "565950000"
+}, {
+  "name": "Lexa-Maersk",
+  "type": "Container Ship",
+  "imo": "9190767",
+  "callsign": "OYYL2",
+  "mmsi": "219979000"
+}, {
+  "name": "Lexus",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9310317",
+  "callsign": "SGOX",
+  "mmsi": "266472000"
+}, {
+  "name": "Le-Ye",
+  "type": "General Cargo Ship",
+  "imo": "9175432",
+  "callsign": "BOQE",
+  "mmsi": "412015000"
+}, {
+  "name": "Le-Yi",
+  "type": "General Cargo Ship",
+  "imo": "9192662",
+  "callsign": "BOKX",
+  "mmsi": "412121000"
+}, {
+  "name": "Leyla",
+  "type": "General Cargo Ship",
+  "imo": "9213703",
+  "callsign": "V2OF6",
+  "mmsi": "304107000"
+}, {
+  "name": "Leyla-K",
+  "type": "Crude Oil Tanker",
+  "imo": "9430313",
+  "callsign": "V7TD9",
+  "mmsi": "538003786"
+}, {
+  "name": "Leyla-Kalkavan",
+  "type": "Container Ship",
+  "imo": "9126924",
+  "callsign": "TCA4541",
+  "mmsi": "271044978"
+}, {
+  "name": "Leyte-Spirit",
+  "type": "Crude Oil Tanker",
+  "imo": "9484089",
+  "callsign": "C6CG6",
+  "mmsi": "311000466"
+}, {
+  "name": "Lia",
+  "type": "Bulk Carrier",
+  "imo": "9584152",
+  "callsign": "9HA2673",
+  "mmsi": "215218000"
+}, {
+  "name": "Lia",
+  "type": "Crude Oil Tanker",
+  "imo": "9417751",
+  "callsign": "A8PL6",
+  "mmsi": "636013794"
+}, {
+  "name": "Liafjord",
+  "type": "Fish Carrier",
+  "imo": "9621974",
+  "callsign": "LCOV",
+  "mmsi": "257946000"
+}, {
+  "name": "Lia-I",
+  "type": "Multi Purpose Carrier",
+  "imo": "8812942",
+  "callsign": "J8QX1",
+  "mmsi": "377901099"
+}, {
+  "name": "Lia-Ievoli",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9148582",
+  "callsign": "IBDX",
+  "mmsi": "247346000"
+}, {
+  "name": "Liaki-Freedom",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9326639",
+  "callsign": "V7MO4",
+  "mmsi": "538002879"
+}, {
+  "name": "Lia-M",
+  "type": "Bulk Carrier",
+  "imo": "9525625",
+  "callsign": "5BUC3",
+  "mmsi": "210363000"
+}, {
+  "name": "Liamare",
+  "type": "General Cargo Ship",
+  "imo": "9166481",
+  "callsign": "PBBH",
+  "mmsi": "245455000"
+}, {
+  "name": "Lian-An-Hu",
+  "type": "Crude Oil Tanker",
+  "imo": "9308974",
+  "callsign": "BOGI",
+  "mmsi": "413107000"
+}, {
+  "name": "Liang-Chuan",
+  "type": "General Cargo Ship",
+  "imo": "9212931",
+  "callsign": "BJYQ",
+  "mmsi": "412521070"
+}, {
+  "name": "Liang-Gu",
+  "type": "General Cargo Ship",
+  "imo": "9231858",
+  "callsign": "LOLGO",
+  "mmsi": "412521190"
+}, {
+  "name": "Liang-He",
+  "type": "General Cargo Ship",
+  "imo": "9224128",
+  "callsign": "BTUS",
+  "mmsi": "412521180"
+}, {
+  "name": "Liang-Hui",
+  "type": "General Cargo Ship",
+  "imo": "9546019",
+  "callsign": "VRLA9",
+  "mmsi": "477211900"
+}, {
+  "name": "Lian-Hua-Song",
+  "type": "General Cargo Ship",
+  "imo": "9608829",
+  "callsign": "VRJE6",
+  "mmsi": "477535400"
+}, {
+  "name": "Lianne",
+  "type": "General Cargo Ship",
+  "imo": "9422275",
+  "callsign": "V2CP4",
+  "mmsi": "305067000"
+}, {
+  "name": "Lian-Ping-Hu",
+  "type": "Crude Oil Tanker",
+  "imo": "9308962",
+  "callsign": "BOEJ",
+  "mmsi": "413090000"
+}, {
+  "name": "Lian-Sheng-Hu",
+  "type": "Crude Oil Tanker",
+  "imo": "9344837",
+  "callsign": "BOGL",
+  "mmsi": "413248000"
+}, {
+  "name": "Lian-Shun-Hu",
+  "type": "Crude Oil Tanker",
+  "imo": "9308986",
+  "callsign": "BOGJ",
+  "mmsi": "413108000"
+}, {
+  "name": "Lian-Tong",
+  "type": "General Cargo Ship",
+  "imo": "8859029",
+  "callsign": "5VFS7",
+  "mmsi": "671034100"
+}, {
+  "name": "Lian-Xi-Hu",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9747106",
+  "callsign": "VRQT2",
+  "mmsi": "477021600"
+}, {
+  "name": "Lian-Xin",
+  "type": "Bulk Carrier",
+  "imo": "9243526",
+  "callsign": "3ECF",
+  "mmsi": "354211000"
+}, {
+  "name": "Lian-Xing-Hu",
+  "type": "Crude Oil Tanker",
+  "imo": "9344825",
+  "callsign": "BOGK",
+  "mmsi": "413247000"
+}, {
+  "name": "Lian-Yang-Hu",
+  "type": "Crude Oil Tanker",
+  "imo": "9783382",
+  "callsign": "VRRW6",
+  "mmsi": "477176100"
+}, {
+  "name": "Lian-Yun-Hu",
+  "type": "Crude Oil Tanker",
+  "imo": "9344813",
+  "callsign": "BOEK",
+  "mmsi": "413118000"
+}, {
+  "name": "Liao-You-121",
+  "type": "Oil Products Tanker",
+  "imo": "8733017",
+  "callsign": "",
+  "mmsi": "413200370"
+}, {
+  "name": "Liaoyu-8",
+  "type": "Fishing Vessel",
+  "imo": "8774956",
+  "callsign": "BZSF8",
+  "mmsi": "412217992"
+}, {
+  "name": "Liaoyu-Reefer-1",
+  "type": "Refrigerated Cargo Ship",
+  "imo": "8904068",
+  "callsign": "3FLJ6",
+  "mmsi": "351543000"
+}, {
+  "name": "Libera",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9293973",
+  "callsign": "9HOG8",
+  "mmsi": "256209000"
+}, {
+  "name": "Liberator",
+  "type": "Bulk Carrier",
+  "imo": "9364851",
+  "callsign": "D5GH2",
+  "mmsi": "636016461"
+}, {
+  "name": "Liberdadi",
+  "type": "Passenger Ro Ro Cargo Ship",
+  "imo": "9594092",
+  "callsign": "D4GH",
+  "mmsi": "617075000"
+}, {
+  "name": "Liberta",
+  "type": "General Cargo Ship",
+  "imo": "9370094",
+  "callsign": "V2CM3",
+  "mmsi": "305043000"
+}, {
+  "name": "Libertad-1",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "7003403",
+  "callsign": "HC5004",
+  "mmsi": "735057546"
+}, {
+  "name": "Libertad-6",
+  "type": "Oil Products Tanker",
+  "imo": "9281798",
+  "callsign": "HC5163",
+  "mmsi": "735058815"
+}, {
+  "name": "Libertas",
+  "type": "Service Ship",
+  "imo": "9426661",
+  "callsign": "ZGDJ8",
+  "mmsi": "319055800"
+}, {
+  "name": "Libertas-h",
+  "type": "General Cargo Ship",
+  "imo": "9388388",
+  "callsign": "CQJB",
+  "mmsi": "255805480"
+}, {
+  "name": "Liberty",
+  "type": "Passenger Ship",
+  "imo": "9592915",
+  "callsign": "FHQD",
+  "mmsi": "228008600"
+}, {
+  "name": "Liberty",
+  "type": "Service Ship",
+  "imo": "9599664",
+  "callsign": "ZGCF9",
+  "mmsi": "319039300"
+}, {
+  "name": "Liberty",
+  "type": "Crude Oil Tanker",
+  "imo": "9285756",
+  "callsign": "MFLM9",
+  "mmsi": "232094000"
+}, {
+  "name": "Liberty",
+  "type": "Vehicles Carrier",
+  "imo": "9310109",
+  "callsign": "KLIG",
+  "mmsi": "367125000"
+}, {
+  "name": "Liberty",
+  "type": "Bulk Carrier",
+  "imo": "9423542",
+  "callsign": "A8KP8",
+  "mmsi": "636091203"
+}, {
+  "name": "Liberty-Ace",
+  "type": "Vehicles Carrier",
+  "imo": "9293650",
+  "callsign": "7KAY",
+  "mmsi": "431554000"
+}, {
+  "name": "Liberty-Bay",
+  "type": "Bulk Carrier",
+  "imo": "9522893",
+  "callsign": "MDLG4",
+  "mmsi": "232016692"
+}, {
+  "name": "Liberty-C",
+  "type": "Bulk Carrier",
+  "imo": "9597977",
+  "callsign": "D5TX9",
+  "mmsi": "636019312"
+}, {
+  "name": "Liberty-Eagle",
+  "type": "Bulk Carrier",
+  "imo": "9278753",
+  "callsign": "WHIA",
+  "mmsi": "369344000"
+}, {
+  "name": "Liberty-Glory",
+  "type": "Bulk Carrier",
+  "imo": "9228136",
+  "callsign": "WADP",
+  "mmsi": "338217000"
+}, {
+  "name": "Liberty-Grace",
+  "type": "Bulk Carrier",
+  "imo": "9228148",
+  "callsign": "WADN",
+  "mmsi": "338219000"
+}, {
+  "name": "Liberty-Island",
+  "type": "Bulk Carrier",
+  "imo": "9491680",
+  "callsign": "HPUY",
+  "mmsi": "355886000"
+}, {
+  "name": "Liberty-Island",
+  "type": "Hopper Dredger",
+  "imo": "9224831",
+  "callsign": "WDFP",
+  "mmsi": "369053000"
+}, {
+  "name": "Liberty-Island",
+  "type": "Hopper Dredger",
+  "imo": "9224831",
+  "callsign": "WDFP",
+  "mmsi": "369053000"
+}, {
+  "name": "Liberty-Of-The-Seas",
+  "type": "Cruise Ship",
+  "imo": "9330032",
+  "callsign": "C6VQ8",
+  "mmsi": "309436000"
+}, {
+  "name": "Liberty-Passion",
+  "type": "Vehicles Carrier",
+  "imo": "9777888",
+  "callsign": "WLPI",
+  "mmsi": "369222000"
+}, {
+  "name": "Liberty-Peace",
+  "type": "Vehicles Carrier",
+  "imo": "9777890",
+  "callsign": "WLIU",
+  "mmsi": "368784000"
+}, {
+  "name": "Liberty-Pride",
+  "type": "Vehicles Carrier",
+  "imo": "9448114",
+  "callsign": "KRAU",
+  "mmsi": "368473000"
+}, {
+  "name": "Liberty-Promise",
+  "type": "Vehicles Carrier",
+  "imo": "9448425",
+  "callsign": "WWMZ",
+  "mmsi": "366102000"
+}, {
+  "name": "Liberty-Star",
+  "type": "Container Ship",
+  "imo": "9224350",
+  "callsign": "DSFI8",
+  "mmsi": "440738000"
+}, {
+  "name": "Liberty-Sun",
+  "type": "Bulk Carrier",
+  "imo": "8500551",
+  "callsign": "V7AA8",
+  "mmsi": "538004952"
+}, {
+  "name": "Libra",
+  "type": "Container Ship",
+  "imo": "9137571",
+  "callsign": "J8B5553",
+  "mmsi": "377782000"
+}, {
+  "name": "Libra",
+  "type": "Refrigerated Cargo Ship",
+  "imo": "9009683",
+  "callsign": "LYRT",
+  "mmsi": "277327000"
+}, {
+  "name": "Libra",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9121338",
+  "callsign": "HSB7219",
+  "mmsi": "567070300"
+}, {
+  "name": "Libra",
+  "type": "Oil Products Tanker",
+  "imo": "9009970",
+  "callsign": "9MWT5",
+  "mmsi": "533130667"
+}, {
+  "name": "Libra-Leader",
+  "type": "Vehicles Carrier",
+  "imo": "9174490",
+  "callsign": "7JWQ",
+  "mmsi": "431314000"
+}, {
+  "name": "Libramont",
+  "type": "Lpg Tanker",
+  "imo": "9292761",
+  "callsign": "ONCV",
+  "mmsi": "205460000"
+}, {
+  "name": "Libra-Sun",
+  "type": "Crude Oil Tanker",
+  "imo": "9402316",
+  "callsign": "D5EJ4",
+  "mmsi": "636016093"
+}, {
+  "name": "Libra-Trader",
+  "type": "Crude Oil Tanker",
+  "imo": "9562673",
+  "callsign": "V7UX2",
+  "mmsi": "538004051"
+}, {
+  "name": "Liburna",
+  "type": "Passenger Ro Ro Cargo Ship",
+  "imo": "8706727",
+  "callsign": "IWUH",
+  "mmsi": "247044300"
+}, {
+  "name": "Libya",
+  "type": "Crude Oil Tanker",
+  "imo": "9318084",
+  "callsign": "5AWK",
+  "mmsi": "642122007"
+}, {
+  "name": "Lica-Maersk",
+  "type": "Container Ship",
+  "imo": "9190779",
+  "callsign": "OWAY2",
+  "mmsi": "219981000"
+}, {
+  "name": "Li-Chi",
+  "type": "Crude Oil Tanker",
+  "imo": "9611670",
+  "callsign": "BPGH",
+  "mmsi": "414729000"
+}, {
+  "name": "Lida",
+  "type": "General Cargo Ship",
+  "imo": "9210933",
+  "callsign": "UBJF9",
+  "mmsi": "273332020"
+}, {
+  "name": "Lida-166",
+  "type": "General Cargo Ship",
+  "imo": "8660947",
+  "callsign": "V3TL7",
+  "mmsi": "312143000"
+}, {
+  "name": "Li-Da-Sheng",
+  "type": "Bulk Carrier",
+  "imo": "9552769",
+  "callsign": "",
+  "mmsi": "413705980"
+}, {
+  "name": "Lider-Amiral",
+  "type": "Ro Ro Cargo Ship",
+  "imo": "7700427",
+  "callsign": "5IM674",
+  "mmsi": "677057000"
+}, {
+  "name": "Lider-Baykan",
+  "type": "Passenger Ro Ro Cargo Ship",
+  "imo": "7812945",
+  "callsign": "5VHB9",
+  "mmsi": "671104100"
+}, {
+  "name": "Lider-Ilyas",
+  "type": "Heavy Load Carrier",
+  "imo": "7908445",
+  "callsign": "3EIX4",
+  "mmsi": "354337000"
+}, {
+  "name": "Lidia",
+  "type": "Bulk Carrier",
+  "imo": "9571624",
+  "callsign": "HP8758",
+  "mmsi": "372811000"
+}, {
+  "name": "Li-Dian-3",
+  "type": "Bulk Carrier",
+  "imo": "9492787",
+  "callsign": "BHNW3",
+  "mmsi": "413358160"
+}, {
+  "name": "Li-Dian-5",
+  "type": "Bulk Carrier",
+  "imo": "9492799",
+  "callsign": "BHNW5",
+  "mmsi": "414005000"
+}, {
+  "name": "Lidia-V",
+  "type": "General Cargo Ship",
+  "imo": "8230211",
+  "callsign": "UILK",
+  "mmsi": "273425510"
+}, {
+  "name": "Lido-Di-Venezia",
+  "type": "Passenger Ro Ro Cargo Ship",
+  "imo": "8969044",
+  "callsign": "ILKV2",
+  "mmsi": "247290300"
+}, {
+  "name": "Lidoga",
+  "type": "Oil Products Tanker",
+  "imo": "8711746",
+  "callsign": "UGLI",
+  "mmsi": "273434530"
+}, {
+  "name": "Lidya",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9260550",
+  "callsign": "TCA4809",
+  "mmsi": "271045665"
+}, {
+  "name": "Liebe",
+  "type": "General Cargo Ship",
+  "imo": "9623386",
+  "callsign": "D7LC",
+  "mmsi": "441845000"
+}, {
+  "name": "Lieke",
+  "type": "General Cargo Ship",
+  "imo": "9591820",
+  "callsign": "PCEV",
+  "mmsi": "246737000"
+}, {
+  "name": "Liesel-Essberger",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9272761",
+  "callsign": "CQLN",
+  "mmsi": "255805250"
+}, {
+  "name": "Lietta",
+  "type": "Bulk Carrier",
+  "imo": "9519004",
+  "callsign": "V7RP9",
+  "mmsi": "538003560"
+}, {
+  "name": "Lifana",
+  "type": "Multi Purpose Carrier",
+  "imo": "8315449",
+  "callsign": "PFOC",
+  "mmsi": "245815000"
+}, {
+  "name": "Life-Saga",
+  "type": "Service Ship",
+  "imo": "8999647",
+  "callsign": "9HB3644",
+  "mmsi": "229689000"
+}, {
+  "name": "Lifjell",
+  "type": "Fish Carrier",
+  "imo": "9606211",
+  "callsign": "3YWB",
+  "mmsi": "259091000"
+}, {
+  "name": "Lifjord",
+  "type": "Passenger Ro Ro Cargo Ship",
+  "imo": "9521710",
+  "callsign": "LEKU",
+  "mmsi": "257518000"
+}, {
+  "name": "Lifter",
+  "type": "General Cargo Ship",
+  "imo": "9414199",
+  "callsign": "V2DD4",
+  "mmsi": "305175000"
+}, {
+  "name": "Li-Fung",
+  "type": "General Cargo Ship",
+  "imo": "9107241",
+  "callsign": "9LU2911",
+  "mmsi": "667001413"
+}, {
+  "name": "Ligari",
+  "type": "Bulk Carrier",
+  "imo": "9279513",
+  "callsign": "9HQY8",
+  "mmsi": "256317000"
+}, {
+  "name": "Liger",
+  "type": "Tug",
+  "imo": "9677478",
+  "callsign": "UBWL3",
+  "mmsi": "273346080"
+}, {
+  "name": "Lighthouse-Winmore",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9635987",
+  "callsign": "VRNC3",
+  "mmsi": "477441600"
+}, {
+  "name": "Lightning",
+  "type": "[pleasure_craft.yacht ]",
+  "imo": "9809980",
+  "callsign": "DMBE",
+  "mmsi": "211201450"
+}, {
+  "name": "Light-Of-The-Sea",
+  "type": "Passenger Ro Ro Cargo Ship",
+  "imo": "7228376",
+  "callsign": "J8QT2",
+  "mmsi": "377901071"
+}, {
+  "name": "Ligovsky-Prospect",
+  "type": "Crude Oil Tanker",
+  "imo": "9256066",
+  "callsign": "A8AP5",
+  "mmsi": "636011641"
+}, {
+  "name": "Ligrunn",
+  "type": "Fish Carrier",
+  "imo": "9647784",
+  "callsign": "LDAK",
+  "mmsi": "258773000"
+}, {
+  "name": "Ligulao",
+  "type": "Vehicles Carrier",
+  "imo": "9561605",
+  "callsign": "3FIK2",
+  "mmsi": "351609000"
+}, {
+  "name": "Ligurian-Sea",
+  "type": "Crude Oil Tanker",
+  "imo": "9577032",
+  "callsign": "D5HI6",
+  "mmsi": "636016698"
+}, {
+  "name": "Liinahamari",
+  "type": "Fish Carrier",
+  "imo": "9123207",
+  "callsign": "UBJG4",
+  "mmsi": "273358500"
+}, {
+  "name": "Lijmiliya",
+  "type": "Lng Tanker",
+  "imo": "9388819",
+  "callsign": "V7PV2",
+  "mmsi": "538003294"
+}, {
+  "name": "Lika",
+  "type": "Cement Carrier",
+  "imo": "7377701",
+  "callsign": "HO3084",
+  "mmsi": "357858000"
+}, {
+  "name": "Likya-C",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9479711",
+  "callsign": "9HA2116",
+  "mmsi": "249994000"
+}, {
+  "name": "Lila",
+  "type": "Bulk Carrier",
+  "imo": "9278923",
+  "callsign": "9HA2363",
+  "mmsi": "312546000"
+}, {
+  "name": "Lila",
+  "type": "Bulk Carrier",
+  "imo": "9343819",
+  "callsign": "V7HA8",
+  "mmsi": "538005792"
+}, {
+  "name": "Lila-Bhum",
+  "type": "Container Ship",
+  "imo": "9143465",
+  "callsign": "S6LX",
+  "mmsi": "564241000"
+}, {
+  "name": "Lilac",
+  "type": "Passenger Ro Ro Cargo Ship",
+  "imo": "9257424",
+  "callsign": "JRHY",
+  "mmsi": "431301606"
+}, {
+  "name": "Lilac",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9411721",
+  "callsign": "J7AC5",
+  "mmsi": "325946000"
+}, {
+  "name": "Lilac-Victoria",
+  "type": "Oil Products Tanker",
+  "imo": "9589815",
+  "callsign": "V7VJ4",
+  "mmsi": "538004159"
+}, {
+  "name": "Lila-Hochiminh",
+  "type": "Container Ship",
+  "imo": "9152600",
+  "callsign": "D5UX2",
+  "mmsi": "636019526"
+}, {
+  "name": "Lila-Ii",
+  "type": "Bulk Carrier",
+  "imo": "9498315",
+  "callsign": "A8ZG8",
+  "mmsi": "636015208"
+}, {
+  "name": "Lila-London",
+  "type": "Container Ship",
+  "imo": "9293454",
+  "callsign": "3EBR8",
+  "mmsi": "371208000"
+}, {
+  "name": "Lila-Shanghai",
+  "type": "Bulk Carrier",
+  "imo": "9541318",
+  "callsign": "A8WC5",
+  "mmsi": "636018513"
+}, {
+  "name": "Lilaste",
+  "type": "Service Ship",
+  "imo": "8846876",
+  "callsign": "UGNC",
+  "mmsi": "273314040"
+}, {
+  "name": "Lili",
+  "type": "General Cargo Ship",
+  "imo": "7702994",
+  "callsign": "V4NW2",
+  "mmsi": "341254000"
+}, {
+  "name": "Lilian",
+  "type": "Bulk Carrier",
+  "imo": "9191448",
+  "callsign": "V7RI5",
+  "mmsi": "538003513"
+}, {
+  "name": "Lili-Marleen",
+  "type": "Cruise Ship",
+  "imo": "9086863",
+  "callsign": "9MGJ2",
+  "mmsi": "533000116"
+}, {
+  "name": "Lill",
+  "type": "General Cargo Ship",
+  "imo": "8209743",
+  "callsign": "LAVF7",
+  "mmsi": "257975000"
+}, {
+  "name": "Lillesand",
+  "type": "Crude Oil Tanker",
+  "imo": "9336397",
+  "callsign": "C6WD3",
+  "mmsi": "309987000"
+}, {
+  "name": "Lillo-Swan",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9390329",
+  "callsign": "9HDO9",
+  "mmsi": "256838000"
+}, {
+  "name": "Lilly-Bolten",
+  "type": "Bulk Carrier",
+  "imo": "9406063",
+  "callsign": "A8TJ5",
+  "mmsi": "636091829"
+}, {
+  "name": "Lilly-Schulte",
+  "type": "Container Ship",
+  "imo": "9449106",
+  "callsign": "A8XS2",
+  "mmsi": "636092161"
+}, {
+  "name": "Liloa-Ii",
+  "type": "General Cargo Ship",
+  "imo": "9184249",
+  "callsign": "V2CD",
+  "mmsi": "304984000"
+}, {
+  "name": "Lily-Atlantic",
+  "type": "Bulk Carrier",
+  "imo": "9433614",
+  "callsign": "HOWL",
+  "mmsi": "354774000"
+}, {
+  "name": "Lily-Auerbach",
+  "type": "General Cargo Ship",
+  "imo": "9363546",
+  "callsign": "D5AM6",
+  "mmsi": "636092331"
+}, {
+  "name": "Lily-b",
+  "type": "Deck Cargo Ship",
+  "imo": "9066069",
+  "callsign": "DGCX2",
+  "mmsi": "218814000"
+}, {
+  "name": "Lily-Breeze",
+  "type": "Bulk Carrier",
+  "imo": "9149017",
+  "callsign": "3ETL8",
+  "mmsi": "370889000"
+}, {
+  "name": "Lily-ha",
+  "type": "General Cargo Ship",
+  "imo": "8116972",
+  "callsign": "5VDP7",
+  "mmsi": "671643000"
+}, {
+  "name": "Lily-J",
+  "type": "Ro Ro Cargo Ship",
+  "imo": "7802079",
+  "callsign": "5VEB8",
+  "mmsi": "671734000"
+}, {
+  "name": "Lily-Of-Sea",
+  "type": "General Cargo Ship",
+  "imo": "9176383",
+  "callsign": "T8A3272",
+  "mmsi": "511100176"
+}, {
+  "name": "Lily-Queen",
+  "type": "Container Ship",
+  "imo": "9111462",
+  "callsign": "D5IH8",
+  "mmsi": "636016897"
+}, {
+  "name": "Lily-Star",
+  "type": "Container Ship",
+  "imo": "9111474",
+  "callsign": "D5LT3",
+  "mmsi": "636017593"
+}, {
+  "name": "Lima-1",
+  "type": "Offshore Tug Supply Ship",
+  "imo": "9137806",
+  "callsign": "V4IF3",
+  "mmsi": "341193000"
+}, {
+  "name": "Lima-Ii",
+  "type": "[tug.offshore_tug_supply]",
+  "imo": "9144677",
+  "callsign": "PJCA",
+  "mmsi": "306147000"
+}, {
+  "name": "Limari",
+  "type": "Container Ship",
+  "imo": "9290816",
+  "callsign": "ZCEU8",
+  "mmsi": "310761000"
+}, {
+  "name": "Limassol",
+  "type": "General Cargo Ship",
+  "imo": "9371919",
+  "callsign": "C4VE2",
+  "mmsi": "210203000"
+}, {
+  "name": "Limco-Maru",
+  "type": "General Cargo Ship",
+  "imo": "9524360",
+  "callsign": "XVRL",
+  "mmsi": "574412000"
+}, {
+  "name": "Lime",
+  "type": "General Cargo Ship",
+  "imo": "8857954",
+  "callsign": "ERNR",
+  "mmsi": "214181418"
+}, {
+  "name": "Lime-Galaxy",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9380972",
+  "callsign": "VRER5",
+  "mmsi": "477173600"
+}, {
+  "name": "Limerick-Spirit",
+  "type": "Crude Oil Tanker",
+  "imo": "9312860",
+  "callsign": "C6VF3",
+  "mmsi": "311476000"
+}, {
+  "name": "Limin-Handler",
+  "type": "Tug",
+  "imo": "9636230",
+  "callsign": "POED",
+  "mmsi": "525007132"
+}, {
+  "name": "Limin-Venture",
+  "type": "Cable Layer",
+  "imo": "8027810",
+  "callsign": "YBPE2",
+  "mmsi": "525119023"
+}, {
+  "name": "Limitless",
+  "type": "Service Ship",
+  "imo": "8975940",
+  "callsign": "WCX3409",
+  "mmsi": "368444000"
+}, {
+  "name": "Limnos",
+  "type": "Research Vessel",
+  "imo": "6804903",
+  "callsign": "CG2350",
+  "mmsi": "316001434"
+}, {
+  "name": "Lim-Tide",
+  "type": "Offshore Tug Supply Ship",
+  "imo": "9539640",
+  "callsign": "YJVU3",
+  "mmsi": "576220000"
+}, {
+  "name": "Lina",
+  "type": "Cement Carrier",
+  "imo": "9355082",
+  "callsign": "160060",
+  "mmsi": "440403700"
+}, {
+  "name": "Lina",
+  "type": "General Cargo Ship",
+  "imo": "9128001",
+  "callsign": "V3VC5",
+  "mmsi": "312481000"
+}, {
+  "name": "Linah",
+  "type": "Container Ship",
+  "imo": "9708801",
+  "callsign": "V7HL6",
+  "mmsi": "538005841"
+}, {
+  "name": "Lincoln-Park",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9640097",
+  "callsign": "2FQX9",
+  "mmsi": "235093505"
+}, {
+  "name": "Lincoln-Sea",
+  "type": "Pusher Tug",
+  "imo": "9219006",
+  "callsign": "WDH2997",
+  "mmsi": "366920340"
+}, {
+  "name": "Linda",
+  "type": "Container Ship",
+  "imo": "9354325",
+  "callsign": "OJML",
+  "mmsi": "230984000"
+}, {
+  "name": "Linda-1",
+  "type": "General Cargo Ship",
+  "imo": "8951334",
+  "callsign": "UBRV",
+  "mmsi": "273441420"
+}, {
+  "name": "Linda-c",
+  "type": "Utility Vessel",
+  "imo": "7367689",
+  "callsign": "YJQT8",
+  "mmsi": "576190000"
+}, {
+  "name": "Linda-Dream",
+  "type": "Bulk Carrier",
+  "imo": "9406556",
+  "callsign": "A8LE8",
+  "mmsi": "636013177"
+}, {
+  "name": "Linda-Fortune",
+  "type": "Bulk Carrier",
+  "imo": "9560388",
+  "callsign": "3FOW6",
+  "mmsi": "352793000"
+}, {
+  "name": "Linda-Hope",
+  "type": "Bulk Carrier",
+  "imo": "9567984",
+  "callsign": "3FXU7",
+  "mmsi": "351017000"
+}, {
+  "name": "Linda-Kosan",
+  "type": "Lpg Tanker",
+  "imo": "9525209",
+  "callsign": "OXSX2",
+  "mmsi": "219048000"
+}, {
+  "name": "Linda-Lee-Bouchard",
+  "type": "Pusher Tug",
+  "imo": "9405394",
+  "callsign": "WDD4370",
+  "mmsi": "367115000"
+}, {
+  "name": "Linda-Moran",
+  "type": "Pusher Tug",
+  "imo": "9398565",
+  "callsign": "WDE4187",
+  "mmsi": "367349860"
+}, {
+  "name": "Lindanger",
+  "type": "Oil Products Tanker",
+  "imo": "9725299",
+  "callsign": "LATL7",
+  "mmsi": "258689000"
+}, {
+  "name": "Linda-Oldendorff",
+  "type": "Bulk Carrier",
+  "imo": "9691929",
+  "callsign": "CQFH",
+  "mmsi": "255805609"
+}, {
+  "name": "Linda-Star",
+  "type": "Bulk Carrier",
+  "imo": "8312100",
+  "callsign": "3FXS2",
+  "mmsi": "372202000"
+}, {
+  "name": "Lindaunis",
+  "type": "Container Ship",
+  "imo": "9483334",
+  "callsign": "D5AH9",
+  "mmsi": "636092319"
+}, {
+  "name": "Lindeborg",
+  "type": "General Cargo Ship",
+  "imo": "9279068",
+  "callsign": "PHEH",
+  "mmsi": "246499000"
+}, {
+  "name": "Linden",
+  "type": "Sailing Vessel",
+  "imo": "8930184",
+  "callsign": "OXHD2",
+  "mmsi": "219023617"
+}, {
+  "name": "Linden-Pride",
+  "type": "Lpg Tanker",
+  "imo": "9206396",
+  "callsign": "H3VP",
+  "mmsi": "356677000"
+}, {
+  "name": "Lindo",
+  "type": "General Cargo Ship",
+  "imo": "8028527",
+  "callsign": "8PWE",
+  "mmsi": "314303000"
+}, {
+  "name": "Lindoia-Br",
+  "type": "Oil Products Tanker",
+  "imo": "8617093",
+  "callsign": "PPTB",
+  "mmsi": "710074018"
+}, {
+  "name": "Lindsaylou",
+  "type": "Bulk Carrier",
+  "imo": "9630729",
+  "callsign": "V7GK8",
+  "mmsi": "538005723"
+}, {
+  "name": "Lindsey-Foss",
+  "type": "Tug",
+  "imo": "9070254",
+  "callsign": "WCC9031",
+  "mmsi": "366767150"
+}, {
+  "name": "Lin-Fung-17",
+  "type": "Container Ship",
+  "imo": "9219850",
+  "callsign": "9LU2703",
+  "mmsi": "667001900"
+}, {
+  "name": "Linga",
+  "type": "Passenger Ro Ro Cargo Ship",
+  "imo": "9242170",
+  "callsign": "VSOC2",
+  "mmsi": "235003893"
+}, {
+  "name": "Lingbank",
+  "type": "Fish Carrier",
+  "imo": "8508307",
+  "callsign": "CFA2935",
+  "mmsi": "316039286"
+}, {
+  "name": "Lingeborg",
+  "type": "General Cargo Ship",
+  "imo": "9399399",
+  "callsign": "PHMK",
+  "mmsi": "245046000"
+}, {
+  "name": "Lingedijk",
+  "type": "General Cargo Ship",
+  "imo": "9515010",
+  "callsign": "PCGG",
+  "mmsi": "245947000"
+}, {
+  "name": "Lingestroom",
+  "type": "Tug",
+  "imo": "9819404",
+  "callsign": "PICW",
+  "mmsi": "244016000"
+}, {
+  "name": "Lin-Hai-6",
+  "type": "Bulk Carrier",
+  "imo": "9238210",
+  "callsign": "BTHA8",
+  "mmsi": "414351770"
+}, {
+  "name": "Linja",
+  "type": "Pollution Control Vessel",
+  "imo": "8713732",
+  "callsign": "OIRZ",
+  "mmsi": "230356000"
+}, {
+  "name": "Lin-Jie",
+  "type": "Ore Carrier",
+  "imo": "9271389",
+  "callsign": "VRGV6",
+  "mmsi": "477770100"
+}, {
+  "name": "Link-Star",
+  "type": "Ro Ro Cargo Ship",
+  "imo": "8805602",
+  "callsign": "OIXX",
+  "mmsi": "230191000"
+}, {
+  "name": "Linnau",
+  "type": "General Cargo Ship",
+  "imo": "9280689",
+  "callsign": "V2BO5",
+  "mmsi": "304880000"
+}, {
+  "name": "Lintan",
+  "type": "Bulk Carrier",
+  "imo": "9715206",
+  "callsign": "VROU2",
+  "mmsi": "477737100"
+}, {
+  "name": "Lintas-ix",
+  "type": "Oil Products Tanker",
+  "imo": "9664134",
+  "callsign": "POQM",
+  "mmsi": "525021119"
+}, {
+  "name": "Linyang",
+  "type": "General Cargo Ship",
+  "imo": "9016727",
+  "callsign": "V3ZM7",
+  "mmsi": "312521000"
+}, {
+  "name": "Lioba",
+  "type": "Container Ship",
+  "imo": "9377561",
+  "callsign": "CQDO",
+  "mmsi": "255805791"
+}, {
+  "name": "Liobo-Tb",
+  "type": "Other",
+  "imo": "1048645",
+  "callsign": "PE6943",
+  "mmsi": "244710237"
+}, {
+  "name": "Lion",
+  "type": "Crude Oil Tanker",
+  "imo": "8618918",
+  "callsign": "V7SP8",
+  "mmsi": "538003700"
+}, {
+  "name": "Lion",
+  "type": "Bulk Carrier",
+  "imo": "9136785",
+  "callsign": "3EZS4",
+  "mmsi": "373019000"
+}, {
+  "name": "Lion",
+  "type": "Oil Products Tanker",
+  "imo": "9125724",
+  "callsign": "E5U3453",
+  "mmsi": "518100539"
+}, {
+  "name": "Lion",
+  "type": "Container Ship",
+  "imo": "9208356",
+  "callsign": "9HA3172",
+  "mmsi": "229247000"
+}, {
+  "name": "Lion-A",
+  "type": "Ro Ro Cargo Ship",
+  "imo": "7615359",
+  "callsign": "3EVT4",
+  "mmsi": "373212000"
+}, {
+  "name": "Lioness-V",
+  "type": "Service Ship",
+  "imo": "1007990",
+  "callsign": "V7VZ6",
+  "mmsi": "538071291"
+}, {
+  "name": "Lionheart",
+  "type": "Sailing Vessel",
+  "imo": "1012323",
+  "callsign": "9HA4314",
+  "mmsi": "249613000"
+}, {
+  "name": "Lion-King",
+  "type": "Crude Oil Tanker",
+  "imo": "9185530",
+  "callsign": "V7EL2",
+  "mmsi": "538001826"
+}, {
+  "name": "Lipari",
+  "type": "Crude Oil Tanker",
+  "imo": "9529487",
+  "callsign": "9HA3014",
+  "mmsi": "229039000"
+}, {
+  "name": "Lipari-M",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9250074",
+  "callsign": "IBJZ",
+  "mmsi": "247078600"
+}, {
+  "name": "Li-Ping-Tan",
+  "type": "Crude Oil Tanker",
+  "imo": "9344928",
+  "callsign": "BPFV",
+  "mmsi": "413160000"
+}, {
+  "name": "Lipton-Bjoernsen",
+  "type": "Fishing Vessel",
+  "imo": "7396680",
+  "callsign": "LDSX",
+  "mmsi": "257687800"
+}, {
+  "name": "Lira",
+  "type": "General Cargo Ship",
+  "imo": "8516744",
+  "callsign": "3FIH3",
+  "mmsi": "374749000"
+}, {
+  "name": "Lisa",
+  "type": "General Cargo Ship",
+  "imo": "9235505",
+  "callsign": "V2GA4",
+  "mmsi": "304234000"
+}, {
+  "name": "Lisa",
+  "type": "Container Ship",
+  "imo": "9287704",
+  "callsign": "V2FK9",
+  "mmsi": "305709000"
+}, {
+  "name": "Lisa-a",
+  "type": "Offshore Support Vessel",
+  "imo": "8769200",
+  "callsign": "3ELA6",
+  "mmsi": "372887000"
+}, {
+  "name": "Lisa-Auerbach",
+  "type": "General Cargo Ship",
+  "imo": "9388900",
+  "callsign": "D5SN7",
+  "mmsi": "636092890"
+}, {
+  "name": "Lisa-Cooper",
+  "type": "Tug",
+  "imo": "8741961",
+  "callsign": "WDF2999",
+  "mmsi": "367434320"
+}, {
+  "name": "Lisa-D",
+  "type": "General Cargo Ship",
+  "imo": "8205187",
+  "callsign": "V2OK3",
+  "mmsi": "304559000"
+}, {
+  "name": "Lisa-Essberger",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9295438",
+  "callsign": "PCQE",
+  "mmsi": "245958000"
+}, {
+  "name": "Lisa-Iv",
+  "type": "Service Ship",
+  "imo": "8648743",
+  "callsign": "9HA2872",
+  "mmsi": "256499000"
+}, {
+  "name": "Lisa-Lehmann",
+  "type": "General Cargo Ship",
+  "imo": "9325130",
+  "callsign": "V2GL4",
+  "mmsi": "305981000"
+}, {
+  "name": "Lisanna",
+  "type": "General Cargo Ship",
+  "imo": "9283954",
+  "callsign": "V2OP8",
+  "mmsi": "304636000"
+}, {
+  "name": "Lisboa",
+  "type": "Crude Oil Tanker",
+  "imo": "9765158",
+  "callsign": "9HA4524",
+  "mmsi": "248133000"
+}, {
+  "name": "Lisbon",
+  "type": "Container Ship",
+  "imo": "9248148",
+  "callsign": "CQGZ",
+  "mmsi": "255805675"
+}, {
+  "name": "Lisbon-Express",
+  "type": "Container Ship",
+  "imo": "9108128",
+  "callsign": "ZCBD3",
+  "mmsi": "310132000"
+}, {
+  "name": "Lisbon-Trade",
+  "type": "General Cargo Ship",
+  "imo": "9509607",
+  "callsign": "A8TV8",
+  "mmsi": "636018713"
+}, {
+  "name": "Lisca-Bianca-M",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9290517",
+  "callsign": "IBED",
+  "mmsi": "247149200"
+}, {
+  "name": "Lisca-Nera-M",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9436692",
+  "callsign": "IBGM",
+  "mmsi": "247273700"
+}, {
+  "name": "Lise-beate",
+  "type": "Fishing Vessel",
+  "imo": "9029047",
+  "callsign": "LLYL",
+  "mmsi": "258147000"
+}, {
+  "name": "Lissa-Topic",
+  "type": "Bulk Carrier",
+  "imo": "9251327",
+  "callsign": "ELYB9",
+  "mmsi": "636011285"
+}, {
+  "name": "Lisse",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9439357",
+  "callsign": "V7SE2",
+  "mmsi": "538003630"
+}, {
+  "name": "Lista",
+  "type": "Bulk Carrier",
+  "imo": "9514030",
+  "callsign": "V7A2502",
+  "mmsi": "538008552"
+}, {
+  "name": "Lister",
+  "type": "General Cargo Ship",
+  "imo": "9155963",
+  "callsign": "OZ2163",
+  "mmsi": "231023000"
+}, {
+  "name": "Listerhav",
+  "type": "General Cargo Ship",
+  "imo": "9131589",
+  "callsign": "OZ2164",
+  "mmsi": "231024000"
+}, {
+  "name": "Listerland",
+  "type": "General Cargo Ship",
+  "imo": "9088299",
+  "callsign": "OZ2170",
+  "mmsi": "231026000"
+}, {
+  "name": "Listervik",
+  "type": "General Cargo Ship",
+  "imo": "9136216",
+  "callsign": "OZ2165",
+  "mmsi": "231025000"
+}, {
+  "name": "Listraum",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "8920282",
+  "callsign": "LDRY3",
+  "mmsi": "257159000"
+}, {
+  "name": "Lita",
+  "type": "Bulk Carrier",
+  "imo": "9117416",
+  "callsign": "A8XV2",
+  "mmsi": "636016303"
+}, {
+  "name": "Lite-Ferry-18",
+  "type": "Passenger Ro Ro Cargo Ship",
+  "imo": "8773885",
+  "callsign": "DUH4243",
+  "mmsi": "548638500"
+}, {
+  "name": "Liteyny-Prospect",
+  "type": "Crude Oil Tanker",
+  "imo": "9256078",
+  "callsign": "A8AP6",
+  "mmsi": "636011642"
+}, {
+  "name": "Lito",
+  "type": "Bulk Carrier",
+  "imo": "9601338",
+  "callsign": "D5BL2",
+  "mmsi": "636015548"
+}, {
+  "name": "Litoral",
+  "type": "Tug",
+  "imo": "8634039",
+  "callsign": "LW9889",
+  "mmsi": "701006381"
+}, {
+  "name": "Little-Prince",
+  "type": "Bulk Carrier",
+  "imo": "9221592",
+  "callsign": "C6WD7",
+  "mmsi": "311052000"
+}, {
+  "name": "Liu-Lin-Wan",
+  "type": "Crude Oil Tanker",
+  "imo": "9283253",
+  "callsign": "BPAA",
+  "mmsi": "413069000"
+}, {
+  "name": "Liu-Shun",
+  "type": "General Cargo Ship",
+  "imo": "8519502",
+  "callsign": "9LU2563",
+  "mmsi": "667001760"
+}, {
+  "name": "Liva",
+  "type": "General Cargo Ship",
+  "imo": "9053907",
+  "callsign": "E5U2918",
+  "mmsi": "518970000"
+}, {
+  "name": "Livadi",
+  "type": "Bulk Carrier",
+  "imo": "9522946",
+  "callsign": "9HA3220",
+  "mmsi": "229310000"
+}, {
+  "name": "Liva-Greta",
+  "type": "General Cargo Ship",
+  "imo": "8801072",
+  "callsign": "YLCJ",
+  "mmsi": "275344000"
+}, {
+  "name": "Liverpool-Express",
+  "type": "Container Ship",
+  "imo": "9232565",
+  "callsign": "DDSD2",
+  "mmsi": "218025000"
+}, {
+  "name": "Liverpool-Seaways",
+  "type": "Passenger Ro Ro Cargo Ship",
+  "imo": "9136034",
+  "callsign": "LYTK",
+  "mmsi": "277449000"
+}, {
+  "name": "Living-Stone",
+  "type": "Cable Layer",
+  "imo": "9776925",
+  "callsign": "PBXN",
+  "mmsi": "244010952"
+}, {
+  "name": "Livita",
+  "type": "Bulk Carrier",
+  "imo": "9801299",
+  "callsign": "LACG8",
+  "mmsi": "257073000"
+}, {
+  "name": "Liv-Knutsen",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9409273",
+  "callsign": "9HA5042",
+  "mmsi": "215289000"
+}, {
+  "name": "Livland",
+  "type": "General Cargo Ship",
+  "imo": "9237034",
+  "callsign": "ZDGA5",
+  "mmsi": "236223000"
+}, {
+  "name": "Liv-Marit",
+  "type": "General Cargo Ship",
+  "imo": "6621313",
+  "callsign": "LJPS",
+  "mmsi": "258566000"
+}, {
+  "name": "Livorno-Express",
+  "type": "Container Ship",
+  "imo": "9610157",
+  "callsign": "VRLU9",
+  "mmsi": "477486100"
+}, {
+  "name": "Liwa",
+  "type": "Bulk Carrier",
+  "imo": "9077109",
+  "callsign": "A8MU8",
+  "mmsi": "636016591"
+}, {
+  "name": "Liwa-v",
+  "type": "Crude Oil Tanker",
+  "imo": "9489039",
+  "callsign": "A8XL9",
+  "mmsi": "636014929"
+}, {
+  "name": "Liza",
+  "type": "General Cargo Ship",
+  "imo": "8721014",
+  "callsign": "UGSV",
+  "mmsi": "273197200"
+}, {
+  "name": "Liza-Destiny",
+  "type": "Crude Oil Tanker",
+  "imo": "9175080",
+  "callsign": "C6BF5",
+  "mmsi": "311000248"
+}, {
+  "name": "Liz-F",
+  "type": "Tug",
+  "imo": "9646560",
+  "callsign": "PCPV",
+  "mmsi": "246874000"
+}, {
+  "name": "Lizori",
+  "type": "General Cargo Ship",
+  "imo": "7235070",
+  "callsign": "ERHJ",
+  "mmsi": "214180810"
+}, {
+  "name": "Lizrix",
+  "type": "Oil Products Tanker",
+  "imo": "9428188",
+  "callsign": "2ATQ8",
+  "mmsi": "235067266"
+}, {
+  "name": "Lizstar",
+  "type": "General Cargo Ship",
+  "imo": "9230294",
+  "callsign": "3FEN6",
+  "mmsi": "357949000"
+}, {
+  "name": "Lizstar-Success",
+  "type": "General Cargo Ship",
+  "imo": "9369100",
+  "callsign": "3EJN2",
+  "mmsi": "372568000"
+}, {
+  "name": "Liz-V",
+  "type": "Offshore Tug Supply Ship",
+  "imo": "9656462",
+  "callsign": "PCTW",
+  "mmsi": "244790091"
+}, {
+  "name": "Liz-Vinik",
+  "type": "Tug",
+  "imo": "5107918",
+  "callsign": "WDJ7775",
+  "mmsi": "366920310"
+}, {
+  "name": "L-J-Johnson",
+  "type": "Offshore Tug Supply Ship",
+  "imo": "9576363",
+  "callsign": "AVIV",
+  "mmsi": "419000208"
+}, {
+  "name": "Ljosafell",
+  "type": "Fishing Vessel",
+  "imo": "7311965",
+  "callsign": "TFHV",
+  "mmsi": "251143110"
+}, {
+  "name": "Ljubica",
+  "type": "Fishing Vessel",
+  "imo": "9681584",
+  "callsign": "3EMB6",
+  "mmsi": "371106000"
+}, {
+  "name": "Ljuta",
+  "type": "Bulk Carrier",
+  "imo": "9243693",
+  "callsign": "J8B4127",
+  "mmsi": "377715000"
+}, {
+  "name": "Ll-Antias",
+  "type": "Fishing Vessel",
+  "imo": "9055199",
+  "callsign": "UINP",
+  "mmsi": "273843800"
+}, {
+  "name": "Lloyd-Don-Giovanni",
+  "type": "Container Ship",
+  "imo": "9305506",
+  "callsign": "A8IE7",
+  "mmsi": "636090964"
+}, {
+  "name": "Lloyd-Don-Pascuale",
+  "type": "Container Ship",
+  "imo": "9318101",
+  "callsign": "A8KY2",
+  "mmsi": "636091231"
+}, {
+  "name": "Ll-Tezey",
+  "type": "Fishing Vessel",
+  "imo": "9082295",
+  "callsign": "UAEV",
+  "mmsi": "273891300"
+}, {
+  "name": "L.m.nilwala",
+  "type": "Oil Products Tanker",
+  "imo": "9140334",
+  "callsign": "4RCY",
+  "mmsi": "417222380"
+}, {
+  "name": "Lm-Selene",
+  "type": "Bulk Carrier",
+  "imo": "9426025",
+  "callsign": "V7SI6",
+  "mmsi": "538003661"
+}, {
+  "name": "Lm-Victoria",
+  "type": "Bulk Carrier",
+  "imo": "9457866",
+  "callsign": "V7UT3",
+  "mmsi": "538004022"
+}, {
+  "name": "Lmz-Ariel",
+  "type": "Bulk Carrier",
+  "imo": "9632818",
+  "callsign": "V7XR4",
+  "mmsi": "538004551"
+}, {
+  "name": "Lmz-Bianca",
+  "type": "Bulk Carrier",
+  "imo": "9590981",
+  "callsign": "5BJN4",
+  "mmsi": "210528000"
+}, {
+  "name": "Lmz-Ceres",
+  "type": "Bulk Carrier",
+  "imo": "9492490",
+  "callsign": "5BUM4",
+  "mmsi": "209092000"
+}, {
+  "name": "Lmz-Europa",
+  "type": "Bulk Carrier",
+  "imo": "9588562",
+  "callsign": "V7XL8",
+  "mmsi": "538007149"
+}, {
+  "name": "Lmz-Phoebe",
+  "type": "Bulk Carrier",
+  "imo": "9599389",
+  "callsign": "V7DD5",
+  "mmsi": "538005370"
+}, {
+  "name": "Lmz-Pluto",
+  "type": "Bulk Carrier",
+  "imo": "9585326",
+  "callsign": "V7WM9",
+  "mmsi": "538004342"
+}, {
+  "name": "Lmz-Titan",
+  "type": "Bulk Carrier",
+  "imo": "9466908",
+  "callsign": "V7VC9",
+  "mmsi": "538004090"
+}, {
+  "name": "Lmz-Vega",
+  "type": "Bulk Carrier",
+  "imo": "9548574",
+  "callsign": "3EWY7",
+  "mmsi": "538007150"
+}, {
+  "name": "Lng-Abalamabie",
+  "type": "Lng Tanker",
+  "imo": "9690171",
+  "callsign": "ZCER3",
+  "mmsi": "310731000"
+}, {
+  "name": "Lng-Abuja-Ii",
+  "type": "Lng Tanker",
+  "imo": "9690169",
+  "callsign": "ZCER2",
+  "mmsi": "310730000"
+}, {
+  "name": "Lng-Adamawa",
+  "type": "Lng Tanker",
+  "imo": "9262211",
+  "callsign": "ZCDM8",
+  "mmsi": "310469000"
+}, {
+  "name": "Lng-Akwa-Ibom",
+  "type": "Lng Tanker",
+  "imo": "9262209",
+  "callsign": "ZCDL9",
+  "mmsi": "310453000"
+}, {
+  "name": "Lng-Alliance",
+  "type": "Lng Tanker",
+  "imo": "9320075",
+  "callsign": "FMLU",
+  "mmsi": "228333700"
+}, {
+  "name": "Lng-Barka",
+  "type": "Lng Tanker",
+  "imo": "9341299",
+  "callsign": "C6WO8",
+  "mmsi": "308579000"
+}, {
+  "name": "Lng-Bayelsa",
+  "type": "Lng Tanker",
+  "imo": "9241267",
+  "callsign": "ZCDF9",
+  "mmsi": "310381000"
+}, {
+  "name": "Lng-Benue",
+  "type": "Lng Tanker",
+  "imo": "9267015",
+  "callsign": "ZCDQ3",
+  "mmsi": "310495000"
+}, {
+  "name": "Lng-Bonny-Ii",
+  "type": "Lng Tanker",
+  "imo": "9692002",
+  "callsign": "ZCEQ6",
+  "mmsi": "310720000"
+}, {
+  "name": "Lng-Borno",
+  "type": "Lng Tanker",
+  "imo": "9322803",
+  "callsign": "ZCDW4",
+  "mmsi": "310543000"
+}, {
+  "name": "Lngc-Al-Shamal",
+  "type": "Lng Tanker",
+  "imo": "9360893",
+  "callsign": "C6VG4",
+  "mmsi": "309781000"
+}, {
+  "name": "Lngc-Golar-Celsius",
+  "type": "Lng Tanker",
+  "imo": "9626027",
+  "callsign": "V7AF5",
+  "mmsi": "538004984"
+}, {
+  "name": "Lngc-Puteri-Delima",
+  "type": "Lng Tanker",
+  "imo": "9030814",
+  "callsign": "9MBR8",
+  "mmsi": "533022000"
+}, {
+  "name": "Lng-Cross-River",
+  "type": "Lng Tanker",
+  "imo": "9262223",
+  "callsign": "ZCDO2",
+  "mmsi": "310478000"
+}, {
+  "name": "Lng-Dream",
+  "type": "Lng Tanker",
+  "imo": "9277620",
+  "callsign": "C6VO5",
+  "mmsi": "309065000"
+}, {
+  "name": "Lng-Ebisu",
+  "type": "Lng Tanker",
+  "imo": "9329291",
+  "callsign": "C6XB4",
+  "mmsi": "311004400"
+}, {
+  "name": "Lng-Enugu",
+  "type": "Lng Tanker",
+  "imo": "9266994",
+  "callsign": "ZCDM5",
+  "mmsi": "310482000"
+}, {
+  "name": "Lng-Finima-Ii",
+  "type": "Lng Tanker",
+  "imo": "9690145",
+  "callsign": "ZCEQ4",
+  "mmsi": "310722000"
+}, {
+  "name": "Lng-Fukurokuju",
+  "type": "Lng Tanker",
+  "imo": "9666986",
+  "callsign": "C6BU3",
+  "mmsi": "311000365"
+}, {
+  "name": "Lng-Golar-Tundra",
+  "type": "Fsru Tanker",
+  "imo": "9655808",
+  "callsign": "V7AF3",
+  "mmsi": "538004982"
+}, {
+  "name": "Lng-Guardian",
+  "type": "Tug",
+  "imo": "9615585",
+  "callsign": "IIZJ2",
+  "mmsi": "247316200"
+}, {
+  "name": "Lng-Imo",
+  "type": "Lng Tanker",
+  "imo": "9311581",
+  "callsign": "ZCDT6",
+  "mmsi": "310565000"
+}, {
+  "name": "Lng-Jamal",
+  "type": "Lng Tanker",
+  "imo": "9200316",
+  "callsign": "JPHB",
+  "mmsi": "432278000"
+}, {
+  "name": "Lng-Juno",
+  "type": "Lng Tanker",
+  "imo": "9774628",
+  "callsign": "C6CV3",
+  "mmsi": "311000583"
+}, {
+  "name": "Lng-Jupiter",
+  "type": "Lng Tanker",
+  "imo": "9341689",
+  "callsign": "C6XQ5",
+  "mmsi": "311019200"
+}, {
+  "name": "Lng-Jurojin",
+  "type": "Lng Tanker",
+  "imo": "9666998",
+  "callsign": "C6CA7",
+  "mmsi": "311000420"
+}, {
+  "name": "Lng-Kano",
+  "type": "Lng Tanker",
+  "imo": "9311567",
+  "callsign": "ZCDT4",
+  "mmsi": "310534000"
+}, {
+  "name": "Lng-Kolt",
+  "type": "Lng Tanker",
+  "imo": "9372963",
+  "callsign": "3FNM7",
+  "mmsi": "370799000"
+}, {
+  "name": "Lng-Libra",
+  "type": "Lng Tanker",
+  "imo": "7413232",
+  "callsign": "V7BX3",
+  "mmsi": "538001390"
+}, {
+  "name": "Lng-Lokoja",
+  "type": "Lng Tanker",
+  "imo": "9269960",
+  "callsign": "ZCDT3",
+  "mmsi": "310519000"
+}, {
+  "name": "Lng-Maleo",
+  "type": "Lng Tanker",
+  "imo": "8701791",
+  "callsign": "JFYD",
+  "mmsi": "431015000"
+}, {
+  "name": "Lng-Mars",
+  "type": "Lng Tanker",
+  "imo": "9645748",
+  "callsign": "7JRT",
+  "mmsi": "431177000"
+}, {
+  "name": "Lng-Ogun",
+  "type": "Lng Tanker",
+  "imo": "9322815",
+  "callsign": "ZCDW3",
+  "mmsi": "310542000"
+}, {
+  "name": "Lng-Ondo",
+  "type": "Lng Tanker",
+  "imo": "9311579",
+  "callsign": "ZCDT5",
+  "mmsi": "310550000"
+}, {
+  "name": "Lng-Oyo",
+  "type": "Lng Tanker",
+  "imo": "9267003",
+  "callsign": "ZCDN4",
+  "mmsi": "310487000"
+}, {
+  "name": "Lng-Pioneer",
+  "type": "Lng Tanker",
+  "imo": "9256602",
+  "callsign": "C6UG5",
+  "mmsi": "311906000"
+}, {
+  "name": "Lng-Port-harcourt-Ii",
+  "type": "Lng Tanker",
+  "imo": "9690157",
+  "callsign": "ZCEQ5",
+  "mmsi": "310719000"
+}, {
+  "name": "Lng-River-Niger",
+  "type": "Lng Tanker",
+  "imo": "9262235",
+  "callsign": "ZCDO3",
+  "mmsi": "310479000"
+}, {
+  "name": "Lng-River-Orashi",
+  "type": "Lng Tanker",
+  "imo": "9266982",
+  "callsign": "ZCDL8",
+  "mmsi": "310447000"
+}, {
+  "name": "Lng-Rivers",
+  "type": "Lng Tanker",
+  "imo": "9216298",
+  "callsign": "ZCDE3",
+  "mmsi": "310370000"
+}, {
+  "name": "Lng-Sakura",
+  "type": "Lng Tanker",
+  "imo": "9774135",
+  "callsign": "C6DR7",
+  "mmsi": "311000760"
+}, {
+  "name": "Lng-Saturn",
+  "type": "Lng Tanker",
+  "imo": "9696149",
+  "callsign": "C6CD3",
+  "mmsi": "311000439"
+}, {
+  "name": "Lng-Schneeweisschen",
+  "type": "Lng Tanker",
+  "imo": "9771913",
+  "callsign": "3EPT9",
+  "mmsi": "357315000"
+}, {
+  "name": "Lng-Sokoto",
+  "type": "Lng Tanker",
+  "imo": "9216303",
+  "callsign": "ZCDE4",
+  "mmsi": "310378000"
+}, {
+  "name": "Lng-Venus",
+  "type": "Lng Tanker",
+  "imo": "9645736",
+  "callsign": "7JQG",
+  "mmsi": "432994000"
+}, {
+  "name": "Lng-Vesta",
+  "type": "Lng Tanker",
+  "imo": "9020766",
+  "callsign": "JGES",
+  "mmsi": "431642000"
+}, {
+  "name": "Lobito",
+  "type": "Lng Tanker",
+  "imo": "9490961",
+  "callsign": "C6YZ3",
+  "mmsi": "311038700"
+}, {
+  "name": "Lobivia",
+  "type": "Container Ship",
+  "imo": "9228564",
+  "callsign": "ELZC7",
+  "mmsi": "636090486"
+}, {
+  "name": "Lobo-Marinho",
+  "type": "Passenger Ro Ro Cargo Ship",
+  "imo": "9267390",
+  "callsign": "CQTW",
+  "mmsi": "255997000"
+}, {
+  "name": "Loch-Crinan",
+  "type": "Bulk Carrier",
+  "imo": "9566643",
+  "callsign": "3EYS9",
+  "mmsi": "351443000"
+}, {
+  "name": "Loch-Dunvegan",
+  "type": "Passenger Ro Ro Cargo Ship",
+  "imo": "9006409",
+  "callsign": "MNFE3",
+  "mmsi": "232003165"
+}, {
+  "name": "Lochinvar",
+  "type": "Passenger Ro Ro Cargo Ship",
+  "imo": "9652844",
+  "callsign": "2GOU2",
+  "mmsi": "235099237"
+}, {
+  "name": "Loch-Long",
+  "type": "Bulk Carrier",
+  "imo": "9599066",
+  "callsign": "3FCW",
+  "mmsi": "352582000"
+}, {
+  "name": "Loch-Melfort",
+  "type": "Bulk Carrier",
+  "imo": "9658795",
+  "callsign": "3FRR3",
+  "mmsi": "372924000"
+}, {
+  "name": "Lochnevis",
+  "type": "Passenger Ro Ro Cargo Ship",
+  "imo": "9209063",
+  "callsign": "ZQGW3",
+  "mmsi": "235000141"
+}, {
+  "name": "Loch-Portain",
+  "type": "Passenger Ro Ro Cargo Ship",
+  "imo": "9274824",
+  "callsign": "VQKE8",
+  "mmsi": "235008928"
+}, {
+  "name": "Loch-Rannoch",
+  "type": "Crude Oil Tanker",
+  "imo": "9160619",
+  "callsign": "MYJG2",
+  "mmsi": "232829000"
+}, {
+  "name": "Loch-Seaforth",
+  "type": "Passenger Ro Ro Cargo Ship",
+  "imo": "9665437",
+  "callsign": "2GYU4",
+  "mmsi": "235101635"
+}, {
+  "name": "Loch-Shira",
+  "type": "Passenger Ro Ro Cargo Ship",
+  "imo": "9376919",
+  "callsign": "MQPQ9",
+  "mmsi": "235053239"
+}, {
+  "name": "Loch-Shuna",
+  "type": "Bulk Carrier",
+  "imo": "9668051",
+  "callsign": "3FDR7",
+  "mmsi": "351474000"
+}, {
+  "name": "Locomotion",
+  "type": "Bulk Carrier",
+  "imo": "9667423",
+  "callsign": "D5ED2",
+  "mmsi": "636016044"
+}, {
+  "name": "Lodairo",
+  "type": "Fishing Vessel",
+  "imo": "9690676",
+  "callsign": "EAEO",
+  "mmsi": "224717000"
+}, {
+  "name": "Lodbrog",
+  "type": "Cable Layer",
+  "imo": "8306591",
+  "callsign": "FNPW",
+  "mmsi": "226281000"
+}, {
+  "name": "Lodestar",
+  "type": "Bulk Carrier",
+  "imo": "9470143",
+  "callsign": "9HDH9",
+  "mmsi": "256824000"
+}, {
+  "name": "Lodestar-Pacific",
+  "type": "Bulk Carrier",
+  "imo": "9726853",
+  "callsign": "3EST",
+  "mmsi": "352206000"
+}, {
+  "name": "Lodestar-Princess",
+  "type": "Bulk Carrier",
+  "imo": "9317743",
+  "callsign": "H9IK",
+  "mmsi": "354332000"
+}, {
+  "name": "Lodingen",
+  "type": "Passenger Ro Ro Cargo Ship",
+  "imo": "9607409",
+  "callsign": "LCLF",
+  "mmsi": "257837000"
+}, {
+  "name": "Loengo",
+  "type": "Crude Oil Tanker",
+  "imo": "9372858",
+  "callsign": "A8MO9",
+  "mmsi": "636014739"
+}, {
+  "name": "Lofoten",
+  "type": "Passenger General Cargo Ship",
+  "imo": "5424562",
+  "callsign": "LIXN",
+  "mmsi": "258477000"
+}, {
+  "name": "Lofotferge-1",
+  "type": "Passenger Ro Ro Cargo Ship",
+  "imo": "7034189",
+  "callsign": "LNOO",
+  "mmsi": "257310400"
+}, {
+  "name": "Logimar-Ii",
+  "type": "Deck Cargo Ship",
+  "imo": "9116773",
+  "callsign": "CA7815",
+  "mmsi": "725003217"
+}, {
+  "name": "Logindo-Destiny",
+  "type": "Offshore Tug Supply Ship",
+  "imo": "9640877",
+  "callsign": "YEGJ",
+  "mmsi": "525016737"
+}, {
+  "name": "Logindo-Overcomer",
+  "type": "Offshore Tug Supply Ship",
+  "imo": "9489443",
+  "callsign": "YGUY",
+  "mmsi": "525015881"
+}, {
+  "name": "Logindo-Progress",
+  "type": "Offshore Tug Supply Ship",
+  "imo": "9398993",
+  "callsign": "JZGL",
+  "mmsi": "525005227"
+}, {
+  "name": "Logindo-Servewell-S",
+  "type": "Offshore Tug Supply Ship",
+  "imo": "9325594",
+  "callsign": "PNAJ",
+  "mmsi": "525016528"
+}, {
+  "name": "Logindo-Sturdy",
+  "type": "Offshore Tug Supply Ship",
+  "imo": "9355850",
+  "callsign": "JZWT",
+  "mmsi": "525005297"
+}, {
+  "name": "Log-in-Jacaranda",
+  "type": "Container Ship",
+  "imo": "9471886",
+  "callsign": "PPSD",
+  "mmsi": "710006930"
+}, {
+  "name": "Log-in-Jatoba",
+  "type": "Container Ship",
+  "imo": "9471898",
+  "callsign": "PQ4801",
+  "mmsi": "710009040"
+}, {
+  "name": "Log-In-Pantanal",
+  "type": "Container Ship",
+  "imo": "9351799",
+  "callsign": "PPVQ",
+  "mmsi": "710003840"
+}, {
+  "name": "Log-In-Resiliente",
+  "type": "Container Ship",
+  "imo": "9327669",
+  "callsign": "PV3783",
+  "mmsi": "710098000"
+}, {
+  "name": "Logistik-Nusantara-1",
+  "type": "General Cargo Ship",
+  "imo": "9165853",
+  "callsign": "YBPH2",
+  "mmsi": "525105001"
+}, {
+  "name": "Logistik-Nusantara-2",
+  "type": "General Cargo Ship",
+  "imo": "9418470",
+  "callsign": "YBVX2",
+  "mmsi": "525105002"
+}, {
+  "name": "Logistik-Nusantara-3",
+  "type": "General Cargo Ship",
+  "imo": "9474981",
+  "callsign": "YBYO2",
+  "mmsi": "525105003"
+}, {
+  "name": "Logistik-Nusantara-4",
+  "type": "General Cargo Ship",
+  "imo": "9474979",
+  "callsign": "YBYY2",
+  "mmsi": "525105005"
+}, {
+  "name": "Logistik-Nusantara-5",
+  "type": "General Cargo Ship",
+  "imo": "9351361",
+  "callsign": "E5U3296",
+  "mmsi": "525105004"
+}, {
+  "name": "Logos-Hope",
+  "type": "Passenger Ship",
+  "imo": "7302914",
+  "callsign": "9HA2851",
+  "mmsi": "256375000"
+}, {
+  "name": "Logudoro",
+  "type": "Passenger Ro Ro Cargo Ship",
+  "imo": "8506555",
+  "callsign": "ICZL",
+  "mmsi": "247572000"
+}, {
+  "name": "Loi-Dream",
+  "type": "Oil Products Tanker",
+  "imo": "9102801",
+  "callsign": "D8CC",
+  "mmsi": "441958000"
+}, {
+  "name": "Loire",
+  "type": "Crude Oil Tanker",
+  "imo": "9761516",
+  "callsign": "V7QJ5",
+  "mmsi": "538006701"
+}, {
+  "name": "Loireborg",
+  "type": "General Cargo Ship",
+  "imo": "9399404",
+  "callsign": "PHPT",
+  "mmsi": "245535000"
+}, {
+  "name": "Lois-Ann-L-Moran",
+  "type": "Pusher Tug",
+  "imo": "9415777",
+  "callsign": "WDE9542",
+  "mmsi": "368468000"
+}, {
+  "name": "Loke-Viking",
+  "type": "Offshore Tug Supply Ship",
+  "imo": "9423815",
+  "callsign": "LEUX3",
+  "mmsi": "257056000"
+}, {
+  "name": "Lokholmen",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9433303",
+  "callsign": "V7RN2",
+  "mmsi": "538005550"
+}, {
+  "name": "Lokys",
+  "type": "Fishing Vessel",
+  "imo": "9226736",
+  "callsign": "LYBJ",
+  "mmsi": "277558000"
+}, {
+  "name": "Lola-1",
+  "type": "Cement Carrier",
+  "imo": "6721151",
+  "callsign": "J8XH6",
+  "mmsi": "375219000"
+}, {
+  "name": "Lola-B",
+  "type": "Container Ship",
+  "imo": "9353723",
+  "callsign": "CQAS3",
+  "mmsi": "255806261"
+}, {
+  "name": "Lolland",
+  "type": "Passenger Ro Ro Cargo Ship",
+  "imo": "9594690",
+  "callsign": "OYRK",
+  "mmsi": "219016555"
+}, {
+  "name": "Lolland",
+  "type": "General Cargo Ship",
+  "imo": "9480124",
+  "callsign": "A8YA7",
+  "mmsi": "636092187"
+}, {
+  "name": "Lolo-Gate",
+  "type": "Bulk Carrier",
+  "imo": "9128104",
+  "callsign": "E6NL2",
+  "mmsi": "542399110"
+}, {
+  "name": "Lomaiviti-Princess-2",
+  "type": "Passenger Ro Ro Cargo Ship",
+  "imo": "7824924",
+  "callsign": "3DSX",
+  "mmsi": "520254000"
+}, {
+  "name": "Lomaiviti-Princess-V",
+  "type": "Passenger Ro Ro Cargo Ship",
+  "imo": "6404375",
+  "callsign": "3DSC",
+  "mmsi": "520318000"
+}, {
+  "name": "Lomba-Mas",
+  "type": "Oil Products Tanker",
+  "imo": "9208485",
+  "callsign": "YBZI2",
+  "mmsi": "525119052"
+}, {
+  "name": "Lombok",
+  "type": "Offshore Tug Supply Ship",
+  "imo": "9366316",
+  "callsign": "9VAN8",
+  "mmsi": "565148000"
+}, {
+  "name": "Lombok-Strait",
+  "type": "Refrigerated Cargo Ship",
+  "imo": "9204958",
+  "callsign": "9HA3797",
+  "mmsi": "256045000"
+}, {
+  "name": "Lomer-Gouin",
+  "type": "Ro Ro Cargo Ship",
+  "imo": "7109221",
+  "callsign": "VC7168",
+  "mmsi": "316007853"
+}, {
+  "name": "Lomonosov-Prospect",
+  "type": "Oil And Chemical Tanker",
+  "imo": "9826732",
+  "callsign": "D5QX5",
+  "mmsi": "636018688"
+}, {
+  "name": "Lomur",
+  "type": "General Cargo Ship",
+  "imo": "9251509",
+  "callsign": "ZDJV9",
+  "mmsi": "236572000"
+}, {
+  "name": "Loncura",
+  "type": "Tug",
+  "imo": "9453016",
+  "callsign": "CA2818",
+  "mmsi": "725000695"
+}, {
+  "name": "London-2012",
+  "type": "Bulk Carrier",
+  "imo": "9442756",
+  "callsign": "A8OD8",
+  "mmsi": "636013613"
+}, {
+  "name": "London-Courage",
+  "type": "Ore Carrier",
+  "imo": "9406465",
+  "callsign": "V7MY7",
+  "mmsi": "538002924"
+}, {
+  "name": "London-Express",
+  "type": "Container Ship",
+  "imo": "9143568",
+  "callsign": "ZCEV3",
+  "mmsi": "310765000"
+}, {
+  "name": "London-Highway",
+  "type": "Vehicles Carrier",
+  "imo": "9362267",
+  "callsign": "3EIF9",
+  "mmsi": "372148000"
+}, {
+  "name": "London-Spirit",
+  "type": "Ore Carrier",
+  "imo": "9312303",
+  "callsign": "C6WR4",
+  "mmsi": "309616000"
+}, {
+  "name": "London-Spirit",
+  "type": "Crude Oil Tanker",
+  "imo": "9594779",
+  "callsign": "C6CF3",
+  "mmsi": "311000455"
+}, {
+  "name": "London-Star",
+  "type": "Crude Oil Tanker",
+  "imo": "9330343",
+  "callsign": "A8KN4",
+  "mmsi": "636091196"
+}, {
+  "name": "Lone",
+  "type": "General Cargo Ship",
+  "imo": "9458913",
+  "callsign": "V2GL6",
+  "mmsi": "305983000"
+}, {
+  "name": "Lone-Star",
+  "type": "Bulk Carrier",
+  "imo": "9626601",
+  "callsign": "V7YG6",
+  "mmsi": "538004656"
+}, {
+  "name": "Lone.star",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9252072",
+  "callsign": "V7NG6",
+  "mmsi": "538002958"
+}, {
+  "name": "Lonestar-State",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9697985",
+  "callsign": "WLSY",
+  "mmsi": "367633000"
+}, {
+  "name": "Longbay",
+  "type": "General Cargo Ship",
+  "imo": "9576703",
+  "callsign": "V2GR6",
+  "mmsi": "304059000"
+}, {
+  "name": "Longbeach",
+  "type": "General Cargo Ship",
+  "imo": "9518426",
+  "callsign": "V2GR7",
+  "mmsi": "304060000"
+}, {
+  "name": "Long-Beach-Trader",
+  "type": "Container Ship",
+  "imo": "9327803",
+  "callsign": "9HA4052",
+  "mmsi": "256985000"
+}, {
+  "name": "Long-Chau",
+  "type": "Hopper Dredger",
+  "imo": "7000516",
+  "callsign": "XVHP",
+  "mmsi": "574805000"
+}, {
+  "name": "Long-Chau-02",
+  "type": "Hopper Dredger",
+  "imo": "9024281",
+  "callsign": "",
+  "mmsi": "574012181"
+}, {
+  "name": "Longdijk",
+  "type": "General Cargo Ship",
+  "imo": "9215658",
+  "callsign": "PBAB",
+  "mmsi": "244910000"
+}, {
+  "name": "Longduin",
+  "type": "General Cargo Ship",
+  "imo": "9213882",
+  "callsign": "PEBT",
+  "mmsi": "246484000"
+}, {
+  "name": "Long-En",
+  "type": "Crude Oil Tanker",
+  "imo": "9198331",
+  "callsign": "V3CI3",
+  "mmsi": "312065000"
+}, {
+  "name": "Longglory",
+  "type": "General Cargo Ship",
+  "imo": "9279408",
+  "callsign": "PBLG",
+  "mmsi": "244741000"
+}, {
+  "name": "Longhung-5",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9376933",
+  "callsign": "3FJR4",
+  "mmsi": "354077000"
+}, {
+  "name": "Long-Hu-San",
+  "type": "Crude Oil Tanker",
+  "imo": "9534054",
+  "callsign": "9V8388",
+  "mmsi": "566652000"
+}, {
+  "name": "Long-Island",
+  "type": "[tug.offshore_tug_supply]",
+  "imo": "8644383",
+  "callsign": "WDI4974",
+  "mmsi": "367376440"
+}, {
+  "name": "Long-Island",
+  "type": "General Cargo Ship",
+  "imo": "7711505",
+  "callsign": "VOXQ",
+  "mmsi": "316013990"
+}, {
+  "name": "Long-Phu-11",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9296573",
+  "callsign": "3WEC7",
+  "mmsi": "574003440"
+}, {
+  "name": "Long-Phu-18",
+  "type": "Oil Products Tanker",
+  "imo": "9218703",
+  "callsign": "3WDF9",
+  "mmsi": "574001050"
+}, {
+  "name": "Longrun",
+  "type": "General Cargo Ship",
+  "imo": "9556313",
+  "callsign": "PCEJ",
+  "mmsi": "244790509"
+}, {
+  "name": "Long-Shan-Hu",
+  "type": "Bulk Carrier",
+  "imo": "9238507",
+  "callsign": "BQWA",
+  "mmsi": "414315000"
+}, {
+  "name": "Longshore",
+  "type": "Bulk Carrier",
+  "imo": "9450806",
+  "callsign": "3FHW9",
+  "mmsi": "371985000"
+}, {
+  "name": "Longvann",
+  "type": "General Cargo Ship",
+  "imo": "9548304",
+  "callsign": "PBYB",
+  "mmsi": "246670000"
+}, {
+  "name": "Longview-Logger",
+  "type": "Bulk Carrier",
+  "imo": "9338541",
+  "callsign": "VRDK7",
+  "mmsi": "477969800"
+}, {
+  "name": "Longvik",
+  "type": "General Cargo Ship",
+  "imo": "9548299",
+  "callsign": "PBYA",
+  "mmsi": "246669000"
+}, {
+  "name": "Longviking",
+  "type": "General Cargo Ship",
+  "imo": "9547324",
+  "callsign": "PBNO",
+  "mmsi": "245901000"
+}, {
+  "name": "Longvind",
+  "type": "General Cargo Ship",
+  "imo": "9547336",
+  "callsign": "PBXX",
+  "mmsi": "246668000"
+}, {
+  "name": "Longwave",
+  "type": "General Cargo Ship",
+  "imo": "9287314",
+  "callsign": "PDGK",
+  "mmsi": "244130873"
+}, {
+  "name": "Lonian",
+  "type": "Sailing Vessel",
+  "imo": "9800087",
+  "callsign": "ZGHD4",
+  "mmsi": "319139700"
+}, {
+  "name": "Lonningen",
+  "type": "Fish Carrier",
+  "imo": "9191539",
+  "callsign": "LKLV",
+  "mmsi": "259335000"
+}, {
+  "name": "Lonnoy",
+  "type": "Fish Carrier",
+  "imo": "9197820",
+  "callsign": "LJTD",
+  "mmsi": "259657000"
+}, {
+  "name": "Looborg",
+  "type": "General Cargo Ship",
+  "imo": "9421087",
+  "callsign": "PCKQ",
+  "mmsi": "244830782"
+}, {
+  "name": "Loon",
+  "type": "Service Ship",
+  "imo": "8657732",
+  "callsign": "6YTN2",
+  "mmsi": "339694000"
+}, {
+  "name": "Loran",
+  "type": "Fish Carrier",
+  "imo": "9191357",
+  "callsign": "LJWR",
+  "mmsi": "259616000"
+}, {
+  "name": "Lorcon-Bacolod",
+  "type": "General Cargo Ship",
+  "imo": "9208693",
+  "callsign": "4DFF2",
+  "mmsi": "548061500"
+}, {
+  "name": "Lorcon-Dumaguete",
+  "type": "Container Ship",
+  "imo": "9200017",
+  "callsign": "4DEK2",
+  "mmsi": "548390100"
+}, {
+  "name": "Lorcon-Gen.santos",
+  "type": "Container Ship",
+  "imo": "9264233",
+  "callsign": "4DER9",
+  "mmsi": "548471100"
+}, {
+  "name": "Lorcon-Iloilo",
+  "type": "General Cargo Ship",
+  "imo": "9262015",
+  "callsign": "DUA3355",
+  "mmsi": "548662200"
+}, {
+  "name": "Lord-Byron",
+  "type": "Bulk Carrier",
+  "imo": "9291420",
+  "callsign": "V7HW7",
+  "mmsi": "538002322"
+}, {
+  "name": "Lord-Joy",
+  "type": "Container Ship",
+  "imo": "9100061",
+  "callsign": "V3VZ3",
+  "mmsi": "312511000"
+}, {
+  "name": "Lord-Mountbatten",
+  "type": "Bulk Carrier",
+  "imo": "9589712",
+  "callsign": "D5LV5",
+  "mmsi": "636017607"
+}, {
+  "name": "Lord-Nelson",
+  "type": "Bulk Carrier",
+  "imo": "9296315",
+  "callsign": "3EDG",
+  "mmsi": "371570000"
+}, {
+  "name": "Lord-Nelson",
+  "type": "Sailing Vessel",
+  "imo": "1002495",
+  "callsign": "GHJV",
+  "mmsi": "232003690"
+}, {
+  "name": "Lord-Of-The-Glens",
+  "type": "Cruise Ship",
+  "imo": "8966470",
+  "callsign": "ZQOE9",
+  "mmsi": "235000295"
+}, {
+  "name": "Lord-Of-The-Isles",
+  "type": "Passenger Ro Ro Cargo Ship",
+  "imo": "8710869",
+  "callsign": "MKHA7",
+  "mmsi": "232605000"
+}, {
+  "name": "Lord-Of-The-Seas",
+  "type": "Service Ship",
+  "imo": "8662610",
+  "callsign": "ZGFX3",
+  "mmsi": "319100900"
+}, {
+  "name": "Lordship",
+  "type": "Bulk Carrier",
+  "imo": "9519066",
+  "callsign": "A8SZ3",
+  "mmsi": "636017745"
+}, {
+  "name": "Lord-Star",
+  "type": "Bulk Carrier",
+  "imo": "9658680",
+  "callsign": "3FUG5",
+  "mmsi": "370879000"
+}, {
+  "name": "Lord-Vishnu",
+  "type": "Vehicles Carrier",
+  "imo": "9367578",
+  "callsign": "9VHF9",
+  "mmsi": "565947000"
+}, {
+  "name": "Lord-Wellington",
+  "type": "Bulk Carrier",
+  "imo": "9317755",
+  "callsign": "3EAS6",
+  "mmsi": "356105000"
+}, {
+  "name": "Lorelay",
+  "type": "Pipe Layer",
+  "imo": "7349807",
+  "callsign": "9HA4115",
+  "mmsi": "249119000"
+}, {
+  "name": "Lorelei",
+  "type": "Oil Products Tanker",
+  "imo": "9314179",
+  "callsign": "V7CD3",
+  "mmsi": "538005244"
+}, {
+  "name": "Lorena-B",
+  "type": "Oil Products Tanker",
+  "imo": "9438212",
+  "callsign": "3ETK6",
+  "mmsi": "370593000"
+}, {
+  "name": "Lorena-Br",
+  "type": "Oil Products Tanker",
+  "imo": "8617055",
+  "callsign": "PPTA",
+  "mmsi": "710074016"
+}, {
+  "name": "Loren-Prima",
+  "type": "Offshore Tug Supply Ship",
+  "imo": "8973629",
+  "callsign": "IJII2",
+  "mmsi": "247360800"
+}, {
+  "name": "Lorentzos",
+  "type": "Bulk Carrier",
+  "imo": "9282871",
+  "callsign": "SXTD",
+  "mmsi": "240272000"
+}, {
+  "name": "Lorenzo-Sea",
+  "type": "Oil Products Tanker",
+  "imo": "9387176",
+  "callsign": "D5KW4",
+  "mmsi": "636017420"
+}, {
+  "name": "Lore-Prahm",
+  "type": "Multi Purpose Carrier",
+  "imo": "8915902",
+  "callsign": "DCBT",
+  "mmsi": "218706000"
+}, {
+  "name": "Loreto",
+  "type": "Bulk Carrier",
+  "imo": "9304203",
+  "callsign": "CBLT",
+  "mmsi": "725019109"
+}, {
+  "name": "Loretta",
+  "type": "Service Ship",
+  "imo": "9564932",
+  "callsign": "ZCYU2",
+  "mmsi": "319010500"
+}, {
+  "name": "Lori",
+  "type": "Container Ship",
+  "imo": "9631125",
+  "callsign": "V7ET5",
+  "mmsi": "538007231"
+}, {
+  "name": "Lorient",
+  "type": "Bulk Carrier",
+  "imo": "9336892",
+  "callsign": "V7HN5",
+  "mmsi": "538005853"
+}, {
+  "name": "Lorraine",
+  "type": "Container Ship",
+  "imo": "9311763",
+  "callsign": "A8IZ3",
+  "mmsi": "636012905"
+}, {
+  "name": "Lory",
+  "type": "Bulk Carrier",
+  "imo": "9224776",
+  "callsign": "D6A2574",
+  "mmsi": "620574000"
+}, {
+  "name": "Los-Andes-Bridge",
+  "type": "Container Ship",
+  "imo": "9451472",
+  "callsign": "3EWK3",
+  "mmsi": "354118000"
+}, {
+  "name": "Los-Angeles",
+  "type": "Bulk Carrier",
+  "imo": "9588483",
+  "callsign": "V7XJ2",
+  "mmsi": "538004492"
+}, {
+  "name": "Los-Angeles-Spirit",
+  "type": "Crude Oil Tanker",
+  "imo": "9318072",
+  "callsign": "C6CC8",
+  "mmsi": "311000436"
+}, {
+  "name": "Los-Angeles-Trader",
+  "type": "Container Ship",
+  "imo": "9327798",
+  "callsign": "9HA4053",
+  "mmsi": "256989000"
+}, {
+  "name": "Losinjanka",
+  "type": "Passenger Ro Ro Cargo Ship",
+  "imo": "7038513",
+  "callsign": "9A2178",
+  "mmsi": "238115140"
+}, {
+  "name": "Losna",
+  "type": "Passenger Ro Ro Cargo Ship",
+  "imo": "9771640",
+  "callsign": "LDPM",
+  "mmsi": "257949600"
+}, {
+  "name": "Lote",
+  "type": "Passenger Ro Ro Cargo Ship",
+  "imo": "9361184",
+  "callsign": "LNVD",
+  "mmsi": "259125000"
+}, {
+  "name": "Loth-Lorien",
+  "type": "Cruise Ship",
+  "imo": "5254151",
+  "callsign": "PFPF",
+  "mmsi": "245994000"
+}, {
+  "name": "Lotos-Petrobaltic",
+  "type": "Drilling Ship",
+  "imo": "8762616",
+  "callsign": "SPLB",
+  "mmsi": "261526000"
+}, {
+  "name": "Lotta-Auerbach",
+  "type": "General Cargo Ship",
+  "imo": "9358022",
+  "callsign": "D5SO2",
+  "mmsi": "636092893"
+}, {
+  "name": "Lotta-Vg",
+  "type": "General Cargo Ship",
+  "imo": "9155975",
+  "callsign": "5BDP4",
+  "mmsi": "212369000"
+}, {
+  "name": "Lotus",
+  "type": "Bulk Carrier",
+  "imo": "9234214",
+  "callsign": "3FCX4",
+  "mmsi": "354995000"
+}, {
+  "name": "Lotus",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9297137",
+  "callsign": "SBAO",
+  "mmsi": "266473000"
+}, {
+  "name": "Lotus-Coral",
+  "type": "Lpg Tanker",
+  "imo": "9643996",
+  "callsign": "3EXZ8",
+  "mmsi": "354555000"
+}, {
+  "name": "Lotus-Gas",
+  "type": "Lpg Tanker",
+  "imo": "9405887",
+  "callsign": "3ETQ6",
+  "mmsi": "370642000"
+}, {
+  "name": "Lotus-Leader",
+  "type": "Vehicles Carrier",
+  "imo": "9202883",
+  "callsign": "3FSF9",
+  "mmsi": "357741000"
+}, {
+  "name": "Lotus-River",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9005194",
+  "callsign": "9LU2247",
+  "mmsi": "667001444"
+}, {
+  "name": "Lotus-Sambu",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9431745",
+  "callsign": "DSQI2",
+  "mmsi": "441587000"
+}, {
+  "name": "Lough-Foyle",
+  "type": "Hopper Dredger",
+  "imo": "7823310",
+  "callsign": "2CFK3",
+  "mmsi": "235072313"
+}, {
+  "name": "Louhi",
+  "type": "Pollution Control Vessel",
+  "imo": "9500845",
+  "callsign": "OJBP",
+  "mmsi": "230616000"
+}, {
+  "name": "Louie",
+  "type": "Crude Oil Tanker",
+  "imo": "9353113",
+  "callsign": "V7A2239",
+  "mmsi": "538008325"
+}, {
+  "name": "Louis",
+  "type": "General Cargo Ship",
+  "imo": "9501679",
+  "callsign": "V2QJ6",
+  "mmsi": "305835000"
+}, {
+  "name": "Louisa-Bolten",
+  "type": "Bulk Carrier",
+  "imo": "9406049",
+  "callsign": "A8SS6",
+  "mmsi": "636091776"
+}, {
+  "name": "Louisa-Schulte",
+  "type": "Container Ship",
+  "imo": "9435674",
+  "callsign": "9VFK8",
+  "mmsi": "565787000"
+}, {
+  "name": "Louise",
+  "type": "Container Ship",
+  "imo": "9631137",
+  "callsign": "D5FF3",
+  "mmsi": "636016247"
+}, {
+  "name": "Louise",
+  "type": "Oil Products Tanker",
+  "imo": "9213181",
+  "callsign": "YCGN2",
+  "mmsi": "525200246"
+}, {
+  "name": "Louise-Auerbach",
+  "type": "General Cargo Ship",
+  "imo": "9388895",
+  "callsign": "D5SN9",
+  "mmsi": "636092892"
+}, {
+  "name": "Louise-B",
+  "type": "Bulk Carrier",
+  "imo": "9613678",
+  "callsign": "D5JM3",
+  "mmsi": "636017138"
+}, {
+  "name": "Louise-Borchard",
+  "type": "Container Ship",
+  "imo": "9336294",
+  "callsign": "V2BR2",
+  "mmsi": "305765000"
+}, {
+  "name": "Louise-Bulker",
+  "type": "Bulk Carrier",
+  "imo": "9424089",
+  "callsign": "OWFR2",
+  "mmsi": "219607000"
+}, {
+  "name": "Louisiana",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9704790",
+  "callsign": "WLOZ",
+  "mmsi": "338110000"
+}, {
+  "name": "Louisiana-Mama",
+  "type": "Bulk Carrier",
+  "imo": "9583108",
+  "callsign": "D5OF5",
+  "mmsi": "636018112"
+}, {
+  "name": "Louisiana-Responder",
+  "type": "Pollution Control Vessel",
+  "imo": "9044657",
+  "callsign": "WB08576",
+  "mmsi": "366592000"
+}, {
+  "name": "Louisiana-Trader",
+  "type": "Container Ship",
+  "imo": "9357121",
+  "callsign": "9HA3878",
+  "mmsi": "256302000"
+}, {
+  "name": "Louis-Jolliet",
+  "type": "Passenger Ship",
+  "imo": "5212749",
+  "callsign": "VA7153",
+  "mmsi": "316013356"
+}, {
+  "name": "Louis-S",
+  "type": "Container Ship",
+  "imo": "9219381",
+  "callsign": "V2CY",
+  "mmsi": "304504000"
+}, {
+  "name": "Louis-S-St-Laurent",
+  "type": "Icebreaker",
+  "imo": "6705937",
+  "callsign": "CGBN",
+  "mmsi": "316165000"
+}, {
+  "name": "Louisville",
+  "type": "Service Ship",
+  "imo": "8976504",
+  "callsign": "WDD4984",
+  "mmsi": "366856070"
+}, {
+  "name": "Loukas-I",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9281578",
+  "callsign": "C4FD2",
+  "mmsi": "209946000"
+}, {
+  "name": "Lourdes-C",
+  "type": "[tug.salvage_tug]",
+  "imo": "9170341",
+  "callsign": "IFXZ",
+  "mmsi": "247469000"
+}, {
+  "name": "Louwe-Senior",
+  "type": "Fishing Vessel",
+  "imo": "9242003",
+  "callsign": "VSLB9",
+  "mmsi": "235003170"
+}, {
+  "name": "Loveland-Island",
+  "type": "Bulk Carrier",
+  "imo": "9573957",
+  "callsign": "H3BB",
+  "mmsi": "354174000"
+}, {
+  "name": "Lovely-Klara",
+  "type": "Bulk Carrier",
+  "imo": "9258325",
+  "callsign": "VROA4",
+  "mmsi": "477289400"
+}, {
+  "name": "Lovelylady",
+  "type": "Crude Oil Tanker",
+  "imo": "9158161",
+  "callsign": "9HIE6",
+  "mmsi": "248536000"
+}, {
+  "name": "Lovina",
+  "type": "Crude Oil Tanker",
+  "imo": "9308833",
+  "callsign": "V7A2286",
+  "mmsi": "538008370"
+}, {
+  "name": "Lovon",
+  "type": "Fishing Vessel",
+  "imo": "9644782",
+  "callsign": "SJKE",
+  "mmsi": "266353000"
+}, {
+  "name": "Lovund",
+  "type": "Passenger Ro Ro Cargo Ship",
+  "imo": "9664471",
+  "callsign": "LDIP",
+  "mmsi": "258694000"
+}, {
+  "name": "Lowlands-Amstel",
+  "type": "Bulk Carrier",
+  "imo": "9738947",
+  "callsign": "3FAE3",
+  "mmsi": "371941000"
+}, {
+  "name": "Lowlands-Beacon",
+  "type": "Bulk Carrier",
+  "imo": "9590917",
+  "callsign": "V7WV6",
+  "mmsi": "538004405"
+}, {
+  "name": "Lowlands-Brabo",
+  "type": "General Cargo Ship",
+  "imo": "9400916",
+  "callsign": "3EZP6",
+  "mmsi": "354565000"
+}, {
+  "name": "Lowlands-Breeze",
+  "type": "Bulk Carrier",
+  "imo": "9660097",
+  "callsign": "3FUJ5",
+  "mmsi": "371873000"
+}, {
+  "name": "Lowlands-Brilliance",
+  "type": "Bulk Carrier",
+  "imo": "9227003",
+  "callsign": "9V6265",
+  "mmsi": "563079200"
+}, {
+  "name": "Lowlands-Comfort",
+  "type": "Bulk Carrier",
+  "imo": "9728136",
+  "callsign": "3FGQ7",
+  "mmsi": "374423000"
+}, {
+  "name": "Lowlands-Dawn",
+  "type": "Bulk Carrier",
+  "imo": "9789946",
+  "callsign": "9V5341",
+  "mmsi": "563025700"
+}, {
+  "name": "Lowlands-Energy",
+  "type": "Bulk Carrier",
+  "imo": "9641869",
+  "callsign": "3EZU3",
+  "mmsi": "356530000"
+}, {
+  "name": "Lowlands-Erica",
+  "type": "Bulk Carrier",
+  "imo": "9345611",
+  "callsign": "3EJD3",
+  "mmsi": "372480000"
+}, {
+  "name": "Lowlands-Green",
+  "type": "Bulk Carrier",
+  "imo": "9591595",
+  "callsign": "9V6320",
+  "mmsi": "563081400"
+}, {
+  "name": "Lowlands-Hope",
+  "type": "Bulk Carrier",
+  "imo": "9727182",
+  "callsign": "9V5326",
+  "mmsi": "563012500"
+}, {
+  "name": "Lowlands-Kamsar",
+  "type": "Bulk Carrier",
+  "imo": "9461154",
+  "callsign": "3FCG2",
+  "mmsi": "351916000"
+}, {
+  "name": "Lowlands-Light",
+  "type": "Bulk Carrier",
+  "imo": "9781982",
+  "callsign": "9V5343",
+  "mmsi": "563013400"
+}, {
+  "name": "Lowlands-Maine",
+  "type": "Bulk Carrier",
+  "imo": "9304239",
+  "callsign": "H9JU",
+  "mmsi": "352957000"
+}, {
+  "name": "Lowlands-Nello",
+  "type": "Bulk Carrier",
+  "imo": "9724192",
+  "callsign": "9V5332",
+  "mmsi": "563029700"
+}, {
+  "name": "Lowlands-Opal",
+  "type": "Bulk Carrier",
+  "imo": "9317559",
+  "callsign": "9V5329",
+  "mmsi": "563012100"
+}, {
+  "name": "Lowlands-Orchid",
+  "type": "Bulk Carrier",
+  "imo": "9271614",
+  "callsign": "9V5328",
+  "mmsi": "563010900"
+}, {
+  "name": "Lowlands-Patrasche",
+  "type": "Bulk Carrier",
+  "imo": "9520675",
+  "callsign": "V7AO6",
+  "mmsi": "538005037"
+}, {
+  "name": "Lowlands-Prosperity",
+  "type": "Bulk Carrier",
+  "imo": "9586813",
+  "callsign": "9V2589",
+  "mmsi": "564353000"
+}, {
+  "name": "Lowlands-Rise",
+  "type": "Bulk Carrier",
+  "imo": "9659828",
+  "callsign": "9V5373",
+  "mmsi": "563014500"
+}, {
+  "name": "Lowlands-Scheldt",
+  "type": "General Cargo Ship",
+  "imo": "9491587",
+  "callsign": "3EUR4",
+  "mmsi": "351256000"
+}, {
+  "name": "Lowlands-Serenity",
+  "type": "Bulk Carrier",
+  "imo": "9581758",
+  "callsign": "3FST4",
+  "mmsi": "370096000"
+}, {
+  "name": "Lowlands-Sunrise",
+  "type": "Bulk Carrier",
+  "imo": "9590826",
+  "callsign": "3FTM7",
+  "mmsi": "355281000"
+}, {
+  "name": "Lowlands-Tenacity",
+  "type": "Bulk Carrier",
+  "imo": "9586801",
+  "callsign": "9V5648",
+  "mmsi": "563033600"
+}, {
+  "name": "Loxandra",
+  "type": "Bulk Carrier",
+  "imo": "9343871",
+  "callsign": "A8NV2",
+  "mmsi": "636013564"
+}, {
+  "name": "Loyalty",
+  "type": "Bulk Carrier",
+  "imo": "9497488",
+  "callsign": "A8XS8",
+  "mmsi": "636014964"
+}, {
+  "name": "Loyalty",
+  "type": "Oil Products Tanker",
+  "imo": "9207716",
+  "callsign": "AWYW",
+  "mmsi": "419001375"
+}, {
+  "name": "Loyga",
+  "type": "General Cargo Ship",
+  "imo": "8004791",
+  "callsign": "V3ZG",
+  "mmsi": "312770000"
+}, {
+  "name": "Loza",
+  "type": "Bulk Carrier",
+  "imo": "9522958",
+  "callsign": "9HA3221",
+  "mmsi": "229311000"
+}, {
+  "name": "Lpgc-Amelia-2",
+  "type": "Lpg Tanker",
+  "imo": "8605090",
+  "callsign": "POAB",
+  "mmsi": "525022064"
+}, {
+  "name": "Lpgc-Cipta-Diamond",
+  "type": "Lpg Tanker",
+  "imo": "9244415",
+  "callsign": "YBWE2",
+  "mmsi": "525100545"
+}, {
+  "name": "Lpgc-Eleanor-I",
+  "type": "Lpg Tanker",
+  "imo": "9005106",
+  "callsign": "JZWH",
+  "mmsi": "525006189"
+}, {
+  "name": "Lpgc-Grace-V",
+  "type": "Lpg Tanker",
+  "imo": "8904989",
+  "callsign": "YBEL2",
+  "mmsi": "525020431"
+}, {
+  "name": "Lpgc-Odergas",
+  "type": "Lpg Tanker",
+  "imo": "9135793",
+  "callsign": "ELXM8",
+  "mmsi": "636016188"
+}, {
+  "name": "Lpgc-Pupuk-Indonesia",
+  "type": "Lpg Tanker",
+  "imo": "9034717",
+  "callsign": "YBBU2",
+  "mmsi": "525018505"
+}, {
+  "name": "Lpgc-Taurogas",
+  "type": "Lpg Tanker",
+  "imo": "9031985",
+  "callsign": "3FPC7",
+  "mmsi": "356763000"
+}, {
+  "name": "Lpg-Laura",
+  "type": "Lpg Tanker",
+  "imo": "9238959",
+  "callsign": "DUFN",
+  "mmsi": "548463100"
+}, {
+  "name": "Lpg-Melina",
+  "type": "Lpg Tanker",
+  "imo": "8411243",
+  "callsign": "SYFW",
+  "mmsi": "239953000"
+}, {
+  "name": "Lpg-Tirumala-Gas",
+  "type": "Lpg Tanker",
+  "imo": "9034705",
+  "callsign": "AWJQ",
+  "mmsi": "419000974"
+}, {
+  "name": "Lp-Maru-No.17",
+  "type": "Lpg Tanker",
+  "imo": "9805958",
+  "callsign": "JD4138",
+  "mmsi": "431009327"
+}, {
+  "name": "Lp-Puma",
+  "type": "Offshore Tug Supply Ship",
+  "imo": "9679359",
+  "callsign": "XCAD3",
+  "mmsi": "345070332"
+}, {
+  "name": "Lr1-Ambassador",
+  "type": "Crude Oil Tanker",
+  "imo": "9307085",
+  "callsign": "D5RS6",
+  "mmsi": "636018861"
+}, {
+  "name": "Lr1-Carrier",
+  "type": "Crude Oil Tanker",
+  "imo": "9307102",
+  "callsign": "D5RS7",
+  "mmsi": "636018862"
+}, {
+  "name": "Lr2-Eternity",
+  "type": "Crude Oil Tanker",
+  "imo": "9323974",
+  "callsign": "D5RS5",
+  "mmsi": "636018860"
+}, {
+  "name": "Lr2-Pioneer",
+  "type": "Crude Oil Tanker",
+  "imo": "9378618",
+  "callsign": "VREE7",
+  "mmsi": "477114400"
+}, {
+  "name": "Lr2-Polaris",
+  "type": "Crude Oil Tanker",
+  "imo": "9378620",
+  "callsign": "VREK2",
+  "mmsi": "477141900"
+}, {
+  "name": "Lr2-Poseidon",
+  "type": "Crude Oil Tanker",
+  "imo": "9378632",
+  "callsign": "VREV2",
+  "mmsi": "477185700"
+}, {
+  "name": "Ls-Anne",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9418925",
+  "callsign": "ZDIR2",
+  "mmsi": "236476000"
+}, {
+  "name": "Ls-Christine",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9302009",
+  "callsign": "ZDHW4",
+  "mmsi": "236379000"
+}, {
+  "name": "Ls-Concorde",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9250050",
+  "callsign": "ZDHJ7",
+  "mmsi": "236329000"
+}, {
+  "name": "Ls-Eva",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9379478",
+  "callsign": "ZDHU4",
+  "mmsi": "236364000"
+}, {
+  "name": "Ls-Evanne",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9519614",
+  "callsign": "ZDKW3",
+  "mmsi": "236111827"
+}, {
+  "name": "Ls-Jacoba",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9334428",
+  "callsign": "ZDHL2",
+  "mmsi": "236335000"
+}, {
+  "name": "Ls-Jamie",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9418937",
+  "callsign": "ZDJB7",
+  "mmsi": "236507000"
+}, {
+  "name": "Lsm.-Nusantara",
+  "type": "Offshore Tug Supply Ship",
+  "imo": "9512977",
+  "callsign": "POSD",
+  "mmsi": "525016717"
+}, {
+  "name": "Lss-Success",
+  "type": "Livestock Carrier",
+  "imo": "6927092",
+  "callsign": "3FZR8",
+  "mmsi": "374365000"
+}, {
+  "name": "Lt-43-Annalijdia",
+  "type": "Fishing Vessel",
+  "imo": "9828821",
+  "callsign": "MDDI7",
+  "mmsi": "232015678"
+}, {
+  "name": "Lts-3000",
+  "type": "Pipe Layer",
+  "imo": "9446843",
+  "callsign": "AVIS",
+  "mmsi": "419000205"
+}, {
+  "name": "Ltu-Sar-Ship-Sakiai",
+  "type": "Salvage Ship",
+  "imo": "8727721",
+  "callsign": "LYKP",
+  "mmsi": "277078000"
+}, {
+  "name": "Luanda-1",
+  "type": "Offshore Tug Supply Ship",
+  "imo": "9372705",
+  "callsign": "3FWF5",
+  "mmsi": "357029000"
+}, {
+  "name": "Luban",
+  "type": "General Cargo Ship",
+  "imo": "8311534",
+  "callsign": "5VCN9",
+  "mmsi": "671443000"
+}, {
+  "name": "Lubara",
+  "type": "Lpg Tanker",
+  "imo": "9359478",
+  "callsign": "V7CH2",
+  "mmsi": "538005257"
+}, {
+  "name": "Lubenice",
+  "type": "Passenger Ro Ro Cargo Ship",
+  "imo": "8351118",
+  "callsign": "9A6503",
+  "mmsi": "238955640"
+}, {
+  "name": "Lubersac",
+  "type": "Lpg Tanker",
+  "imo": "9515981",
+  "callsign": "VRKG6",
+  "mmsi": "477413500"
+}, {
+  "name": "Lubie",
+  "type": "Bulk Carrier",
+  "imo": "9441984",
+  "callsign": "C6YJ3",
+  "mmsi": "311033500"
+}, {
+  "name": "Lubquest",
+  "type": "Oil Products Tanker",
+  "imo": "9239719",
+  "callsign": "9V5916",
+  "mmsi": "563014650"
+}, {
+  "name": "Luca",
+  "type": "General Cargo Ship",
+  "imo": "9286712",
+  "callsign": "CQAT6",
+  "mmsi": "255806272"
+}, {
+  "name": "Luca-Ievoli",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9250086",
+  "callsign": "IBFD",
+  "mmsi": "247069600"
+}, {
+  "name": "Lucena-Carrier",
+  "type": "Refrigerated Cargo Ship",
+  "imo": "9179402",
+  "callsign": "3FXS9",
+  "mmsi": "373246000"
+}, {
+  "name": "Lucent",
+  "type": "Bulk Carrier",
+  "imo": "9142215",
+  "callsign": "3EAY8",
+  "mmsi": "370234000"
+}, {
+  "name": "Luchistyy",
+  "type": "Fish Carrier",
+  "imo": "8035087",
+  "callsign": "UHTH",
+  "mmsi": "273825810"
+}, {
+  "name": "Lucia",
+  "type": "Pusher Tug",
+  "imo": "8899562",
+  "callsign": "WDG9751",
+  "mmsi": "366920920"
+}, {
+  "name": "Lucia-Ambition",
+  "type": "Lng Tanker",
+  "imo": "9016492",
+  "callsign": "HOTC",
+  "mmsi": "372255000"
+}, {
+  "name": "Lucia-M",
+  "type": "Service Ship",
+  "imo": "9586784",
+  "callsign": "LXLB",
+  "mmsi": "253412000"
+}, {
+  "name": "Luciana",
+  "type": "Passenger Ship",
+  "imo": "5185881",
+  "callsign": "PFQK",
+  "mmsi": "244585000"
+}, {
+  "name": "Luciano-B",
+  "type": "Tug",
+  "imo": "8203323",
+  "callsign": "LW5821",
+  "mmsi": "701000871"
+}, {
+  "name": "Lucien-G.a",
+  "type": "Container Ship",
+  "imo": "9242297",
+  "callsign": "TCCA9",
+  "mmsi": "271000677"
+}, {
+  "name": "Lucien-L",
+  "type": "Passenger Ship",
+  "imo": "6721981",
+  "callsign": "VC6946",
+  "mmsi": "316007857"
+}, {
+  "name": "Lucie-Schulte",
+  "type": "Container Ship",
+  "imo": "9301926",
+  "callsign": "9VEK9",
+  "mmsi": "565213000"
+}, {
+  "name": "Lucimar",
+  "type": "Fishing Vessel",
+  "imo": "7813195",
+  "callsign": "CUUN",
+  "mmsi": "263428000"
+}, {
+  "name": "Lucina-Providence",
+  "type": "Lpg Tanker",
+  "imo": "9349784",
+  "callsign": "HPVN",
+  "mmsi": "370914000"
+}, {
+  "name": "Luck-Grow-168",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9153800",
+  "callsign": "T8A2994",
+  "mmsi": "511850000"
+}, {
+  "name": "Lucky-Alice",
+  "type": "General Cargo Ship",
+  "imo": "9801586",
+  "callsign": "HP9537",
+  "mmsi": "374965000"
+}, {
+  "name": "Lucky-Bay",
+  "type": "Bulk Carrier",
+  "imo": "9263772",
+  "callsign": "VRXP2",
+  "mmsi": "354255000"
+}, {
+  "name": "Lucky-Brother",
+  "type": "General Cargo Ship",
+  "imo": "7917006",
+  "callsign": "T8YU",
+  "mmsi": "511009000"
+}, {
+  "name": "Lucky-Catherine",
+  "type": "General Cargo Ship",
+  "imo": "9334985",
+  "callsign": "3EDC6",
+  "mmsi": "356060000"
+}, {
+  "name": "Lucky-Grace",
+  "type": "General Cargo Ship",
+  "imo": "9207338",
+  "callsign": "9VHP9",
+  "mmsi": "565063000"
+}, {
+  "name": "Lucky-Jason",
+  "type": "Bulk Carrier",
+  "imo": "9244221",
+  "callsign": "H9DR",
+  "mmsi": "355701000"
+}, {
+  "name": "Lucky-Joy",
+  "type": "General Cargo Ship",
+  "imo": "8872801",
+  "callsign": "3EHA7",
+  "mmsi": "352273000"
+}, {
+  "name": "Lucky-Lady",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9288796",
+  "callsign": "9HA2958",
+  "mmsi": "256901000"
+}, {
+  "name": "Lucky-Lady",
+  "type": "Service Ship",
+  "imo": "1007328",
+  "callsign": "ZCGQ7",
+  "mmsi": "319713000"
+}, {
+  "name": "Lucky-Life",
+  "type": "Bulk Carrier",
+  "imo": "9668336",
+  "callsign": "V7A2292",
+  "mmsi": "538008376"
+}, {
+  "name": "Lucky-Loong",
+  "type": "Bulk Carrier",
+  "imo": "9287168",
+  "callsign": "3FBO8",
+  "mmsi": "372342000"
+}, {
+  "name": "Lucky-Merry",
+  "type": "Container Ship",
+  "imo": "9412842",
+  "callsign": "D5HZ4",
+  "mmsi": "636016825"
+}, {
+  "name": "Lucky-Ocean",
+  "type": "General Cargo Ship",
+  "imo": "9115638",
+  "callsign": "5VEM5",
+  "mmsi": "671815000"
+}, {
+  "name": "Lucky-Pioneer",
+  "type": "Bulk Carrier",
+  "imo": "9143714",
+  "callsign": "3FZE8",
+  "mmsi": "357619000"
+}, {
+  "name": "Lucky-Pioneer",
+  "type": "General Cargo Ship",
+  "imo": "9085065",
+  "callsign": "BNBC",
+  "mmsi": "416434000"
+}, {
+  "name": "Lucky-Sailor",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9464352",
+  "callsign": "9HA2192",
+  "mmsi": "248132000"
+}, {
+  "name": "Lucky-Seaman",
+  "type": "Bulk Carrier",
+  "imo": "9014406",
+  "callsign": "3EZB8",
+  "mmsi": "355436000"
+}, {
+  "name": "Lucky-Source",
+  "type": "Bulk Carrier",
+  "imo": "9333929",
+  "callsign": "9V5292",
+  "mmsi": "563013500"
+}, {
+  "name": "Lucky-Spirit",
+  "type": "Bulk Carrier",
+  "imo": "9144055",
+  "callsign": "3EEN4",
+  "mmsi": "354490000"
+}, {
+  "name": "Lucky-Star",
+  "type": "Bulk Carrier",
+  "imo": "9231327",
+  "callsign": "D5DP2",
+  "mmsi": "636015936"
+}, {
+  "name": "Lucky-Star",
+  "type": "Bulk Carrier",
+  "imo": "9140047",
+  "callsign": "T8A3065",
+  "mmsi": "511900000"
+}, {
+  "name": "Lucky-Star",
+  "type": "Bulk Carrier",
+  "imo": "9542582",
+  "callsign": "XVEA",
+  "mmsi": "574951000"
+}, {
+  "name": "Lucky-Star-11",
+  "type": "General Cargo Ship",
+  "imo": "9119062",
+  "callsign": "T8A2568",
+  "mmsi": "511482000"
+}, {
+  "name": "Lucky-Sunday",
+  "type": "Bulk Carrier",
+  "imo": "9404338",
+  "callsign": "H9XL",
+  "mmsi": "357100000"
+}, {
+  "name": "Lucky-Trader",
+  "type": "Bulk Carrier",
+  "imo": "9128075",
+  "callsign": "HOGJ",
+  "mmsi": "374533000"
+}, {
+  "name": "Lucky-Wisdom",
+  "type": "General Cargo Ship",
+  "imo": "9207340",
+  "callsign": "",
+  "mmsi": "565158000"
+}, {
+  "name": "Luctor",
+  "type": "Research Vessel",
+  "imo": "8510697",
+  "callsign": "PFQN",
+  "mmsi": "244486000"
+}, {
+  "name": "Luctor",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9479840",
+  "callsign": "3FIT6",
+  "mmsi": "373885000"
+}, {
+  "name": "Lucy-Borchard",
+  "type": "Container Ship",
+  "imo": "9390824",
+  "callsign": "V2CK9",
+  "mmsi": "305032000"
+}, {
+  "name": "Lucy-Essberger",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9140827",
+  "callsign": "PCDJ",
+  "mmsi": "246725000"
+}, {
+  "name": "Lucy-Ii",
+  "type": "Service Ship",
+  "imo": "1008889",
+  "callsign": "J8Y3894",
+  "mmsi": "376454000"
+}, {
+  "name": "Lucy-Iii",
+  "type": "Service Ship",
+  "imo": "8977479",
+  "callsign": "9HA4905",
+  "mmsi": "248996000"
+}, {
+  "name": "Lucy-J",
+  "type": "General Cargo Ship",
+  "imo": "7810208",
+  "callsign": "3FRU",
+  "mmsi": "374255000"
+}, {
+  "name": "Lucy-Pg",
+  "type": "Oil Products Tanker",
+  "imo": "9229013",
+  "callsign": "ZQWV5",
+  "mmsi": "235153000"
+}, {
+  "name": "Lu-Ding-Tan",
+  "type": "Crude Oil Tanker",
+  "imo": "9344942",
+  "callsign": "BPFX",
+  "mmsi": "413158000"
+}, {
+  "name": "Ludogorets",
+  "type": "Bulk Carrier",
+  "imo": "9415155",
+  "callsign": "9HA4362",
+  "mmsi": "249740000"
+}, {
+  "name": "Ludolf-Oldendorff",
+  "type": "Bulk Carrier",
+  "imo": "9691955",
+  "callsign": "CQFR",
+  "mmsi": "255805619"
+}, {
+  "name": "Ludwig-Prandtl",
+  "type": "Research Vessel",
+  "imo": "8332320",
+  "callsign": "DAOH",
+  "mmsi": "211269580"
+}, {
+  "name": "Ludwig-Schulte",
+  "type": "Container Ship",
+  "imo": "9435686",
+  "callsign": "9VFK9",
+  "mmsi": "565970000"
+}, {
+  "name": "Ludwigshafen-Express",
+  "type": "Container Ship",
+  "imo": "9613018",
+  "callsign": "DDOR2",
+  "mmsi": "218566000"
+}, {
+  "name": "Luebeck",
+  "type": "Container Ship",
+  "imo": "9216092",
+  "callsign": "D5CT3",
+  "mmsi": "636015775"
+}, {
+  "name": "Lufeng",
+  "type": "General Cargo Ship",
+  "imo": "9231200",
+  "callsign": "BTDW",
+  "mmsi": "412324880"
+}, {
+  "name": "Luga",
+  "type": "Oil Products Tanker",
+  "imo": "7804936",
+  "callsign": "UHNN",
+  "mmsi": "273432870"
+}, {
+  "name": "Luga",
+  "type": "Cement Carrier",
+  "imo": "8300614",
+  "callsign": "C6DJ4",
+  "mmsi": "311000692"
+}, {
+  "name": "Lugano",
+  "type": "Bulk Carrier",
+  "imo": "9244087",
+  "callsign": "HBLX",
+  "mmsi": "269665000"
+}, {
+  "name": "Luhnau",
+  "type": "General Cargo Ship",
+  "imo": "9213595",
+  "callsign": "V2BU1",
+  "mmsi": "304927000"
+}, {
+  "name": "Luisa-Caceres-De-Ari",
+  "type": "Oil Products Tanker",
+  "imo": "9117478",
+  "callsign": "YYHT",
+  "mmsi": "775053000"
+}, {
+  "name": "Luisa-Neri",
+  "type": "Tug",
+  "imo": "9695597",
+  "callsign": "IJIT2",
+  "mmsi": "247342700"
+}, {
+  "name": "Luis-Barranko",
+  "type": "Fishing Vessel",
+  "imo": "9154397",
+  "callsign": "EANQ",
+  "mmsi": "224019470"
+}, {
+  "name": "Luisella-Cosulich",
+  "type": "Oil Products Tanker",
+  "imo": "9664172",
+  "callsign": "9V6010",
+  "mmsi": "566608000"
+}, {
+  "name": "Luise-Oldendorff",
+  "type": "Bulk Carrier",
+  "imo": "9714240",
+  "callsign": "CQEI",
+  "mmsi": "255805685"
+}, {
+  "name": "Luke",
+  "type": "Offshore Tug Supply Ship",
+  "imo": "8982565",
+  "callsign": "WDC9569",
+  "mmsi": "367104040"
+}, {
+  "name": "Luke",
+  "type": "Lpg Tanker",
+  "imo": "9356919",
+  "callsign": "CQOU",
+  "mmsi": "255802950"
+}, {
+  "name": "Lulu",
+  "type": "Crude Oil Tanker",
+  "imo": "9237797",
+  "callsign": "HZGM",
+  "mmsi": "403590000"
+}, {
+  "name": "Lulusa",
+  "type": "Offshore Tug Supply Ship",
+  "imo": "9468774",
+  "callsign": "XCTT7",
+  "mmsi": "345070295"
+}, {
+  "name": "Lumen-N",
+  "type": "Oil Products Tanker",
+  "imo": "9346457",
+  "callsign": "3FPC4",
+  "mmsi": "355364000"
+}, {
+  "name": "Lumiere",
+  "type": "Service Ship",
+  "imo": "9028225",
+  "callsign": "V7YK2",
+  "mmsi": "538080097"
+}, {
+  "name": "Luminous",
+  "type": "Oil Products Tanker",
+  "imo": "9471446",
+  "callsign": "9VJM2",
+  "mmsi": "564671000"
+}, {
+  "name": "Luminous-Ace",
+  "type": "Vehicles Carrier",
+  "imo": "9110107",
+  "callsign": "3FSW4",
+  "mmsi": "370372000"
+}, {
+  "name": "Luminous-Nova",
+  "type": "Bulk Carrier",
+  "imo": "9643166",
+  "callsign": "V7AT2",
+  "mmsi": "538005062"
+}, {
+  "name": "Luminous-Sky",
+  "type": "Wood Chips Carrier",
+  "imo": "9303118",
+  "callsign": "3EBZ6",
+  "mmsi": "371493000"
+}, {
+  "name": "Lumoso-Aman",
+  "type": "Bulk Carrier",
+  "imo": "9263277",
+  "callsign": "YBAI2",
+  "mmsi": "525013039"
+}, {
+  "name": "Lumoso-Berkat",
+  "type": "Bulk Carrier",
+  "imo": "9346055",
+  "callsign": "YBEH2",
+  "mmsi": "525013041"
+}, {
+  "name": "Lumoso-Harmoni",
+  "type": "Bulk Carrier",
+  "imo": "9405461",
+  "callsign": "YBWP2",
+  "mmsi": "525113007"
+}, {
+  "name": "Lumoso-Hawari",
+  "type": "Bulk Carrier",
+  "imo": "9405473",
+  "callsign": "YCKM2",
+  "mmsi": "525113015"
+}, {
+  "name": "Lumoso-Jaya",
+  "type": "Bulk Carrier",
+  "imo": "9244283",
+  "callsign": "POEJ",
+  "mmsi": "525013017"
+}, {
+  "name": "Lumoso-Karunia-Ii",
+  "type": "Bulk Carrier",
+  "imo": "9443803",
+  "callsign": "YBPF2",
+  "mmsi": "525113003"
+}, {
+  "name": "Lumoso-Karunia-Ix",
+  "type": "Bulk Carrier",
+  "imo": "9397884",
+  "callsign": "YCQX2",
+  "mmsi": "525113018"
+}, {
+  "name": "Lumoso-Karunia-Viii",
+  "type": "Bulk Carrier",
+  "imo": "9478925",
+  "callsign": "YCDS2",
+  "mmsi": "525113011"
+}, {
+  "name": "Lumoso-Raya",
+  "type": "Bulk Carrier",
+  "imo": "9277204",
+  "callsign": "YCJH",
+  "mmsi": "525013025"
+}, {
+  "name": "Lumoso-Selamat",
+  "type": "Container Ship",
+  "imo": "9491630",
+  "callsign": "PMUK",
+  "mmsi": "525016466"
+}, {
+  "name": "Lumoso-Surya",
+  "type": "Bulk Carrier",
+  "imo": "9238222",
+  "callsign": "PLMN",
+  "mmsi": "525013037"
+}, {
+  "name": "Lumphini-Park",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9640114",
+  "callsign": "D5BR3",
+  "mmsi": "636015589"
+}, {
+  "name": "Luna",
+  "type": "Service Ship",
+  "imo": "1010222",
+  "callsign": "V7NV8",
+  "mmsi": "538071095"
+}, {
+  "name": "Luna",
+  "type": "Lpg Tanker",
+  "imo": "9043457",
+  "callsign": "OZ2180",
+  "mmsi": "231818000"
+}, {
+  "name": "Luna-B",
+  "type": "Service Ship",
+  "imo": "1008279",
+  "callsign": "ZCOD5",
+  "mmsi": "319398000"
+}, {
+  "name": "Luna-Maersk",
+  "type": "Container Ship",
+  "imo": "9190781",
+  "callsign": "OWFT2",
+  "mmsi": "220005000"
+}, {
+  "name": "Lunamar",
+  "type": "General Cargo Ship",
+  "imo": "9551662",
+  "callsign": "CQIK8",
+  "mmsi": "255805988"
+}, {
+  "name": "Lunar",
+  "type": "Service Ship",
+  "imo": "1012165",
+  "callsign": "2GVM4",
+  "mmsi": "235100877"
+}, {
+  "name": "Luna-Spirit",
+  "type": "Vehicles Carrier",
+  "imo": "9372315",
+  "callsign": "3EJS7",
+  "mmsi": "372610000"
+}, {
+  "name": "Lundstrom-Tide",
+  "type": "Offshore Tug Supply Ship",
+  "imo": "9608271",
+  "callsign": "YJTE2",
+  "mmsi": "577129000"
+}, {
+  "name": "Lundy-Sentinel",
+  "type": "Standby Safety Vessel",
+  "imo": "9696668",
+  "callsign": "CQAM6",
+  "mmsi": "255806216"
+}, {
+  "name": "Luneplate",
+  "type": "Pollution Control Vessel",
+  "imo": "9092264",
+  "callsign": "DHUM",
+  "mmsi": "211884000"
+}, {
+  "name": "Lunes-Santo",
+  "type": "Fishing Vessel",
+  "imo": "7388528",
+  "callsign": "LW5669",
+  "mmsi": "701006003"
+}, {
+  "name": "Lung-Mun",
+  "type": "General Cargo Ship",
+  "imo": "9145621",
+  "callsign": "VRKE8",
+  "mmsi": "477598500"
+}, {
+  "name": "Lung-Yuin",
+  "type": "Refrigerated Cargo Ship",
+  "imo": "9048603",
+  "callsign": "YJQP3",
+  "mmsi": "576728000"
+}, {
+  "name": "Luni",
+  "type": "Bulk Carrier",
+  "imo": "9070711",
+  "callsign": "D8DA",
+  "mmsi": "441997000"
+}, {
+  "name": "Lunita",
+  "type": "Bulk Carrier",
+  "imo": "9685621",
+  "callsign": "LATN7",
+  "mmsi": "257427000"
+}, {
+  "name": "Lupo",
+  "type": "Offshore Tug Supply Ship",
+  "imo": "8959506",
+  "callsign": "IQHZ",
+  "mmsi": "247097900"
+}, {
+  "name": "Lupo",
+  "type": "Tug",
+  "imo": "9734290",
+  "callsign": "HP9716",
+  "mmsi": "355893000"
+}, {
+  "name": "Luro",
+  "type": "General Cargo Ship",
+  "imo": "9263588",
+  "callsign": "PEAE",
+  "mmsi": "244059000"
+}, {
+  "name": "Luroey",
+  "type": "Passenger Ro Ro Cargo Ship",
+  "imo": "9221047",
+  "callsign": "LLGJ",
+  "mmsi": "257127000"
+}, {
+  "name": "Lusail",
+  "type": "Lng Tanker",
+  "imo": "9285952",
+  "callsign": "C6TH2",
+  "mmsi": "311628000"
+}, {
+  "name": "Lu-San",
+  "type": "Crude Oil Tanker",
+  "imo": "9418054",
+  "callsign": "9VAA7",
+  "mmsi": "563159000"
+}, {
+  "name": "Lusia-M",
+  "type": "Sailing Vessel",
+  "imo": "8673097",
+  "callsign": "ZGCX6",
+  "mmsi": "319053900"
+}, {
+  "name": "Lustrafjord",
+  "type": "Passenger Ro Ro Cargo Ship",
+  "imo": "6821016",
+  "callsign": "LADZ",
+  "mmsi": "257339400"
+}, {
+  "name": "Lutetia",
+  "type": "Container Ship",
+  "imo": "9246695",
+  "callsign": "A8GS7",
+  "mmsi": "636090856"
+}, {
+  "name": "Luther",
+  "type": "Tug",
+  "imo": "7427477",
+  "callsign": "WDK3484",
+  "mmsi": "368045710"
+}, {
+  "name": "Lutsen",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "9311646",
+  "callsign": "V7RS8",
+  "mmsi": "538006826"
+}, {
+  "name": "Luz-De-Mar",
+  "type": "Pollution Control Vessel",
+  "imo": "9320104",
+  "callsign": "ECIJ",
+  "mmsi": "224311000"
+}, {
+  "name": "Luzern",
+  "type": "Bulk Carrier",
+  "imo": "9240794",
+  "callsign": "HBLU",
+  "mmsi": "269036000"
+}, {
+  "name": "Luzon",
+  "type": "Bulk Carrier",
+  "imo": "9479008",
+  "callsign": "D5OV6",
+  "mmsi": "636018250"
+}, {
+  "name": "Luzon-Spirit",
+  "type": "Crude Oil Tanker",
+  "imo": "9572276",
+  "callsign": "C6CG7",
+  "mmsi": "311000467"
+}, {
+  "name": "Luzon-Strait",
+  "type": "Refrigerated Cargo Ship",
+  "imo": "9204960",
+  "callsign": "9HA3803",
+  "mmsi": "256064000"
+}, {
+  "name": "Luzon-Strait",
+  "type": "Bulk Carrier",
+  "imo": "9317793",
+  "callsign": "VRCJ2",
+  "mmsi": "477633300"
+}, {
+  "name": "Luzviminscoop-135",
+  "type": "General Cargo Ship",
+  "imo": "8909513",
+  "callsign": "DUH3862",
+  "mmsi": "548564500"
+}, {
+  "name": "Lv-North-Ocean-105",
+  "type": "Offshore Support Vessel",
+  "imo": "9433183",
+  "callsign": "9HA2997",
+  "mmsi": "229021000"
+}, {
+  "name": "Lybra",
+  "type": "General Cargo Ship",
+  "imo": "8034124",
+  "callsign": "IMEY",
+  "mmsi": "247106200"
+}, {
+  "name": "Lycaste-Peace",
+  "type": "Lpg Tanker",
+  "imo": "9249336",
+  "callsign": "HOWO",
+  "mmsi": "357261000"
+}, {
+  "name": "Lycavitos",
+  "type": "Bulk Carrier",
+  "imo": "9368857",
+  "callsign": "8PUS",
+  "mmsi": "314263000"
+}, {
+  "name": "Lydden",
+  "type": "Vehicles Carrier",
+  "imo": "9782091",
+  "callsign": "D5PY2",
+  "mmsi": "636018494"
+}, {
+  "name": "Lydia",
+  "type": "Multi Purpose Carrier",
+  "imo": "9125657",
+  "callsign": "9HA3076",
+  "mmsi": "229108000"
+}, {
+  "name": "Lydia",
+  "type": "Container Ship",
+  "imo": "9377573",
+  "callsign": "CQDQ",
+  "mmsi": "255805793"
+}, {
+  "name": "Lydia-D",
+  "type": "Tug",
+  "imo": "9582764",
+  "callsign": "FJZS",
+  "mmsi": "228098900"
+}, {
+  "name": "Lydia-Oldendorff",
+  "type": "Bulk Carrier",
+  "imo": "9699634",
+  "callsign": "D5GW5",
+  "mmsi": "636016585"
+}, {
+  "name": "Lyktos",
+  "type": "Ro Ro Cargo Ship",
+  "imo": "8401145",
+  "callsign": "V7ET4",
+  "mmsi": "538001859"
+}, {
+  "name": "Lyme-Bay",
+  "type": "Container Ship",
+  "imo": "9631113",
+  "callsign": "D5EG5",
+  "mmsi": "636016071"
+}, {
+  "name": "Lynn-S",
+  "type": "Chemical Oil Products Tanker",
+  "imo": "8706349",
+  "callsign": "J8B5544",
+  "mmsi": "376087000"
+}, {
+  "name": "Lynx",
+  "type": "Oil Products Tanker",
+  "imo": "9075395",
+  "callsign": "E5U3479",
+  "mmsi": "518100565"
+}, {
+  "name": "Lyra",
+  "type": "Refrigerated Cargo Ship",
+  "imo": "7826154",
+  "callsign": "UBOR",
+  "mmsi": "273420160"
+}, {
+  "name": "Lyra",
+  "type": "Multi Purpose Carrier",
+  "imo": "9155432",
+  "callsign": "CQIE6",
+  "mmsi": "255805938"
+}, {
+  "name": "Lyra-Leader",
+  "type": "Vehicles Carrier",
+  "imo": "9284752",
+  "callsign": "7JUM",
+  "mmsi": "431190000"
+}, {
+  "name": "Lyric-Harmony",
+  "type": "Bulk Carrier",
+  "imo": "9589164",
+  "callsign": "C6CG8",
+  "mmsi": "311000468"
+}, {
+  "name": "Lyric-Magnolia",
+  "type": "Crude Oil Tanker",
+  "imo": "9734408",
+  "callsign": "C6BT6",
+  "mmsi": "311000360"
+}, {
+  "name": "Lyric-Poet",
+  "type": "Bulk Carrier",
+  "imo": "9590577",
+  "callsign": "C6ZQ5",
+  "mmsi": "311063100"
+}, {
+  "name": "Lyric-Star",
+  "type": "Bulk Carrier",
+  "imo": "9586631",
+  "callsign": "C6ZG3",
+  "mmsi": "311054500"
+}]
