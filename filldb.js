@@ -1,9 +1,9 @@
 const fetch = require("node-fetch");
 const fs = require("fs");
 
-const abc = 'ABCDEFGHIKLMNOPQRSTVXYZ';
+const abc = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
 
-fillDB([], 1, abc.indexOf('V'));
+fillDB([], 1, abc.indexOf('W'));
 
 function fillDB(vsldb, page, lettreIndex) {
   let url = `https://www.vesseltracker.com/en/vessels.html?page=${page}&search=${abc[lettreIndex]}`;
@@ -51,7 +51,7 @@ function fillDB(vsldb, page, lettreIndex) {
 
         console.log('The file has been saved!');
         
-        if(abc[lettreIndex] !== 'V')
+        if(abc[lettreIndex] !== 'W')
           fillDB([], 1, lettreIndex + 1);
       });
     });

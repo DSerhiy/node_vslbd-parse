@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
+    "http-parser-js": "^0.5.1",
     "node-fetch": "^2.6.0",
     "nodemon": "^1.19.1"
   }
