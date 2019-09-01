@@ -1,7 +1,7 @@
 const fetch = require("node-fetch");
 const fs = require("fs");
 
-const vsldb = JSON.parse(fs.readFileSync('./vsl-db/db_V.json'));
+const vsldb = JSON.parse(fs.readFileSync('./vsl-db/db_Z.json'));
 
 fillVslDescription(vsldb);
 
@@ -24,7 +24,7 @@ function fillVslDescription(fleet, vslIndex = 0) {
       fleet[vslIndex].description = data.vdDesc;
       
       if(vslIndex === fleet.length - 1) {        
-        fs.writeFile("./vsl-descr/fleet_V.json", JSON.stringify(fleet), err => {
+        fs.writeFile("./vsl-descr/fleet_Z.json", JSON.stringify(fleet), err => {
           if (err) throw err;
           
           console.log('The file has been saved!');
