@@ -1,0 +1,52 @@
+[
+{
+    "model": "sources.vesselsource",
+    "fields": {
+        "name": "Sea Lady",
+        "built_year": "2001",
+        "type": "Handysize",
+        "imo": "9050147",
+        "dwt": 36580,
+        "sub_type": "Bulk carrier",
+        "gears": "Gearless",
+        "call_sign": null,
+        "mmsi": null,
+        "flag": "Greece",
+        "vessel_class": null,
+        "draft_summer": "9.75",
+        "tpc": null,
+        "loa": null,
+        "beam": null,
+        "lbp": null,
+        "grt": null,
+        "nrt": null,
+        "shipowner": null,
+        "full_description": ""
+    }
+},
+{
+    "model": "sources.vesselsource",
+    "fields": {
+        "name": "Aal Shanghai",
+        "built_year": "2012",
+        "type": "Handysize",
+        "imo": "9498377",
+        "dwt": 32106,
+        "sub_type": "Multi-Purpose Ship",
+        "gears": "Geared",
+        "call_sign": "5BUJ4",
+        "mmsi": "209079000",
+        "flag": "Marshall Islands",
+        "vessel_class": "Germanischer Lloyd",
+        "draft_summer": "11.20",
+        "tpc": "30.70",
+        "loa": "193.90",
+        "beam": "28.20",
+        "lbp": "183.00",
+        "grt": 23930,
+        "nrt": 10570,
+        "shipowner": "AUSTRAL ASIA LINE",
+        "full_description": "<B>MV</B> \\\"Aal Shanghai\\\"\\n-----------------\\n<B>CallSign:</B>\\tV7XW6\\n<B>Ex-Name(s) :</B>\\n   Shandong Huanghai HCY-96\\n\\n<B>Type :</B>\\tHandysize\\n<B>Sub type :</B> Multi-Purpose Ship\\r\\n<B>Gears :</B>\\t 2x350T Cranes<br> +  1x100T Cranes<br> +  1x50T Cranes<br>\\nBox-shaped\\n\\nHatch Dimensions (L x B)\\n\\nNo. 1: 12.64 x 15.40 m\\nNo. 2P: 25.28 x 12.80 m / No. 2S: 25.28 x 10.30 m\\nNo. 3P: 37.92 x 12.80 m / No. 3S: 37.92 x 10.30 m\\nNo. 4P: 31.60 x 12.80 m / No. 3S: 31.60 x 10.30 m\\nNo. 5: 12.64 x 24.10 m\\n\\n<B>Built :</B>\\t2012 by SHANDONG HUANGHAI\\n<B>Flag :</B>\\tMarshall Islands\\n<B>Class :</B>\\tGermanischer Lloyd\\n<B>DWT/Draft:</B>\\t32,106 MT DWT / 11.20 m SSW\\n<B>LOA/Beam :</B>\\t193.90 m (loa) / 28.20 m (beam)\\nLBP :\\t183 m\\n\\nInt'l tonnage : 23,930 GT / 10,570 NT\\n\\n   Summer salt : 32,106 MT DWT / 11.20 m SSW\\n\\n<B>Grain/Bale :</B>\\t39,507 cbm Grain / 39,500 cbm Bale\\n<B>Ho/Ha :</B>\\t5/8\\n<B>Hold capacity :</B>\\n No.1 : 2,135.70 cbm\\n No.2 : 8,153.50 cbm\\n No.3 : 13,945.40 cbm\\n No.4 : 11,539.70 cbm\\n No.5 : 3,732.40 cbm\\n\\n<B>Tank top strength (MT/m2) :</B>22.00\\n\\nStrengthened for heavy cargo\\n\\nCO2 fitted\\n<B>Depth moulded :</B>\\t15.5 m\\n\\n<B>Speed/cons :</B>\\n------------\\n Average  : abt 13 kts on IFO 27.5 MT (380CST)\\n\\n Average  : abt 12 kts on IFO  24.7 MT (380CST)\\n Port idle : 3.5 IFO\\n Port working : 7.5 IFO\\n -------------------------------------------------------\\n Above speed / consumption in good weather conditions   \\n upto/incl Beaufort Force 4 and Douglas Sea State 3 with\\n no adverse current and no negative influence of swell. \\n -------------------------------------------------------\\n\\n<B>IMO</B> : 9498377\\nShipowner : AUSTRAL ASIA LINE\\n-----------------------------------------------------\\nAll details given in good faith and without guarantee"
+    }
+}
+]
